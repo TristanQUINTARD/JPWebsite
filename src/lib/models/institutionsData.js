@@ -68,6 +68,11 @@ const institutionsData = {
       "Nom": "Conseil Constitutionnel",
       "Éléments": [
         {
+          "Nom": "Constitution",
+          "Description": "Loi fondamentale du pays, définissant les principes et les valeurs du gouvernement.",
+          "FonctionPrincipale": "Définition des principes et valeurs du gouvernement."
+        },
+        {
           "Nom": "Contrôle de Constitutionnalité",
           "Description": "Vérification que les lois et régulations respectent la constitution.",
           "FonctionPrincipale": "Assurer la primauté de la constitution."

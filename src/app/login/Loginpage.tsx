@@ -5,9 +5,9 @@ import Input from "../Components/ui/Input";
 import { Button } from "../Components/ui/Button";
 import Link from 'next/link';
 import { login } from '@/src/actions/user';
-import { signIn } from '@/src/auth';  // Importez signIn de votre fichier auth.ts
+  // Importez signIn de votre fichier auth.ts
 import { redirect } from 'next/navigation';
-import { getSession } from '@/lib/config/getSession';
+
 
 const Login = async () => {
     const [formData, setFormData] = useState({

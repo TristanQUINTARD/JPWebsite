@@ -1,10 +1,9 @@
-"use client";
+// InstitutionsTable.jsx
 import React, { useState, useCallback, useRef } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import institutionsData from '../../../lib/models/institutionsData';
 import './InstitutionsTable.css';
-import { InstitutionDetails } from './InstitutionDetails';
 
+// Popup component to show institution details on hover
 const Popup = ({ content, style }) => (
   <motion.div
     initial={{ opacity: 0, y: -10 }}
@@ -19,12 +18,12 @@ const Popup = ({ content, style }) => (
   </motion.div>
 );
 
-export const InstitutionsTable = ({ onItemClick }) => {
+export const InstitutionsTable = ({ onItemClick, countryData }) => {
   const [hoveredItem, setHoveredItem] = useState(null);
   const [popupStyle, setPopupStyle] = useState({});
   const [searchTerm, setSearchTerm] = useState('');
-  const [filterCountry, setFilterCountry] = useState('');
   const [expandedInstitutions, setExpandedInstitutions] = useState({});
+  const [selectedInstitution, setSelectedInstitution] = useState(null);
   const cellRefs = useRef(new Map());
 
   const handleMouseEnter = useCallback((event, element) => {
@@ -49,16 +48,22 @@ export const InstitutionsTable = ({ onItemClick }) => {
   }, []);
 
   const toggleInstitution = (institutionName) => {
-    setExpandedInstitutions(prev => ({
+    setExpandedInstitutions((prev) => ({
       ...prev,
-      [institutionName]: !prev[institutionName]
+      [institutionName]: !prev[institutionName],
     }));
   };
 
-  const filteredInstitutions = institutionsData.Institutions.filter(institution =>
-    institution.Éléments.some(element =>
-      element.Nom.toLowerCase().includes(searchTerm.toLowerCase()) &&
-      (filterCountry === '' || element.Pays === filterCountry)
+  const handleInstitutionSelect = (institution) => {
+    setSelectedInstitution(institution);
+    setExpandedInstitutions({
+      [institution.Nom]: true,
+    });
+  };
+
+  const filteredInstitutions = countryData?.Institutions.filter((institution) =>
+    institution.Éléments.some((element) =>
+      element.Nom.toLowerCase().includes(searchTerm.toLowerCase())
     )
   );
 
@@ -72,19 +77,30 @@ export const InstitutionsTable = ({ onItemClick }) => {
           onChange={(e) => setSearchTerm(e.target.value)}
         />
         <select
-          value={filterCountry}
-          onChange={(e) => setFilterCountry(e.target.value)}
+          value={selectedInstitution ? selectedInstitution.Nom : ''}
+          onChange={(e) =>
+            handleInstitutionSelect(
+              countryData.Institutions.find((i) => i.Nom === e.target.value)
+            )
+          }
         >
-          <option value="">Tous les pays</option>
-          {/* Ajoutez les options de pays ici */}
+          <option value="">Sélectionnez une institution</option>
+          {countryData?.Institutions.map((institution) => (
+            <option key={institution.Nom} value={institution.Nom}>
+              {institution.Nom}
+            </option>
+          ))}
         </select>
       </div>
       <div className="accordion">
-        {filteredInstitutions.map((institution) => (
+        {filteredInstitutions?.map((institution) => (
           <div key={institution.Nom} className="institution-item">
             <button
               className="institution-header"
-              onClick={() => toggleInstitution(institution.Nom)}
+              onClick={() => {
+                toggleInstitution(institution.Nom);
+                onItemClick(institution); // Appel de onItemClick avec l'institution
+              }}
             >
               {institution.Nom}
             </button>
@@ -99,14 +115,13 @@ export const InstitutionsTable = ({ onItemClick }) => {
                   {institution.Éléments.map((element, index) => (
                     <div
                       key={index}
-                      ref={el => cellRefs.current.set(element.Nom, el)}
+                      ref={(el) => cellRefs.current.set(element.Nom, el)}
                       onMouseEnter={(event) => handleMouseEnter(event, element)}
                       onMouseLeave={handleMouseLeave}
                       className="element-item"
-                      onClick={() => onItemClick(element)}  // Appel de la fonction lors du clic
+                      onClick={() => onItemClick(element)}
                     >
                       <span>{element.Nom}</span>
-                      <span>{element.Pays}</span>
                     </div>
                   ))}
                 </motion.div>

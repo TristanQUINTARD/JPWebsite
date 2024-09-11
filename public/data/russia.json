@@ -1,0 +1,101 @@
+{
+  "ParliamentData": {
+    "parties": {
+      "United Russia": {
+        "seats": 343,
+        "color": "#0C2C84"
+      },
+      "Communist Party": {
+        "seats": 42,
+        "color": "#D7191C"
+      },
+      "Liberal Democratic Party": {
+        "seats": 39,
+        "color": "#FDBB84"
+      },
+      "A Just Russia": {
+        "seats": 23,
+        "color": "#2B83BA"
+      },
+      "Other": {
+        "seats": 3,
+        "color": "#BEBADA"
+      }
+    }
+  },
+  "Institutions": [
+    {
+      "Nom": "Douma d'État",
+      "Description": "La chambre basse de l'Assemblée fédérale de Russie.",
+      "FonctionPrincipale": "Adoption des lois fédérales, supervision du gouvernement.",
+      "Éléments": [
+        {
+          "Nom": "Comité de Budget",
+          "Description": "Supervise les finances du gouvernement.",
+          "FonctionPrincipale": "Analyse des budgets proposés."
+        }
+      ],
+      "Details": {
+        "Président": "Vyacheslav Volodin",
+        "Nombre de Sièges": 450,
+        "Élections": "Prochaine élection en 2026",
+        "Commissions": [
+          "Commission des Affaires Étrangères",
+          "Commission des Finances",
+          "Commission de la Défense"
+        ]
+      }
+    },
+    {
+      "Nom": "Conseil de la Fédération",
+      "Description": "La chambre haute de l'Assemblée fédérale de Russie.",
+      "FonctionPrincipale": "Approbation des lois adoptées par la Douma d'État, nomination des juges.",
+      "Éléments": [
+        {
+          "Nom": "Comité Juridique",
+          "Description": "Examine les aspects juridiques des lois.",
+          "FonctionPrincipale": "Analyse de la légalité des lois proposées."
+        }
+      ],
+      "Details": {
+        "Président": "Valentina Matviyenko",
+        "Nombre de Membres": 170,
+        "Fonctions Supplémentaires": [
+          "Ratification des traités internationaux",
+          "Approbation de la mobilisation militaire"
+        ]
+      }
+    },
+    {
+      "Nom": "Conseil Constitutionnel",
+      "Description": "Institution chargée de la protection de la Constitution de la Fédération de Russie.",
+      "FonctionPrincipale": "Interprétation constitutionnelle, contrôle de la constitutionnalité des lois.",
+      "Éléments": [
+        {
+          "Nom": "Constitution",
+          "Description": "Loi fondamentale du pays, définissant les principes et les valeurs du gouvernement.",
+          "FonctionPrincipale": "Définition des principes et valeurs du gouvernement."
+        },
+        {
+          "Nom": "Contrôle de Constitutionnalité",
+          "Description": "Vérification que les lois et régulations respectent la constitution.",
+          "FonctionPrincipale": "Assurer la primauté de la constitution."
+        },
+        {
+          "Nom": "Avis Juridiques",
+          "Description": "Conseils donnés sur les questions de constitutionnalité avant l'adoption des lois.",
+          "FonctionPrincipale": "Prévention des conflits constitutionnels."
+        }
+      ],
+      "Details": {
+        "Nombre de Juges": 19,
+        "Siège": "Saint-Pétersbourg",
+        "Pouvoirs": [
+          "Examen des conflits de compétence entre organes fédéraux",
+          "Décision sur les violations constitutionnelles"
+        ]
+        
+      }
+    }
+  ]
+}

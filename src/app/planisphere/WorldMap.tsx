@@ -1,12 +1,37 @@
+"use client";
+
 import React, { useState, useEffect, useMemo, useRef, useCallback } from 'react';
+import Link from 'next/link';
 import { geoPath, geoMercator, geoCentroid } from 'd3-geo';
 import { feature } from 'topojson-client';
 import { ZoomIn, ZoomOut, RefreshCw } from 'lucide-react';
-import countriesInfo from "../api/continents.json";
-import continentsData from "../api/dataaa.json";
+import countriesInfo from "../api/continents.json"
+import continentsData from "../api/dataaa.json" // Assurez-vous que ce fichier existe
 import { BASE_MAP_URL, continentColors } from './constants';
 
-// Interface et types définis ici...
+// Interfaces and types
+interface Geography {
+  type: string;
+  properties: {
+    name: string;
+    Continent: string;
+    Capitale: string;
+    Population: string;
+    "Langue officielle principale": string;
+    Monnaie: string;
+    "Président actuel": string;
+    "Forme de l'État": string;
+    "Régime politique": string;
+    "Système juridique": string;
+    "Organisation juridictionnelle": string;
+  };
+  geometry: any;
+}
+
+interface Dimensions {
+  width: number;
+  height: number;
+}
 
 const WorldMap: React.FC = () => {
   const [geographies, setGeographies] = useState<Geography[]>([]);
@@ -66,7 +91,7 @@ const WorldMap: React.FC = () => {
   const pathGenerator = useMemo(() => geoPath().projection(projection), [projection]);
 
   const handleCountryClick = useCallback((geography: Geography, event: React.MouseEvent) => {
-    event.stopPropagation();
+    event.preventDefault();
     if (selectedCountry && selectedCountry.properties.name === geography.properties.name) {
       closeInfoBubble();
     } else {
@@ -96,24 +121,20 @@ const WorldMap: React.FC = () => {
     closeInfoBubble();
   };
 
-  // Gère le début du glissement
   const handleMouseDown = (event: React.MouseEvent) => {
     setIsDragging(true);
     setDragStart({ x: event.clientX, y: event.clientY });
     
-    // Annule le précédent timeout pour le drag
     if (dragTimeout) {
       clearTimeout(dragTimeout);
     }
   };
 
-  // Gère le mouvement de la souris pour le glissement
   const handleMouseMove = (event: React.MouseEvent) => {
     if (isDragging) {
       const dx = event.clientX - dragStart.x;
       const dy = event.clientY - dragStart.y;
 
-      // Calcul de la vitesse actuelle
       setVelocity(prevVelocity => ({
         x: dx - prevVelocity.x,
         y: dy - prevVelocity.y
@@ -128,11 +149,9 @@ const WorldMap: React.FC = () => {
     }
   };
 
-  // Gère la fin du glissement
   const handleMouseUp = () => {
     setIsDragging(false);
 
-    // Commence la décélération après le glissement
     const deceleration = () => {
       if (Math.abs(velocity.x) > 0.1 || Math.abs(velocity.y) > 0.1) {
         setCenter(prevCenter => [
@@ -140,14 +159,12 @@ const WorldMap: React.FC = () => {
           prevCenter[1] + velocity.y / (50 * zoom)
         ]);
 
-        // Diminue la vitesse
         setVelocity(prevVelocity => ({
           x: prevVelocity.x * 0.95,
           y: prevVelocity.y * 0.95
         }));
 
-        // Replanifie la décélération
-        setDragTimeout(setTimeout(deceleration, 16)); // environ 60fps
+        setDragTimeout(setTimeout(deceleration, 16));
       } else {
         setVelocity({ x: 0, y: 0 });
         if (dragTimeout) {
@@ -236,7 +253,11 @@ const WorldMap: React.FC = () => {
           onTouchEnd={handleTouchEnd}
         >
           <div className="info-bubble-header">
-            <h3>{selectedCountry.properties.name}</h3>
+            <h3>
+              <Link href={`/country/${selectedCountry.properties.name}`}>
+                {selectedCountry.properties.name}
+              </Link>
+            </h3>
             <button onClick={closeInfoBubble} className="close-btn">&times;</button>
           </div>
           <div className="info-content">

@@ -34,9 +34,19 @@
 .sidebar {
   width: 250px;
   padding: 10px;
-  background-color: #181818;
+  background-color: #333;
+  color: #fff; /* Changer à une couleur plus lisible */
   overflow-y: auto;
   border-right: 1px solid #ddd;
+}
+
+.institution-item {
+  padding: 10px;
+  cursor: pointer;
+}
+
+.institution-item:hover {
+  background-color: #555; /* Améliorer l'interaction utilisateur */
 }
 
 .content {
@@ -44,6 +54,7 @@
   padding: 20px;
   display: flex;
   flex-direction: column;
+  color: #333; /* Assurez une bonne lisibilité */
 }
 
 .image-section {
