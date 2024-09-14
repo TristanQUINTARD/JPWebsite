@@ -1,0 +1,842 @@
+[
+    {
+        "chapter_id": 1,
+        "content": "Article premier.\n1. La Fédération russe - Russie est un État\nde droit, fédéral, démocratique, ayant\nadopté la forme républicaine de gouvernement.\n2. Les dénominations de Fédération russe et\nRussie sont équivalentes.",
+        "id": 1,
+        "number": "Article premier"
+    },
+    {
+        "chapter_id": 1,
+        "content": "Article 2.\nL'homme, ses droits et ses libertés sont les valeurs\nsuprêmes. La reconnaissance, le respect et la défense des\ndroits et des libertés de l'homme et du citoyen sont une\nobligation pour l'État.",
+        "id": 2,
+        "number": "Article 2"
+    },
+    {
+        "chapter_id": 1,
+        "content": "Article 3.\n1. Le peuple multinational de la Fédération russe\nest le détenteur de la souveraineté et l'unique source du\npouvoir en Russie.\n2. Le peuple exerce son pouvoir directement, ainsi que par\nl'intermédiaire des organes du pouvoir d'État et des\norganes locaux d'autogestion.\n3. Le référendum et les élections libres\nconstituent la plus haute expression directe du pouvoir du peuple.\n4. Personne ne peut usurper le pouvoir en \nFÃ©dÃ©ration russe. La prise du pouvoir ou l'appropriation\ndes pleins pouvoirs sont poursuivies selon la loi\nfÃ©dÃ©rale.",
+        "id": 3,
+        "number": "Article 3"
+    },
+    {
+        "chapter_id": 1,
+        "content": "Article 4.\n1. La souveraineté de la Fédération russe\ns'étend à l'ensemble de son territoire.\n2. La Constitution de la Fédération russe et les\nlois fédérales ont primauté sur tout le territoire\nde la Fédération russe.\n3. La Fédération russe garantit\nl'intégrité et l'inviolabilité de son territoire.",
+        "id": 4,
+        "number": "Article 4"
+    },
+    {
+        "chapter_id": 1,
+        "content": "Article 5.\n1. La Fédération russe est composée de\nrépubliques, de territoires, de régions, de villes\nd'importance fédérale, d'une région autonome et de\ndistricts autonomes, tous sujets égaux en droits de la\nFédération russe.\n2. La république (l'État) possède sa\nConstitution et sa législation. Le territoire, la région,\nla ville d'importance fédérale, la région\nautonome,\nle district autonome possèdent leur statut et leur\nlégislation.\n3. La structure fédérative de la\nFédération russe repose sur son intégrité\nen\ntant qu'État, sur l'unité du système du pouvoir\nd'État, sur la délimitation des sphères de\ncompétence et des attributions entre les organes du pouvoir\nd'État de la Fédération russe et les organes du\npouvoir d'État des sujets de la Fédération russe,\nsur l'égalité en droits et l'autodétermination des\npeuples En Fédération russe.\n4. Tous les sujets de la Fédération russe sont\négaux entre eux dans leurs relations avec les organes\nfédéraux du pouvoir d'État.",
+        "id": 5,
+        "number": "Article 5"
+    },
+    {
+        "chapter_id": 1,
+        "content": "Article 6.\n1. La citoyenneté de la Fédération russe\ns'acquiert et se perd conformément à la loi\nfédérale. Elle est unique et égale,\nindépendamment des motifs de son acquisition.\n2. Tout citoyen de la Fédération russe\npossède sur son territoire tous les droits et libertés et\nest tenu par les mêmes obligations prévues par la\nConstitution de la Fédération russe.\n3. Le citoyen de la Fédération russe ne peut\nêtre privé de sa citoyenneté ni du droit d'en\nchanger.",
+        "id": 6,
+        "number": "Article 6"
+    },
+    {
+        "chapter_id": 1,
+        "content": "Article 7.\n1. La Fédération russe est un État à\norientation sociale, dont la politique vise à établir les\nconditions nécessaires à une vie digne et à un\ndéveloppement libre de l'homme.\n2. En Fédération russe, le travail et la\nsanté des individus sont protégés ; un salaire\nminimum garanti est instauré ; l'aide de l'État est\nassurée à la famille, à la maternité,\nà la paternité et à l'enfance, aux\nhandicapés et aux personnes âgées ; un\nsystème de services sociaux est développé ; des\npensions, des allocations d'État et autres garanties de\nprotection sociale sont instaurées.",
+        "id": 7,
+        "number": "Article 7"
+    },
+    {
+        "chapter_id": 1,
+        "content": "Article 8.\n1. En Fédération russe, l'unité de l'espace\néconomique, la libre circulation des marchandises, des services\net des moyens financiers, le développement de la concurrence, la\nliberté de l'activité économique sont garantis .\n2. En Fédération russe, la propriété\nprivée, la propriété d'État, la\npropriété municipale et les autres formes de\npropriété sont reconnues et également\nprotégées.",
+        "id": 8,
+        "number": "Article 8"
+    },
+    {
+        "chapter_id": 1,
+        "content": "Article 9.\n1. La terre et les autres ressources naturelles sont\nexploitées et protégées en\nFédération\nrusse en tant que base de la vie et de l'activité des peuples\nvivant sur les territoires correspondants.\n2. La terre et les autres ressources naturelles peuvent relever de\nla propriété privée, de la propriété\nd'État, de la propriété municipale ou d'autres\nformes de propriété.",
+        "id": 9,
+        "number": "Article 9"
+    },
+    {
+        "chapter_id": 1,
+        "content": "Article 10.\nEn Fédération russe, le pouvoir d'État\ns'exerce sur la base de la séparation des pouvoirs\nlégislatif, exécutif et judiciaire. Les organes des\npouvoirs législatif, exécutif et judiciaire sont\nindépendants.",
+        "id": 10,
+        "number": "Article 10"
+    },
+    {
+        "chapter_id": 1,
+        "content": "Article 11.\n1. En Fédération russe, le pouvoir d'État est\nexercé par le président de la Fédération\nrusse, l'Assemblée fédérale (Conseil de la\nFédération et Douma d'État), le Gouvernement de la\nFédération russe, les tribunaux de la\nFédération russe.\n2. Dans les sujets de la Fédération russe, le\npouvoir d'État est exercé par les organes du pouvoir\nd'État qu'ils créent.\n3. La délimitation des sphères de compétence\net des attributions entre les organes du pouvoir d'État de la\nFédération russe et les organes du pouvoir d'État\ndes sujets de la Fédération russe est\nopérée\npar la présente Constitution, le Traité\nfédéral et les autres accords relatifs à la\ndélimitation des sphères de compétence et des\nattributions.",
+        "id": 11,
+        "number": "Article 11"
+    },
+    {
+        "chapter_id": 1,
+        "content": "Article 12.\nEn Fédération russe, l'autonomie locale est reconnue\net garantie. L'autonomie locale s'exerce dans les limites de ses\nattributions. Les organes de l'autonomie locale ne font pas partie du\nsystème des organes du pouvoir d'État.",
+        "id": 12,
+        "number": "Article 12"
+    },
+    {
+        "chapter_id": 1,
+        "content": "Article 13.\n1. En Fédération russe, le pluralisme\nidéologique est reconnu .\n2. Aucune idéologie ne peut être instaurée en\ntant qu'idéologie officielle ou obligatoire.\n3. En Fédération russe, le pluralisme politique et\nle pluripartisme sont reconnus.\n4. Les associations sont égales devant la loi.\n5. Sont interdites la création et l'activité\nd'associations de masse dont les les objectifs ou les actions visent\nà modifier par la violence les fondements du régime\nconstitutionnel, ou à détruire l'intégrité\nde la Fédération russe, à attenter à la\nsécurité de l'État, à créer des\nformations armées, à attiser la discorde sociale,\nraciale,\nnationale ou religieuse.",
+        "id": 13,
+        "number": "Article 13"
+    },
+    {
+        "chapter_id": 1,
+        "content": "Article 14.\n1. La Fédération russe est un État\nlaïque. Aucune religion ne peut y être instaurée en\ntant que religion d'État ou obligatoire.\n2. Les associations religieuses sont séparées de\nl'État et égales devant la loi.",
+        "id": 14,
+        "number": "Article 14"
+    },
+    {
+        "chapter_id": 1,
+        "content": "Article 15.\n1. La Constitution de la Fédération russe a force\njuridique suprême, effet direct et s'applique sur l'ensemble du\nterritoire de la Fédération russe. Les lois et autres\nactes juridiques appliqués en Fédération russe ne\ndoivent pas être contraires à la Constitution de la\nFédération russe.\n2. Les organes du pouvoir d'État, les organes de\nl'autogestion locale, les fonctionnaires, citoyens et leurs\nassociations\nsont tenus de respecter la Constitution de la Fédération\nrusse et les lois.\n3. Les lois font l'objet d'une publication officielle. Les lois\nnon publiées ne sont pas appliquées. Aucun acte juridique\nnormatif concernant les droits, les libertés ou les obligations\nde l'homme et du citoyen ne peut être appliqué s'il n'a\npas\nété publié officiellement pour être\nporté à la connaissance de tous.\n4. Les principes et normes du droit international universellement\nreconnus et les traités internationaux signés par la\nFédération russe sont partie intégrante de son\nsystème juridique. Si un traité international\nsigné\npar la Fédération russe instaure des règles\ndifférentes de celles établies par la loi, les\nrègles du traité international prévalent.",
+        "id": 15,
+        "number": "Article 15"
+    },
+    {
+        "chapter_id": 1,
+        "content": "Article 16.\n1. Les dispositions du présent chapitre de la Constitution\nconstituent les fondements du régime constitutionnel de la\nFédération russe et ne peuvent être modifiés\nque selon la procédure établie par la présente\nConstitution.\n2. Aucune autre disposition de la Constitution ne peut être\ncontraire aux fondements du régime constitutionnel de la\nFédération russe.",
+        "id": 16,
+        "number": "Article 16"
+    },
+    {
+        "chapter_id": 2,
+        "content": "Article 18.\nLes droits et les libertés de l'homme ont un effet direct.\nIls déterminent le sens, le contenu et l'application des lois,\nles activités des pouvoirs législatif et exécutif,\nainsi que des organes de l'autonomie locale, et ils sont garantis par\nla\njustice.",
+        "id": 17,
+        "number": "Article 18"
+    },
+    {
+        "chapter_id": 2,
+        "content": "Article 19.\n1. Tous les hommes sont égaux devant la loi et la justice.\n2. L'État garantit l'égalité des droits et\ndes libertés de l'homme et du citoyen indépendamment du\nsexe, de la race, de la nationalité, de la langue, des origines,\nde la situation patrimoniale et professionnelle, du lieu de\nrésidence, de la religion, des convictions, de l'appartenance\nà des associations de masse, ainsi que de tout autre\ncirconstance. Toute forme de limitation des droits des citoyens en\nfonction de leur appartenance à un groupe social, racial,\nnational, linguistique ou religieux est interdite.\n3. L'homme et la femme jouissent des mêmes droits et\nlibertés et des mêmes possibilités de les exercer.",
+        "id": 18,
+        "number": "Article 19"
+    },
+    {
+        "chapter_id": 2,
+        "content": "Article 20.\n1. Chacun a droit à la vie.\n2. La peine de mort, jusqu'à son abolition, peut être\ninstaurée par la loi fédérale en tant que sanction\nexceptionnelle pour des crimes graves attentant à la vie, tout\nen\naccordant à l'accusé le droit de faire examiner sa cause\npar un tribunal comportant des jurés.",
+        "id": 19,
+        "number": "Article 20"
+    },
+    {
+        "chapter_id": 2,
+        "content": "Article 21.\n1. La dignité de l'individu est protégée par\nl'État. Rien ne peut justifier qu'il y soit porté\npréjudice.\n2. Nul ne doit être soumis à la torture, à la\nviolence ou à toute autre forme de traitement ou de\nchâtiment inhumain ou dégradant pour la dignité\nhumaine. Nul ne peut être soumis à des expériences\nmédicales, scientifiques ou autres sans son libre consentement.",
+        "id": 20,
+        "number": "Article 21"
+    },
+    {
+        "chapter_id": 2,
+        "content": "Article 22.\n1. Chacun a droit à la liberté et à\nl'intégrité de sa personne.\n2. L'arrestation, la garde à vue et la détention\npréventive ne sont admises que sur décision de justice.\nNul ne peut être gardé à vue plus de 48 heures dans\nl'attente d'une décision de justice.",
+        "id": 21,
+        "number": "Article 22"
+    },
+    {
+        "chapter_id": 2,
+        "content": "Article 23.\n1. Chacun a droit à l'inviolabilité de sa vie\nprivée, au secret individuel et familial, à la\ndéfense de son honneur et de sa réputation.\n2. Chacun a droit au secret de la correspondance, des\nconversations téléphoniques, des communications postales,\ntélégraphiques et autres. Ce droit ne peut être\nlimité que sur la base d'une décision de justice.",
+        "id": 22,
+        "number": "Article 23"
+    },
+    {
+        "chapter_id": 2,
+        "content": "Article 24.\n1. La collecte, la conservation, l'utilisation et la diffusion\nd'informations concernant la vie privée d'une personne sans son\naccord sont interdites.\n2. Les organes du pouvoir d'État et les organes de\nl'autonomie locale, leurs fonctionnaires sont tenus de donner à\nchacun la possibilité de prendre connaissance des documents et\ndes pièces concernant directement ses droits et libertés,\nsi la loi ne prévoit pas autre chose.",
+        "id": 23,
+        "number": "Article 24"
+    },
+    {
+        "chapter_id": 2,
+        "content": "Article 25.\nLe domicile est inviolable. Nul n'a le droit de s'introduire dans\nun domicile contre la volonté de ses occupants, sauf dans les\ncas\nfixés par la loi fédérale ou sur la base d'une\ndécision de justice.",
+        "id": 24,
+        "number": "Article 25"
+    },
+    {
+        "chapter_id": 2,
+        "content": "Article 26.\n1. Chacun a le droit de définir et d'indiquer son\nappartenance nationale. Nul ne peut être contraint de\ndéfinir et d'indiquer son appartenance nationale.\n2. Chacun a le droit d'utiliser sa langue maternelle, de choisir\nlibrement sa langue de communication, d'éducation,\nd'enseignement\net de création.",
+        "id": 25,
+        "number": "Article 26"
+    },
+    {
+        "chapter_id": 2,
+        "content": "Article 27.\n1. Chacun, s'il se trouve légalement sur le territoire de\nla Fédération russe, a le droit à le droit de\ncirculer librement, de choisir son lieu de séjour et de\nrésidence.\n2. Chacun peut librement sortir des frontières de la\nFédération russe. Un citoyen de la\nFédération russe a le droit de revenir sans entrave en\nFédération russe.",
+        "id": 26,
+        "number": "Article 27"
+    },
+    {
+        "chapter_id": 2,
+        "content": "Article 28.\nLa liberté de conscience, la liberté de confession,\ny compris le droit de croire individuellement ou avec d'autres en\nn'importe quelle religion ou de ne croire en aucune, ainsi que le droit\nde choisir, d'avoir et de propager librement des opinions religieuses\nou\nautres, et d'agir conformément à celles-ci sont garantis\nà chacun.",
+        "id": 27,
+        "number": "Article 28"
+    },
+    {
+        "chapter_id": 2,
+        "content": "Article 29.\n1. La liberté de pensée et de parole est garantie\nà chacun.\n2. La propagande ou l'agitation incitant à la haine et\nà l'hostilité sociale, raciale, nationale ou religieuse\nne\nsont pas tolérées. La propagande en faveur d'une\nsupériorité sociale, raciale, nationale, religieuse ou\nlinguistique est interdite.\n3. Nul ne peut Ãªtre contraint  Ã  exprimer ses\nopinions et convictions ou Ã  les renier.\n4. Chacun a le droit de chercher, d'obtenir, de transmettre,\nd'émettre et de diffuser librement des informations par tout\nmoyen légal. La liste des informations constituant un secret\nd'État est établie par la loi fédérale.\n5. La liberté des médias est garantie. La censure\nest interdite.",
+        "id": 28,
+        "number": "Article 29"
+    },
+    {
+        "chapter_id": 2,
+        "content": "Article 30.\n1. Chacun a le droit d'association, y compris le droit de\ncréer des syndicats pour la défense de ses\nintérêts. La liberté de l'activité des\nassociations de masse est garantie.\n2. Nul ne peut être contraint à adhérer\nà une association quelconque ou à y demeurer.",
+        "id": 29,
+        "number": "Article 30"
+    },
+    {
+        "chapter_id": 2,
+        "content": "Article 31.\nLes citoyens de la Fédération russe ont le droit de\nse réunir pacifiquement, sans armes, d'organiser des\nréunions, des meetings et des manifestations, des marches et des\npiquets.",
+        "id": 30,
+        "number": "Article 31"
+    },
+    {
+        "chapter_id": 2,
+        "content": "Article 32.\n1. Les citoyens de la Fédération russe ont le droit\nde participer à l'administration des affaires de l'État,\ntant directement que par l'intermédiaire de leurs\nreprésentants.\n2. Les citoyens de la Fédération russe ont le droit\nd'élire et d'être élus dans les organes du pouvoir\nd'État et dans les organes de l'autonomie locale. Ils ont\négalement le droit de participer aux référendums.\n3. N'ont pas le droit d'élire et d'être élus\nles citoyens qui ont été déchus de ce droit par un\ntribunal, ainsi que ceux qui se trouvent dans des lieux de\ndétention à la suite d'une condamnation par un tribunal.\n4. Les citoyens de la Fédération russe jouissent des\nmêmes droits pour accéder à la fonction publique.\n5. Les citoyens de la Fédération russe ont le droit\nde participer à l'exercice de \nla justice.",
+        "id": 31,
+        "number": "Article 32"
+    },
+    {
+        "chapter_id": 2,
+        "content": "Article 33.\nLes citoyens de la Fédération russe ont le droit de\ns'adresser personnellement aux organes d'État et aux organes de\nl'autonomie locale ainsi que de leur présenter des\nrequêtes\nindividuelles ou collectives.",
+        "id": 32,
+        "number": "Article 33"
+    },
+    {
+        "chapter_id": 2,
+        "content": "Article 34.\n1. Chacun a le droit d'utiliser librement ses capacités et\nses biens dans le cadre d'une activité économique au sein\nd'une entreprise ou d'une autre entité, dans la mesure où\ncelle-ci n'est pas interdite par la loi.\n2. Une activité économique visant à la\nformation d'un monopole ou à la concurrence déloyale est\ninterdite.",
+        "id": 33,
+        "number": "Article 34"
+    },
+    {
+        "chapter_id": 2,
+        "content": "Article 35.\n1. Le droit à la propriété privée est\nprotégé par la loi.\n2. Chacun a le droit d'avoir des biens propres, de les\ngérer, d'en jouir et d'en disposer, aussi bien à titre\nindividuel que conjointement avec d'autres personnes.\n3. Nul ne peut être privé de ses biens autrement que\npar décision de justice. L'aliénation forcée de\nbiens pour cause d'utilité publique ne peut avoir lieu que sous\ncondition d'une indemnisation préalable et équitable.\n4. Le droit d'héritage est garanti.",
+        "id": 34,
+        "number": "Article 35"
+    },
+    {
+        "chapter_id": 2,
+        "content": "Article 36.\n1. Les citoyens et leurs associations ont le droit d'avoir des\nterres en propriété privée.\n2. La possession, la jouissance et l'utilisation des terres et des\nautres ressources naturelles relèvent du libre choix de leurs\npropriétaires, à condition de ne pas causer de dommages\nà l'environnement et de ne pas léser les droits et\nintérêts légitimes d'autrui.\n3. Les conditions et les procédures liées à\nl'utilisation des terres sont définies par la loi\nfédérale.",
+        "id": 35,
+        "number": "Article 36"
+    },
+    {
+        "chapter_id": 2,
+        "content": "Article 37.\n1. Le travail est libre. Chacun a le droit de disposer librement\nde ses aptitudes au travail et de choisir son type d'activité et\nsa profession.\n2. Le travail forcé est interdit.\n3. Chacun a droit au travail dans des conditions répondant\naux exigences de sécurité et d'hygiène et à\nune rémunération pour son travail, sans aucune sorte de\ndiscrimination, qui ne soit pas inférieure au montant du salaire\nminimum fixé par la loi fédérale. Chacun a\négalement droit à une protection en cas de chômage.\n4. Le droit de recourir aux moyens prévus par la loi\nfédérale pour résoudre les conflits du travail\nindividuels et collectifs, y compris le droit de recourir à la\ngrève, est reconnu.\n5. Chacun a droit au repos. La durée du temps de travail,\nles jours de repos et fériés, le congé payé\nannuel fixés par la loi fédérale sont garantis au\ntravailleur ayant un contrat de travail.",
+        "id": 36,
+        "number": "Article 37"
+    },
+    {
+        "chapter_id": 2,
+        "content": "Article 38.\n1. La maternité et l'enfance, la famille sont\nplacées sous la protection de l'État.\n2. Les soins aux enfants, leur éducation sont\négalement un droit et une obligation pour les parents.\n3. Les enfants aptes au travail, ayant atteint 18 ans, doivent\nprendre soin de leurs parents inaptes au travail.",
+        "id": 37,
+        "number": "Article 38"
+    },
+    {
+        "chapter_id": 2,
+        "content": "Article 39.\n1. Une couverture sociale pour les personnes ayant atteint\nl'âge de la retraite, en cas de maladie, d'invalidité, de\nperte du soutien de famille, pour l'éducation des enfants et\ndans\nles autres cas fixés par la loi est garantie à chacun.\n2. Les pensions et retraites de l'État et les allocations\nsociales sont fixées par la loi.\n3. L'assurance sociale volontaire, la création de formes\ncomplémentaires de couverture sociale et les oeuvres caritatives\nsont encouragées.",
+        "id": 38,
+        "number": "Article 39"
+    },
+    {
+        "chapter_id": 2,
+        "content": "Article 40.\n1. Chacun a droit à un logement. Nul ne peut en être\nprivé arbitrairement.\n2. Les organes du pouvoir d'État et les organes de\nl'autonomie locale encouragent la construction de logements,\ncréent les conditions de réalisation du droit au\nlogement.\n3. Les personnes disposant de faibles revenus et les autres\ncitoyens qui, selon la loi, ont besoin d'un logement s'en voient\nproposer un, gratuitement ou moyennant un loyer accessible, par le\nbiais\ndes fonds locatifs de l'État, municipaux et autres,\nconformément aux normes établies par la loi.",
+        "id": 39,
+        "number": "Article 40"
+    },
+    {
+        "chapter_id": 2,
+        "content": "Article 41.\n1. Chacun a droit à la protection de sa santé et\nà l'assistance médicale. L'assistance médicale\ndans\nles établissements de soins de l'État et des\nmunicipalités est dispensée gratuitement aux citoyens\nà la charge du budget correspondant, des cotisations d'assurance\net des autres recettes.\n2. En Fédération russe sont financés des\nprogrammes fédéraux de protection et\nd'amélioration\nde la santé publique. Des mesures sont adoptées pour\ndévelopper les systèmes de santé de l'État,\nmunicipaux et privés ; toute activité contribuant\nà améliorer la santé, à développer\nla culture physique et le sport, à assurer un état\nécologique, sanitaire et épidémiologique\nsatisfaisant est encouragée.\n3. La dissimulation par des fonctionnaires de faits ou de\ncirconstances constituant une menace pour la vie et la santé des\npersonnes engage leur responsabilité, conformément\nà la loi fédérale.",
+        "id": 40,
+        "number": "Article 41"
+    },
+    {
+        "chapter_id": 2,
+        "content": "Article 42.\nChacun a droit à un environnement sain, à une\ninformation fiable sur l'état de cet environnement, à la\nréparation du dommage causé à sa santé on\nà son patrimoine par une infraction aux normes\nécologiques.",
+        "id": 41,
+        "number": "Article 42"
+    },
+    {
+        "chapter_id": 2,
+        "content": "Article 43.\n1. Chacun a droit à l'instruction.\n2. L'accès de tous et la gratuité de l'enseignement\npré-scolaire, élémentaire général et\nsecondaire professionnel dans des établissements de\nl'État\nou municipaux et dans les entreprises sont garantis.\n3. Chacun a droit, sur la base d'un concours, de recevoir\ngratuitement  un enseignement supÃ©rieur dans un\nÃ©tablissement d'enseignement de l'Ãtat ou municipal et\ndans les entreprises.\n4. L'enseignement général élémentaire\nest obligatoire. Les parents ou les tuteurs garantissent aux enfants la\npossibilité de recevoir un enseignement général\nélémentaire.\n5. La Fédération russe établit des normes\nd'État pour l'enseignement au niveau fédéral ;\nelle\napporte son soutien aux diverses formes d'enseignement et de formation\nindividuelle.",
+        "id": 42,
+        "number": "Article 43"
+    },
+    {
+        "chapter_id": 2,
+        "content": "Article 44.\n1. La liberté de la création et de l'enseignement\nlittéraire, artistique, scientifique, technique et des autres\ntypes de création et d'enseignement sont garantis à\nchacun. La propriété intellectuelle est\nprotégée par la loi.\n2. Chacun a le droit de participer à la vie culturelle,\nd'utiliser les établissements culturels et d'accéder aux\nvaleurs culturelles.\n3. Chacun doit se soucier de préserver le patrimoine\nhistorique et culturel et de conserver les monuments de l'histoire et\nde\nla culture.",
+        "id": 43,
+        "number": "Article 44"
+    },
+    {
+        "chapter_id": 2,
+        "content": "Article 45.\n1. En Fédération russe, l'État garantit la\ndéfense des droits et des libertés de l'homme et du\ncitoyen .\n2. Chacun a le droit de défendre ses droits et ses\nlibertés par tous les moyens non prohibés par la loi.",
+        "id": 44,
+        "number": "Article 45"
+    },
+    {
+        "chapter_id": 2,
+        "content": "Article 46.\n1. La protection judiciaire des droits et des libertés du\ncitoyen est garantie à tous.\n2. Les décisions et les actes (ou l'omission) des organes\ndu pouvoir d'État, des organes de l'autonomie locale, des\nassociations de masse et des fonctionnaires peuvent faire l'objet d'un\nrecours en justice.\n3. Chacun a le droit, conformément aux accords\ninternationaux de la Fédération russe, de s'adresser aux\norganes interétatiques chargés de la défense des\ndroits et des libertés, s'il a épuisé toutes les\nformes de protection légale dont il dispose à\nl'intérieur de l'État.",
+        "id": 45,
+        "number": "Article 46"
+    },
+    {
+        "chapter_id": 2,
+        "content": "Article 47.\n1. Nul ne peut être privé du droit à l'examen\nde sa cause par la juridiction et les magistrats dont elle\nrelève\nen vertu de la loi.\n2. Un citoyen inculpé de délit a le droit à\nl'examen de sa cause par un tribunal comportant des jurés, dans\nles cas prévus par la loi fédérale.",
+        "id": 46,
+        "number": "Article 47"
+    },
+    {
+        "chapter_id": 2,
+        "content": "Article 48.\n1. Le droit à une aide juridique qualifiée est\ngaranti à tous. Dans les cas prévus par la loi, l'aide\njuridique est gratuite.\n2. Toute personne appréhendée, gardée\nà vue ou inculpée a le droit de faire appel à un\navocat (un défenseur) dès le moment où elle est\narrêtée, placée en garde à vue ou\ninculpée.",
+        "id": 47,
+        "number": "Article 48"
+    },
+    {
+        "chapter_id": 2,
+        "content": "Article 49.\n1. Tout accusé est présumé innocent tant que\nsa culpabilité n'a pas été prouvée selon la\nprocédure prévue par la loi fédérale et\nétablie par un jugement exécutoire.\n2. L'accusé n'est pas tenu de prouver son innocence.\n3. Les doutes non dissipés quant à la\nculpabilité d'une personne sont interprétés en\nfaveur de l'accusé.",
+        "id": 48,
+        "number": "Article 49"
+    },
+    {
+        "chapter_id": 2,
+        "content": "Article 50.\n1. Nul ne peut être condamné une deuxième fois\npour un seule et même délit.\n2. Dans l'exercice de la justice, l'utilisation de preuves\nobtenues en violation de la loi fédérale est interdite.\n3. Tout condamné pour un délit a le droit à\nla révision du jugement par une juridiction supérieure\nselon la procédure fixée par la loi\nfédérale\n; il a également le droit de solliciter sa grâce ou une\nréduction de peine.",
+        "id": 49,
+        "number": "Article 50"
+    },
+    {
+        "chapter_id": 2,
+        "content": "Article 51.\n1. Nul n'est tenu de témoigner contre lui-même, son\nconjoint et des proches parents, selon les termes de la loi\nfédérale.\n2. D'autres cas dispensant de l'obligation de témoigner\npeuvent être établis par la loi fédérale.",
+        "id": 50,
+        "number": "Article 51"
+    },
+    {
+        "chapter_id": 2,
+        "content": "Article 52.\nLes droits des victimes d'infractions ou d'abus de pouvoir sont\nprotèges par la loi. L'État garantit aux victimes\nl'accès à la justice et un dédommagement pour le\npréjudice subi.",
+        "id": 51,
+        "number": "Article 52"
+    },
+    {
+        "chapter_id": 2,
+        "content": "Article 53.\nChacun a droit à la réparation par l'État du\npréjudice occasionné par les actes illégaux (ou\nles\nomissions) des organes du pouvoir d'État ou de leurs\nfonctionnaires.",
+        "id": 52,
+        "number": "Article 53"
+    },
+    {
+        "chapter_id": 2,
+        "content": "Article 54.\n1. Une loi établissant ou aggravant la\nresponsabilité n'a pas d'effet rétroactif.\n2. Nul ne peut être tenu responsable d'un acte qui, au\nmoment où il a été perpétré,\nn'était pas considéré comme une infraction\nà\nla loi. Si, après qu'un délit ait été\ncommis, la responsabilité correspondante a été\nabrogée ou atténuée, c'est la loi nouvelle qui\ns'applique.",
+        "id": 53,
+        "number": "Article 54"
+    },
+    {
+        "chapter_id": 2,
+        "content": "Article 55.\n1. L'énumération par la Constitution de la\nFédération russe des droits fondamentaux et des\nlibertés fondamentales ne doit pas être\ninterprétée comme une négation ou une restriction\ndes autres droits et libertés de l'homme et du citoyen\nuniversellement reconnus.\n2. En Fédération russe, il ne doit pas être\nédicté de loi abrogeant ou restreignant les droits et\nlibertés de l'homme et du citoyen.\n3. Les droits et libertés de l'homme et du citoyen ne\npeuvent être limités par la loi fédérale que\ndans la mesure où cela est indispensable pour protéger\nles\nfondements du régime constitutionnel, les bonnes moeurs, la\nsanté, les droits et les intérêts légitimes\nd'autres personnes, pour assurer la défense du pays et la\nsécurité de l'État.",
+        "id": 54,
+        "number": "Article 55"
+    },
+    {
+        "chapter_id": 2,
+        "content": "Article 56.\n1. Dans le cadre de l'état d'urgence, en vue de garantir la\nsécurité des citoyens et la protection du régime\nconstitutionnel conformément à la loi constitutionnelle\nfédérale, certaines restrictions aux droits et aux\nlibertés peuvent être instaurées, sous\nréserve de mentionner leurs limites et la durée de leur\nvalidité.\n2. L'état d'urgence sur l'ensemble du territoire de la\nFédération russe ou dans certaines localités peut\nêtre introduit lorsque certaines circonstances sont\nréunies\net selon les modalités définies par la loi\nconstitutionnelle fédérale.\n3. Les droits et les libertés mentionnés aux\narticles 20, 21, 23 (point 1), 24, 28, 34 (point 1), 40 (point 1), 46\nà 54 de la Constitution de la Fédération russe ne\npeuvent être restreints.",
+        "id": 55,
+        "number": "Article 56"
+    },
+    {
+        "chapter_id": 2,
+        "content": "Article 57.\nChacun est tenu de payer les impôts et les redevances\nfixés par la loi. Les lois qui introduisent de nouveaux\nimpôts ou qui provoquent une aggravation de la situation des\ncontribuables n'ont pas d'effet rétroactif.",
+        "id": 56,
+        "number": "Article 57"
+    },
+    {
+        "chapter_id": 2,
+        "content": "Article 58.\nChacun est tenu de protéger la nature et l'environnement,\nde prendre soin des ressources naturelles.",
+        "id": 57,
+        "number": "Article 58"
+    },
+    {
+        "chapter_id": 2,
+        "content": "Article 59.\n1. La défense de la Patrie est un devoir et une obligation\npour les citoyens de la Fédération russe.\n2. Les citoyens de la Fédération russe accomplissent\nleur service militaire conformément à la loi\nfédérale.\n3. Les citoyens de la Fédération russe, dont les\nconvictions ou la religion sont en contradiction avec le port de\nl'uniforme militaire, ainsi que dans certains autres cas prévus\npar la loi fédérale, ont le droit d'effectuer à la\nplace un service civil alternatif.",
+        "id": 58,
+        "number": "Article 59"
+    },
+    {
+        "chapter_id": 2,
+        "content": "Article 60.\nTout citoyen de la Fédération russe peut exercer de\nfaçon autonome la totalité de ses droits et obligations\ndès l'âge de 18 ans.",
+        "id": 59,
+        "number": "Article 60"
+    },
+    {
+        "chapter_id": 2,
+        "content": "Article 61.\n1. Tout citoyen de la Fédération russe ne peut\nêtre expulsé hors des frontières de la\nFédération russe ni extradé dans un autre\nÉtat.\n2. La Fédération russe garantit à ses\ncitoyens défense et protection hors de ses frontières.",
+        "id": 60,
+        "number": "Article 61"
+    },
+    {
+        "chapter_id": 2,
+        "content": "Article 62.\n1. Un citoyen de la Fédération russe peut\nposséder la nationalité d'un État étranger\n(double nationalité) conformément à la loi\nfédérale ou à un traité international\nsigné par la Fédération russe.\n2. Le fait qu'un citoyen de la Fédération russe\npossède la nationalité d'un État étranger\nne\nrestreint pas ses droits et libertés et ne l'exonère pas\ndes obligations inhérentes à la nationalité russe,\nsi rien n'est prévu par la loi fédérale ou le\ntraité international signé par la\nFédération russe.\n3. En Fédération russe, les citoyens\nétrangers et les apatrides jouissent de droit et ont des\nobligations à égalité avec les citoyens de la\nFédération russe, à l'exception des cas\nprévus par la loi fédérale ou par un traité\ninternational signé par la Fédération russe.",
+        "id": 61,
+        "number": "Article 62"
+    },
+    {
+        "chapter_id": 2,
+        "content": "Article 63.\n1. La Fédération russe accorde l'asile politique aux\ncitoyens étrangers et aux apatrides, conformément aux\nnormes du droit international universellement admises.\n2. L'extradition dans d'autres États d'individus poursuivis\npour leurs convictions politiques ou pour des actes (ou des omissions)\nque la Fédération russe ne reconnaît pas comme\ndélictueux n'est pas autorisée. L'extradition d'individus\naccusés d'un délit ainsi que l'extradition de \ncondamnés pour qu'ils purgent leur peine dans d'autres\nÉtats se font sur la base de la loi fédérale ou\nd'un traité international signé par la\nFédération russe.",
+        "id": 62,
+        "number": "Article 63"
+    },
+    {
+        "chapter_id": 2,
+        "content": "Article 64.\nLes dispositions du présent chapitre constituent les bases\ndu statut juridique de l'individu en Fédération russe et\nne peuvent être modifiées autrement que selon les\nmodalités établies par la présente Constitution.",
+        "id": 63,
+        "number": "Article 64"
+    },
+    {
+        "chapter_id": 3,
+        "content": "Article 65.\n1.  Les sujets de la FÃ©dÃ©ration russe suivants\ncomposent la FÃ©dÃ©ration russe : \n- la RÃ©publique d'AdyguÃ©ie (AdyguÃ©ie), la\nRÃ©publique de l'AltaÃ¯, la RÃ©publique du\nBachkortostan, la RÃ©publique de Bouriatie, la RÃ©publique de CrimÃ©e, la RÃ©publique\ndu Daguestan, la RÃ©publique d'Ingouchie, la RÃ©publique de\nKabardino-Balkarie, la RÃ©publique de Kalmoukie,\nla RÃ©publique Karatchaievo-Tcherkesse, la RÃ©publique de\nCarÃ©lie, la RÃ©publique des Komis, la RÃ©publique\ndes\nMarii-El, la RÃ©publique de Mordovie, la RÃ©publique de\nSakha (Iakoutie), la RÃ©publique d'OssÃ©tie du Nord -\nAlanie, la RÃ©publique du Tatarstan (Tatarstan)\n; la RÃ©publique de Touva, la RÃ©publique d'Oudmourtie, la\nRÃ©publique de Khakassie, la RÃ©publique de\nTchetchÃ©nie, la RÃ©publique de Tchouvachie - Tchouvachie ;\n- le territoire [KraÃ¯]  de l'AltaÃ¯, le territoire de\nTransbaÃ¯kalie, le territoire du Kamtchatka, le territoire de\nKrasnodar, le\nterritoire de KrasnoÃ¯arsk, le territoire de Perm, le territoire\nmaritime (de\nPrimoriÃ©), le territoire de Stavropol, le territoire de\nKhabarovsk ;\n- la région de l'Amour, la région d'Arkhangelsk, la\nrégion d'Astrakhan, la région de Belgorod, la\nrégion de Briansk, la région de Vladimir, la\nrégion\nde Volgograd, la région de Vologda, la région de Voronej,\nla région d'Ivanovo, la région d'Irkoutsk, la\nrégion de Kaliningrad, la région de Kalouga, la\nrégion du Kamtchatka, la région de Kemerovo, la\nrégion de Kirov, la région de Kostroma, la région\nde Kourgan, la région de Koursk, la région de\nLéningrad, la région de Lipetsk, la région de\nMagadan, la région de Moscou, la région de Mourmansk, la\nrégion de Nijni-Novgorod, la région de Novgorod, la\nrégion de Novossibirsk, la région d'Omsk, la\nrégion\nd'Orenbourg, la région d'Orel, la région de Penza, la\nrégion de Perm, la région de Pskov, la\nrégion de\nRostov, la région de Riazan, la région de Samara, la\nrégion de Saratov, la région de Sakhaline, la\nrégion de Sverdlovsk, la région de Smolensk, la\nrégion de Tambov, la région de Tver, la région de\nTomsk, la région de Toula, la région de Tioumen, la\nrégion d'Oulianovsk, la région de Tchéliabinsk, la\nrégion de Tchita, la région de\nYaroslav ;\n- Moscou, Saint-Pétersbourg et Sébastopol sont des villes d'importance\nfédérale ;\n- la région [oblast] autonome juive ;\n- le district autonome d'Aguinski-Bouriatie, le district\nautonome\ndes Komis-Permiaks, le district autonome des Koriaks, le\ndistrict\nautonome des Nénets, le district autonome de\nTaïmyr\n(Dolgano-Nénets), le district autonome d'Oust-Ordynsky-Bouriatie,\nle district [okrug] autonome des Khantys-Mansis - Ugra, le district autonome\ndes\nTchouktches, le district autonome des Evenks, le\ndistrict autonome des\nIamalo-Nénets.\n2. L'adhésion à la Fédération russe et\nla formation en son sein d'un nouveau sujet se font selon la\nprocédure fixée par la loi constitutionnelle\nfédérale.",
+        "id": 64,
+        "number": "Article 65"
+    },
+    {
+        "chapter_id": 3,
+        "content": "Article 66.\n1. Le statut de chaque république est défini par la\nConstitution de la Fédération russe et la Constitution de\nla république.\n2. Le statut du territoire, de la région, de la ville\nd'importance fédérale, de la région autonome, du\ndistrict autonome est défini par la Constitution de la\nFédération russe et par les statuts du territoire, de la\nrégion, de la ville d'importance fédérale, de la\nrégion autonome, du district autonome adoptés par\nl'organe\nlégislatif (représentatif) du sujet concerné de la\nFédération russe.\n3. Sur proposition des organes législatifs et\nexécutifs d'une région autonome ou d'un district\nautonome,\nune loi fédérale sur la région autonome ou le\ndistrict autonome peut être adoptée .\n4. Les relations des districts autonomes  composant un\nterritoire ou une rÃ©gion peuvent Ãªtre\nrÃ©glementÃ©es par une loi fÃ©dÃ©rale et par un\ntraitÃ© entre les organes du pouvoir d'Ãtat du district\nautonome et, respectivement, les organes du pouvoir d'Ãtat du\nterritoire ou de la rÃ©gion.\n5. Le statut d'un sujet de la Fédération russe peut\nêtre modifié d'un commun accord entre la\nFédération russe et le sujet de la\nFédération russe conformément à la loi\nconstitutionnelle fédérale.",
+        "id": 65,
+        "number": "Article 66"
+    },
+    {
+        "chapter_id": 3,
+        "content": "Article 67.\n1. Le territoire de la Fédération russe inclut les\nterritoires de ses sujets, les eaux intérieures et les eaux\nterritoriales, leur espace aérien.*\nDes territoires fédéraux peuvent être\ncréés sur le territoire de la Fédération\nrusse conformément à la loi fédérale.\nL'organisation des pouvoirs publics dans les territoires\nfédéraux est fixée par ladite loi\nfédérale. [Ajouté par la loi constitutionnelle de 2020.]\n2. La Fédération russe possède les droits\nsouverains et exerce sa juridiction sur le plateau continental et la\nzone économique exclusive de la Fédération russe\nselon les modalités définies par la loi\nfédérale et les normes du droit international.\n* 2.1 La Fédération russe assure la protection de sa\nsouveraineté et de son intégrité territoriale. Les\nactions (à l'exception de la délimitation, de la\ndémarcation, de la redémarcation de la frontière\nd'État de la Fédération russe avec les\nÉtats voisins) visant à aliéner une partie du\nterritoire de la Fédération russe, ainsi que les appels\nà de telles actions ne sont pas autorisés. \n[Ajouté par la loi constitutionnelle de 2020.]\n3. Les frontières entre les sujets de la\nFédération russe peuvent être modifiées d'un\ncommun accord.",
+        "id": 66,
+        "number": "Article 67"
+    },
+    {
+        "chapter_id": 3,
+        "content": "Article 67-1\n2. La FÃ©dÃ©ration  russe,  unie \npar  une  histoire  millÃ©naire, \nprÃ©servant  la mÃ©moire des ancÃªtres, qui nous\nont transmis leurs idÃ©aux et la foi en Dieu, ainsi que la\ncontinuitÃ©  dans  le  dÃ©veloppement \nde  l\u0019Ãtat  russe, reconnaÃ®t l\u0019unitÃ©\nÃ©tatique historiquement Ã©tablie.\n3. La FÃ©dÃ©ration russe  honore  la \nmÃ©moire  des  dÃ©fenseurs  de \nla  Patrie, assure  la  dÃ©fense  de \nla  vÃ©ritÃ©  historique. La\nnÃ©gation  de l'importance  de l\u0019hÃ©roÃ¯sme\ndu peuple lors de la dÃ©fense de la Patrie n\u0019est pas admise.\n4. Les enfants sont la priorité la plus importante de la\npolitique de l'État russe. L'État crée des\nconditions propices au développement complet, spirituel, moral,\nintellectuel et physique des enfants, favorisant le patriotisme, la\ncitoyenneté et le respect des aînés en eux.\nL'État, assurant la priorité de l'éducation\nfamiliale, assume les responsabilités des parents\nvis-à-vis des enfants laissés sans soins.\n",
+        "id": 67,
+        "number": "Article 67-1"
+    },
+    {
+        "chapter_id": 3,
+        "content": "Article 68.\n1. * La langue officielle de la\nFédération russe sur l'ensemble de son territoire est la\nlangue russe en tant que langue du peuple constitutif de l'État,\nqui fait partie de l'union multinationale des peuples égaux de\nla Fédération russe. [Modifié par la loi constitutionnelle de 2020.]\n2. Les républiques ont le droit d'instaurer leurs propres\nlangues officielles. Elles les utilisent dans les organes du pouvoir\nd'État, les organes de l'autonomie locale, leurs\npropres établissements d'État,\nparallèlement à la langue officielle de la\nFédération russe.\n3. La Fédération russe garantit à tous ses\npeuples le droit de conserver leur langue maternelle, de créer\nles conditions de son étude et de son développement.\n* 4. La culture dans la Fédération russe est un\nhéritage unique de son peuple multinational. La culture est\nsoutenue et protégée par l'État. [Ajouté par la loi constitutionnelle de 2020.]",
+        "id": 68,
+        "number": "Article 68"
+    },
+    {
+        "chapter_id": 3,
+        "content": "Article 69.\n1. La Fédération russe garantit les droits des peuples\nautochtones numériquement peu nombreux, conformément aux\nprincipes et aux normes universellement admis du droit international et\naux traités internationaux de la Fédération russe.\n* 2. L'État protège l'identité culturelle de\ntous les peuples et communautés ethniques de la\nFédération russe, garantit la préservation de la\ndiversité ethnoculturelle et linguistique. [Ajouté par la loi constitutionnelle de 2020.]\n\n* 3. La Fédération russe aide les compatriotes vivant\nà l'étranger à exercer leurs droits, à\nassurer la protection de leurs intérêts et à\npréserver leur identité culturelle russe. [Ajouté par la loi constitutionnelle de 2020.]\n",
+        "id": 69,
+        "number": "Article 69"
+    },
+    {
+        "chapter_id": 3,
+        "content": "Article 70.\n1. Le drapeau, les armoiries et l'hymne officiels de la\nFédération russe, leur description et les\nmodalités\nde leur utilisation officielle sont établis par la loi\nconstitutionnelle fédérale.\n2. La capitale de la Fédération russe est la ville\nde Moscou. Le statut de la capitale est établi par la loi\nfédérale.\n* Le siège permanent de certains organes fédéraux\nparticuliers du pouvoir d'État peut être une autre ville,\ndéterminée par la loi constitutionnelle\nfédérale. [Ajouté par la loi constitutionnelle de 2020.]",
+        "id": 70,
+        "number": "Article 70"
+    },
+    {
+        "chapter_id": 3,
+        "content": "Article 71.\nSont de la compétence de la Fédération russe\n:\na) l'adoption et la modification de la Constitution de la\nFédération russe et des lois fédérales, le\ncontrôle de leur respect ;\nb) la structure fédérale et le territoire de la\nFédération russe ;\nc) la réglementation et la défense des droits et\nlibertés de l'homme et du citoyen, la citoyenneté en\nFédération russe ; la réglementation et la\ndéfense des droits des minorités nationales ;\nd) * l'organisation des pouvoirs publics [Ajouté par la loi constitutionnelle de 2020.], la mise en place du système des organes\nfédéraux des pouvoirs législatif, exécutif\net judiciaire ; les modalités de leur organisation et de leur\nfonctionnement ; la formation des organes fédéraux du\npouvoir d'État ;\ne) les biens publics fédéraux et leur gestion ;\nf)\nla mise en place des fondements de la politique\nfédérale et les programmes fédéraux dans le\ndomaine du développement étatique, économique,\nécologique, social, culturel et national de la\nFédération russe ; * la mise en place d'un cadre\njuridique unifié pour le système de santé, le\nsystème d'éducation et d'enseignement y compris la\nformation continue [Ajouté par la loi constitutionnelle de 2020.] ;\ng) la définition des fondements juridiques du marché\nunique ; la réglementation financière, monétaire,\ndu crédit et douanière ; l'émission\nmonétaire, les fondements de la politique des prix ; les\nservices\néconomiques fédéraux, y compris les banques\nfédérales ;\nh) le budget fédéral ; les impôts et\nredevances fédéraux ; les fonds fédéraux de\ndéveloppement régional ;\ni) * les systèmes énergétiques\nfédéraux, l'énergie nucléaire, les\nmatières fissiles ; le transport, les voies de communication,\nl'information fédérales ; les technologies de l'information et des communications fédéraux ; les\nactivités spatiales ; [Ajouté par la loi constitutionnelle de 2020.]\nj) la politique extérieure et les relations internationales\nde la Fédération russe, les traités internationaux\nde la Fédération russe ; les questions de la guerre et de\nla paix ;\nk) les relations économiques extérieures de la\nFédération russe ;\nl)\nla défense et la sécurité ; les industries\nde défense ; les modalités de vente et d'achat des\narmements, des munitions, du matériel militaire et des autres\nbiens militaires ; la production de substances toxiques, de\nstupéfiants et les modalités de leur utilisation ; *\nassurer la sécurité de l'individu, de la\nsociété et de l'État lors de l'utilisation des\ntechnologies de l'information et de la circulation des données\nnumériques [Ajouté par la loi constitutionnelle de 2020.] ;\nm) la détermination du statut et la protection des\nfrontières d'État, des eaux territoriales, de l'espace\naérien, des zones économiques exclusives et du plateau\ncontinental de la Fédération russe ;\nn) le système judiciaire ; le Parquet ; la\nlégislation pénale, la procédure pénale et\nla législation pénitentiaire ; l'amnistie et la\ngrâce ; la législation civile, la procédure\ncivile et la procédure d'arbitrage ; la\nlégislation pénale et pénitentiaire ; l'amnistie\net la grâce ; la législation civile ; la\nlégislation de procédure ; la réglementation\njuridique de la propriété intellectuelle ;\n[Modifié par la loi de révision\nconstitutionnelle du 5 février 2014.]\no) le droit contentieux fédéral ;\np) * les services métrologiques, les normes et les\nétalons de mesure, le système métrique et la mesure du temps\n; la géodésie et la cartographie ; la toponymie ; le service météorologique ; les\nstatistiques officielles et les comptes publics ; [Modifié par la loi constitutionnelle de 2020.]\nq) les décorations officielles et les titres honorifiques\nde la Fédération russe ;\nr) le service public fédéral ; *\nl'établissement de restrictions pour l'accès aux\nfonctions de l'État et des municipalités, aux postes des\nservices de l'État et des municipalités, y compris des\nrestrictions liées à la citoyenneté d'un\nÉtat étranger ou à la détention d'un permis\nde séjour ou de tout autre document confirmant le droit de\nrésidence permanente d'un citoyen de la Fédération\nrusse sur le territoire d'un État étranger, ainsi que des\nrestrictions liées à l'ouverture et à la\npossession de comptes (dépôts), d'espèces et\nd'objets de valeur dans des banques étrangères\nsituées en dehors du territoire de la Fédération\nrusse [Ajouté par la loi constitutionnelle de 2020].",
+        "id": 71,
+        "number": "Article 71"
+    },
+    {
+        "chapter_id": 3,
+        "content": "Article 72.\n1. Sont de la compétence conjointe de la\nFédération russe et des sujets de la\nFédération russe :\na) la garantie de la conformité des constitutions et des\nlois des républiques, des statuts, des lois et autres actes\njuridiques normatifs des territoires, des régions, des villes\nd'importance fédérale, de la région autonome et\ndes\ndistricts autonomes à la Constitution de la\nFédération russe et aux lois fédérales ;\nb) la défense des droits et libertés de l'homme et\ndu citoyen, la défense des droits des minorités\nnationales\n; la garantie de la légalité, de l'ordre juridique et de\nla sécurité publique ; le régime des zones\nfrontalières ;\nc) les questions de possession, de jouissance et d'utilisation des\nterres, du sous-sol, des ressources hydrauliques et des autres\nressources naturelles ;\nd) la délimitation des biens publics ;\ne) la gestion de la nature ; * l'agriculture [Ajouté par la loi constitutionnelle de 2020] ; la protection de l'environnement\net la garantie de la sécurité écologique ; les\nsites naturels placés sous haute surveillance ; la protection\ndes\nmonuments historiques et culturels ;\nf) les questions générales relatives à\nl'éducation, à l'enseignement, à la science,\nà la culture, à l'éducation physique et au sport, * la politique de la jeunesse [Ajouté par la loi constitutionnelle de 2020] ;\ng)\nla coordination des questions de santÃ© ; *notamment en\ngarantissant la fourniture de soins mÃ©dicaux abordables et de\nhaute qualitÃ©, en prÃ©servant et en renforÃ§ant la\nsantÃ© publique, en crÃ©ant les conditions d'un mode de vie\nsain, en dÃ©veloppant une culture de la responsabilitÃ© des\ncitoyens envers leur santÃ© [AjoutÃ© par la loi constitutionnelle de 2020] ;  la couverture sociale, notamment la sÃ©curitÃ©\nsociale ;\ng1) la protection\nde la famille, de la maternité, de la paternité et de\nl'enfance ; * la protection de l'institution du mariage en tant\nqu'union d'un homme et d'une femme ; la création de conditions\npour une éducation décente des enfants dans la famille,\nainsi que pour que l'obligation pour les enfants majeurs de s'occuper\nde leurs parents [Ajouté par la loi constitutionnelle de 2020] ;\nh) la mise en oeuvre des mesures de lutte contre les catastrophes,\nles fléaux naturels, les épidémies et\nl'élimination de leurs conséquences ;\ni) l'établissement des principes généraux de\nla fiscalité et de la taxation en Fédération russe\n;\nj) la législation administrative, sur la procédure\nadministrative, le travail, la famille, le logement ; la\nlégislation foncière, sur les eaux, les forêts ; la\nlégislation sur le sous-sol et sur la protection de\nl'environnement ;\nk) les personnels des organes judiciaires et des organes du\nmaintien de l'ordre ; le barreau, le notariat ;\nl) la protection du milieu traditionnel de vie et des us et\ncoutumes des communautés ethniques numériquement peu\nnombreuses ;\nm) l'établissement des principes généraux\nd'organisation du système des organes du pouvoir d'État\net\nde l'autonomie locale ;\nn) la coordination des relations internationales et\néconomiques extérieures des sujets de la\nFédération russe, l'exécution des traités\ninternationaux signés par la Fédération russe.\n2. Les dispositions du présent article s'appliquent dans\nune égale mesure aux républiques, aux territoires, aux\nrégions, aux ville d'importance fédérale, à\nla région autonome et aux districts autonomes.",
+        "id": 72,
+        "number": "Article 72"
+    },
+    {
+        "chapter_id": 3,
+        "content": "Article 73.\nHors des limites de la compétence de la\nFédération russe et des pouvoirs de la\nFédération russe sur les questions de compétence\ncommune à la Fédération russe et aux sujets de la\nFédération russe, les sujets de la\nFédération russe disposent de la plénitude du\npouvoir d'État.",
+        "id": 73,
+        "number": "Article 73"
+    },
+    {
+        "chapter_id": 3,
+        "content": "Article 74.\n1. Sur le territoire de la Fédération russe,\nl'établissement de frontières douanières, de\ntaxes,\nde droits ou d'autres mesures faisant obstacle à la libre\ncirculation des marchandises, services et moyens financiers est\ninterdit\n.\n2. Des limitations à la circulation des marchandises et des\nservices peuvent être introduites conformément à la\nloi fédérale, si cela est nécessaire pour assurer\nla sécurité, la protection de la vie et de la\nsanté\ndes personnes, la protection de la nature et du patrimoine culturel.",
+        "id": 74,
+        "number": "Article 74"
+    },
+    {
+        "chapter_id": 3,
+        "content": "Article 75.\n1.\nL'unité monétaire en Fédération\nrusse est le rouble. L'émission de monnaie relève\nexclusivement de la Banque centrale de la Fédération\nrusse. La mise en circulation et l'émission d'autres monnaies\nen\nFédération russe sont interdites.\n2. La protection et la stabilité du rouble sont la fonction\nessentielle de la Banque centrale de la Fédération russe\nqu'elle exerce indépendamment des autres organes du pouvoir\nd'État.\n3. Le système des impôts prélevés au\nbénéfice du budget fédéral et les principes\ngénéraux d'imposition et de taxation en\nFédération russe sont établis par la loi\nfédérale.\n4. Les bons d'État sont émis selon la\nprocédure définie par la loi fédérale et\nsouscrits librement.\n* 5. La FÃ©dÃ©ration russe respecte le travail des\ncitoyens et garantit la protection de leurs droits. L'Ãtat\ngarantit un salaire minimum non infÃ©rieur au minimum vital de\nl'ensemble de la population en Ã¢ge de travailler dans la\nFÃ©dÃ©ration  russe.\n6. Dans la Fédération russe, un système de\npension pour les citoyens est mis en place sur la base des principes\nd'universalité, de justice et de solidarité des\ngénérations, son fonctionnement efficace est garanti, et\nl'indexation des pensions est effectuée au moins une fois par an\nselon la procédure établie par la loi\nfédérale.\n7. Dans la Fédération russe, l'assurance sociale\nobligatoire, l'aide sociale ciblée des citoyens et l'indexation\ndes prestations sociales et autres allocations sociales sont garantis. [5 à 7 ajoutés par la loi constitutionnelle de 2020]",
+        "id": 75,
+        "number": "Article 75"
+    },
+    {
+        "chapter_id": 3,
+        "content": "Article 75-1.\n",
+        "id": 76,
+        "number": "Article 75-1"
+    },
+    {
+        "chapter_id": 3,
+        "content": "Article 76.\n1. Sur les questions relevant de la compétence de la\nFédération russe, des lois constitutionnelles\nfédérales et des lois fédérales sont\nadoptées. Elles sont directement applicables sur tout le\nterritoire de la Fédération russe.\n2. Sur les questions relevant de la compétence conjointe de\nla Fédération russe et des sujets de la\nFédération russe des lois fédérales sont\npromulguées et des lois et autres actes juridiques normatifs des\nsujets de la Fédération russe sont adoptés en\nconformité avec elles.\n3. Les lois fédérales ne peuvent être\ncontraires aux lois constitutionnelles fédérales.\n4. Hors des limites de la compétence de la\nFédération russe, de la compétence conjointe de la\nFédération russe et des sujets de la\nFédération russe, les républiques, les\nterritoires,\nles régions, les villes d'importance fédérale, la\nrégion autonome et les districts autonomes exercent leur propre\nréglementation juridique, y compris en adoptant des lois et\nd'autres actes juridiques normatifs.\n5. Les lois et autres actes juridiques normatifs des sujets de la\nFédération russe ne peuvent être contraires aux\nlois\nfédérales adoptées conformément aux points\n1 et 2 du présent article. En cas de contradiction entre une loi\nfédérale et un autre acte adopté en\nFédération russe, c'est la loi fédérale qui\nest appliquée.\n6. En cas de contradiction entre une loi fédérale et\nun acte juridique normatif du sujet de la. Fédération\nrusse, adopté adopté conformément au point 4 du\nprésent article, c'est l'acte juridique normatif du sujet de la\nFédération russe qui est appliqué.",
+        "id": 77,
+        "number": "Article 76"
+    },
+    {
+        "chapter_id": 3,
+        "content": "Article 77.\n1. Le système des organes du pouvoir d'État des\nrépubliques, des territoires, des régions, des villes\nd'importance fédérale, de la région autonome et\ndes\ndistricts autonomes est défini par les sujets de la\nFédération russe conformément aux principes du\nrégime constitutionnel de la Fédération russe et\naux principes généraux d'organisation des organes\nreprésentatifs et exécutifs du pouvoir d'État,\ntels\nqu'ils sont établis par la loi fédérale.\n2. Dans les limites de la compétence de la\nFédération russe et des pouvoirs de la\nFédération russe, les organes fédéraux du\npouvoir exécutif et les organes du pouvoir exécutif des\nsujets de la Fédération russe forment un système\nunique de pouvoir exécutif pour les questions de\ncompétence conjointe entre la Fédération russe et\nles sujets de la Fédération russe.\n* 3. Le plus haut fonctionnaire d'une entité constitutive\nde la Fédération russe (le chef de l'organe\nexécutif le plus élevé du pouvoir d'État\nd'une entité constitutive de la Fédération russe)\npeut être un citoyen de la Fédération russe qui a\natteint l'âge de 30 ans, réside en permanence dans la\nFédération russe, n'a pas la citoyenneté d'un\nÉtat étranger ou un permis de séjour ou un autre\ndocument confirmant le droit à la résidence permanente\nd'un citoyen de la Fédération russe sur le territoire\nd'un État étranger. Il est interdit au plus haut\nfonctionnaire de l'entité constitutive de la\nFédération russe (le chef de l'organe exécutif le\nplus élevé du pouvoir d'État d'une entité\nconstitutive de la Fédération russe), conformément\nà la loi fédérale, d'ouvrir et d'avoir des comptes\n(dépôts), de détenir des espèces et des\nobjets de valeur dans des banques étrangères\nsituées en dehors du territoire de la Fédération\nrusse. La loi fédérale peut établir des exigences\nsupplémentaires pour le plus haut fonctionnaire d'une\nentité constitutive de la Fédération russe (le\nchef de l'organe exécutif le plus élevé du pouvoir\nd'État de l'entité constitutive de la\nFédération russe).\n[Ajouté par la loi constitutionnelle de 2020.]",
+        "id": 78,
+        "number": "Article 77"
+    },
+    {
+        "chapter_id": 3,
+        "content": "Article 78.\n1. Afin d'exercer leurs pouvoirs, les organes\nfédéraux du pouvoir exécutif peuvent créer\nleurs propres organes territoriaux et en nommer les responsables.\n2. Les organes fédéraux du pouvoir exécutif,\nen accord avec les organes du pouvoir exécutif des sujets de la\nFédération russe peuvent leur transférer une\npartie\nde leurs pouvoirs, si cela n'entre pas en contradiction avec la\nConstitution de la Fédération russe et les lois\nfédérales.\n3. Les organes du pouvoir exécutif des sujets de la\nFédération russe en accord avec les organes\nfédéraux du pouvoir exécutif peuvent leur\ntransférer l'exercice d'une partie de leurs pouvoirs.\n4. Le président de la Fédération russe et le\nGouvernement de la Fédération russe assurent,\nconformément à la Constitution de la\nFédération russe, l'exercice des prérogatives du\npouvoir d'État fédéral sur tout le territoire de\nla\nFédération russe.\n* 5. Le chef d'un organe de l'État fédéral\npeut être un citoyen de la Fédération russe qui a\natteint l'âge de 30 ans et qui n'a pas la citoyenneté d'un\nÉtat étranger ou un permis de séjour ou un autre\ndocument confirmant le droit à la résidence permanente\nd'un citoyen de la Fédération russe sur le territoire\nd'un État étranger. Il est interdit au chef d'un organe\nde l'État fédéral, conformément à la\nprocédure établie par la loi fédérale,\nd'ouvrir et d'avoir des comptes (dépôts), de\ndétenir des espèces et des objets de valeur dans des\nbanques étrangères situées en dehors du territoire\nde la Fédération russe.\n[Ajouté par la loi constitutionnelle de 2020.]",
+        "id": 79,
+        "number": "Article 78"
+    },
+    {
+        "chapter_id": 3,
+        "content": "Article 79.\nLa Fédération russe peut participer à des\nunions interétatiques et leur transférer une partie de\nses\npouvoirs conformément aux traités internationaux, si cela\nn'entraîne pas une limitation des droits et libertés de\nl'homme et du citoyen et n'est pas contraire aux principes du\nrégime constitutionnel de la Fédération russe. *\nLes décisions des organes interétatiques adoptées\nsur la base des dispositions des traités internationaux de la\nFédération russe dans leur interprétation\ncontraire à la Constitution de la Fédération\nrusse, ne sont pas soumises à exécution dans la\nFédération russe [Ajouté par la loi constitutionnelle de 2020].",
+        "id": 80,
+        "number": "Article 79"
+    },
+    {
+        "chapter_id": 3,
+        "content": "Article 79-1.",
+        "id": 81,
+        "number": "Article 79-1"
+    },
+    {
+        "chapter_id": 4,
+        "content": "Article 80.\n1. Le président de la Fédération russe est le\nchef de l'État.\n2. Le président de la Fédération russe est le\ngarant de la Constitution de la Fédération russe et des\ndroits et libertés de l'homme et du citoyen. Conformément\naux modalités établies par la Constitution de la\nFédération russe, il prend des mesures pour\nprotéger la souveraineté de la Fédération\nrusse, son indépendance et l'intégrité de\nl'État, * il maintient la paix civile et l'harmonie dans le\npays, assure le fonctionnement coordonné et la collaboration des\norganes qui font partie du système unifié de\nl'autorité publique [modifié par la loi constitutionnelle de 2020].\n3. Le président de la Fédération russe,\nconformément à la Constitution de la\nFédération russe et aux lois fédérales,\ndéfinit les orientations fondamentales de la politique\nintérieure et extérieure de l'État.\n4. Le président de la Fédération russe, en\ntant que chef de l'État, représente la\nFédération russe à l'intérieur du pays et\ndans les relations internationales.",
+        "id": 82,
+        "number": "Article 80"
+    },
+    {
+        "chapter_id": 4,
+        "content": "Article 81.\n1. Le président de la Fédération russe est\nélu pour quatre six ans par les citoyens de la\nFédération russe sur la base du suffrage universel,\négal et direct, à bulletins secrets.\n[Modifié par la loi de révision\nconstitutionnelle du 30 décembre 2008.]\n2.\n* Tout citoyen de la Fédération russe peut être\nélu président de la Fédération russe, s'il\nest âgé d'au moins 35 ans, réside en permanence\ndans la Fédération russe depuis au moins 25 ans, n'a pas\net n'avait pas auparavant la citoyenneté d'un État\nétranger ou un permis de séjour ou tout autre document\nconfirmant le droit de résidence permanente d'un citoyen de la\nFédération russe sur le territoire d'un État\nétranger. L'exigence pour un candidat au poste de\nprésident de la Fédération russe qu'il n'ait pas\nla nationalité d'un État étranger ne s'applique\npas aux citoyens de la Fédération russe qui avaient\nauparavant la nationalité d'un État qui a\nété intégré ou dont une partie a\nété intégrée dans la\nFédération russe conformément au droit\nconstitutionnel fédéral, et qui résidait en\npermanence sur le territoire d'un État admis dans la\nFédération russe ou sur le territoire d'une partie d'un\nÉtat admis dans la Fédération russe. Il est\ninterdit au président de la Fédération russe,\nconformément à la loi fédérale, d'ouvrir et\nd'avoir des comptes (dépôts), de détenir des\nespèces et des objets de valeur dans des banques\nétrangères situées en dehors du territoire de la\nFédération russe [Modifié par la loi constitutionnelle de 2020].\n\n3. La même personne ne peut exercer la fonction de\nprésident de la Fédération russe plus de deux\nmandats d'affilée [Modifié (podryad) par la loi constitutionnelle de 2020].\n* 3.1 La disposition de la partie 3 de l'article 81 de la\nConstitution de la Fédération russe, limitant le nombre\nde mandats pendant lesquels une même personne peut exercer la\nfonction de président de la Fédération russe,\ns'applique à une personne qui a exercé et (ou) exerce la\nfonction de président de la Fédération russe, sans\ntenir compte du nombre de mandats, au cours desquels elle a\nexercé et (ou) exerce cette fonction au moment de\nl'entrée en vigueur de l'amendement à la Constitution de\nla Fédération russe introduisant la restriction\ncorrespondante, et elle n'exclut pas la possibilité pour elle\nd'occuper la fonction de président de la\nFédération russe pendant les périodes que cette\ndisposition autorise.\n[Ajouté par la loi constitutionnelle de 2020.]\n4. Les modalités de l'élection du président\nde la Fédération russe sont déterminées par\nla loi fédérale.",
+        "id": 83,
+        "number": "Article 81"
+    },
+    {
+        "chapter_id": 4,
+        "content": "Article 82.\n1. Lors de son investiture, le président de la\nFédération russe prononce devant le peuple le serment\nsuivant :",
+        "id": 84,
+        "number": "Article 82"
+    },
+    {
+        "chapter_id": 4,
+        "content": "Article 83.\nLe président de la Fédération russe :\na) nomme le président du Gouvernement de la\nFédération russe en accord avec la Douma d'État ;\n* nomme le Président du Gouvernement de la\nFédération russe, dont la candidature a été\napprouvée par la Douma d'État sur proposition du\nprésident de la Fédération russe, et le\nrelève de ses fonctions [Modifié par la loi constitutionnelle de 2020] ;\nb) * assure la direction générale du gouvernement de la Fédération russe [Ajouté par la loi constitutionnelle de 2020]; a le droit de présider les séances du\nGouvernement de la Fédération russe ;\n* b1) approuve, sur proposition du président du\ngouvernement de la Fédération russe, la structure des\norganes exécutifs fédéraux, y apporte des\nmodifications ; dans la structure des organes exécutifs\nfédéraux, détermine les organes dont les\nactivités sont dirigées par le président de la\nFédération russe et les organes dont les activités\nsont dirigées par le Gouvernement de la Fédération\nrusse. Si le président du Gouvernement de la\nFédération russe est relevé de ses fonctions par\nle président de la Fédération russe, le nouveau\nprésident du Gouvernement de la Fédération russe\nne soumet pas au président de la Fédération russe\ndes propositions sur la structure des organes exécutifs\nfédéraux ; [Ajouté par la loi constitutionnelle de 2020]\nc) prend la décision de destituer le Gouvernement de la\nFédération russe ;\n*c1) accepte la démission du président du\nGouvernement de la Fédération russe, des\nvice-présidents du Gouvernement de la Fédération\nrusse, des ministres fédéraux, ainsi que des chefs des\norganes exécutifs fédéraux, dont les\nactivités sont dirigées par le président de la\nFédération russe  [Ajouté par la loi constitutionnelle de 2020] ;\nd) propose à la Douma d'État, aux fins de\nnomination, une candidature à la fonction de président de\nla Banque centrale de la Fédération russe ; propose\nà la Douma d'État la révocation du\nprésident\nde la Banque centrale de la Fédération russe ;\ne) sur proposition du président du Gouvernement de la\nFédération russe, nomme et libère de leurs\nfonctions les vice-présidents du Gouvernement et les ministres\nfédéraux ; \n* nomme à leurs fonctions les vice-présidents du\ngouvernement de la Fédération russe et les ministres\nfédéraux, dont les candidatures ont été\napprouvées par la Douma d'État (à l'exception des\nministres fédéraux visés au point e1 ci-dessous),\net les décharge de leurs fonctions [Modifié par la loi constitutionnelle de 2020] ;\ne1) nomme Ã  leurs fonctions, aprÃ¨s consultation du\nConseil de la FÃ©dÃ©ration, et rÃ©voque de leurs\nfonctions les chefs des organes exÃ©cutifs fÃ©dÃ©raux\n(y compris les ministres fÃ©dÃ©raux) chargÃ©s de la\ndÃ©fense, de la sÃ©curitÃ© de l'Ãtat, des\naffaires intÃ©rieures, de la justice, des affaires\nÃ©trangÃ¨res, de la prÃ©vention des situations\nd'urgence et de l'Ã©limination des consÃ©quences des\ncatastrophes naturelles, et de la sÃ©curitÃ© publique  [AjoutÃ© par la loi constitutionnelle de 2020]  ;\nf1) propose au Conseil de la FÃ©dÃ©ration les\ncandidats aux postes de Procureur gÃ©nÃ©ral  et de\nprocureurs gÃ©nÃ©raux adjoints de la\nFÃ©dÃ©ration russe ; propose la rÃ©vocation du\nProcureur gÃ©nÃ©ral  et des procureurs\ngÃ©nÃ©raux adjoints de la FÃ©dÃ©ration russe ;\nnomme et rÃ©voque les procureurs des sujets de la\nFÃ©dÃ©ration russe, ainsi que les autres procureurs,\nÃ  l'exception des procureurs des villes, des rayons et des\nprocureurs assimilÃ©s ; \n[AjoutÃ© par la loi de rÃ©vision\nconstitutionnelle du 5 fÃ©vrier 2014.]\n\nf2) nomme et révoque les représentants de la\nFédération russe au Conseil de la\nFédération. \n[Ajouté par la loi de révision\nconstitutionnelle du 21 juillet 2014.]\n* f3) soumet au Conseil de la Fédération une\nproposition de mettre fin, conformément au droit constitutionnel\nfédéral, aux fonctions du Président de la Cour\nconstitutionnelle de la Fédération russe, du\nvice-président de la Cour constitutionnelle de la\nFédération russe et des juges de la Cour\nconstitutionnelle de la Fédération russe, du\nprésident de la Cour suprême de la\nFédération russe, des vice-présidents de la Cour\nsuprême de la Fédération russe et des juges de la\nCour suprême de la Fédération russe, des\nprésidents, vice-présidents et juges des cours de\ncassation et d'appel, en cas de commission d'un acte portant atteinte\nà l'honneur et à la dignité d'un juge, ainsi que\ndans les autres cas prévus par la loi constitutionnelle\nfédérale qui entrainent l'impossibilité pour un\njuge d'exercer ses fonctions ; [Ajouté par la loi constitutionnelle de 2020]\n* f4) présente au Conseil de la Fédération\nles candidats à la nomination au poste de président de la\nCour des comptes et la moitié du nombre total des auditeurs de\nla Cour des comptes ; présente à la Douma d'État\nles candidats à la nomination au poste de vice-président\nde la Cour des comptes et la moitié du nombre total des\nauditeurs de la Cour des comptes [Ajouté par la loi constitutionnelle de 2020] ;\n* f5) forme le Conseil d'État de la\nFédération russe afin d'assurer le fonctionnement\ncoordonné et la collaboration des organes des pouvoirs publics,\ndéterminer les principales orientations de la politique\nintérieure et étrangère de la\nFédération russe et les orientations prioritaires du\ndéveloppement socio-économique de l'État ; le statut du\nConseil d'État de la Fédération russe est\ndéterminé par la loi fédérale [Ajouté par la loi constitutionnelle de 2020] ;\ng) forme et dirige le Conseil de sécurité de la\nFédération russe, dont le statut est fixé par la\nloi fédérale ;\n* forme le Conseil de sécurité de la\nFédération russe afin d'assister le chef de l'État\ndans l'exercice de ses pouvoirs pour assurer les intérêts\nnationaux et la sécurité de l'individu, de la\nsociété et de l'État, ainsi que maintenir la paix\ncivile et l'harmonie dans le pays, protéger la\nsouveraineté de la Fédération russe, son\nindépendance et l'intégrité de l'État,\nassurer la prévention des menaces internes et externes ; il\ndirige le Conseil de sécurité de la\nFédération russe. Le statut du Conseil de\nsécurité de la Fédération russe est\ndéterminé par la loi fédérale [Modifié par la loi constitutionnelle de 2020] ;\nh) approuve la doctrine militaire de la Fédération\nrusse ;\ni) forme l'administration du président de la\nFédération russe * afin d'assurer l'exercice de ses pouvoirs [Ajouté par la loi constitutionnelle de 2020]  ;\nj) nomme et révoque les représentants\nplénipotentiaires du président de la\nFédération russe ;\nk) nomme et révoque le haut commandement des forces\narmées de la Fédération russe;\nl) nomme et rappelle, après consultation des comités\nou des commissions ad hoc des chambres de l'Assemblée\nfédérale, les représentants diplomatiques de la\nFédération russe en poste auprès des\nÉtats étrangers et des organisations internationales.",
+        "id": 85,
+        "number": "Article 83"
+    },
+    {
+        "chapter_id": 4,
+        "content": "Article 84.\nLe président de la Fédération russe :\na) fixe les élections à la Douma d'État\nconformément à la Constitution de la\nFédération russe et a la loi fédérale ;\nb) dissout la Douma d'État dans les cas et selon les\nmodalités prévues par la Constitution de la\nFédération russe ;\nc) décide du référendum selon les\nmodalités établies par la loi constitutionnelle\nfédérale ;\nd) soumet des projets de lois à la Douma d'État ;\ne) signe et promulgue les lois fédérales ;\nf) adresse chaque année à l'Assemblée\nfédérale des messages rendant compte de la situation dans\nle pays et des principales orientations de la politique\nintérieure et extérieure de l'État.",
+        "id": 86,
+        "number": "Article 84"
+    },
+    {
+        "chapter_id": 4,
+        "content": "Article 85.\n1. Le président de la Fédération russe peut\nrecourir à des procédures de conciliation pour\nrégler les litiges entre les organes du pouvoir d'État de\nla Fédération russe et les organes du pouvoir\nd'État des sujets de la Fédération russe, ainsi\nqu'entre les organes du pouvoir d'État des sujets de la\nFédération russe. Si un accord ne peut être obtenu,\nil peut soumettre le litige à l'examen du tribunal ad hoc.\n2. Le président de la Fédération russe a le\ndroit de suspendre l'application d'actes émanant des organes du\npouvoir exécutif des sujets de la Fédération\nrusse,\ndans le cas où ils sont contraires a la Constitution de la\nFédération russe ou aux lois fédérales, aux\nengagements internationaux de la Fédération russe ou\ns'ils violent les droits et les libertés de l'homme et du\ncitoyen, en attendant que le tribunal ad hoc prenne une décision\nà ce sujet.",
+        "id": 87,
+        "number": "Article 85"
+    },
+    {
+        "chapter_id": 4,
+        "content": "Article 86.\nLe président de la Fédération russe :\na) assure la direction de la politique extérieure de la\nFédération russe ;\nb) mène les pourparlers et signe les traités\ninternationaux de la Fédération russe ;\nc) signe les instruments de ratification ;\nd) reçoit les lettres de créance et de rappel des\nreprésentants diplomatiques accrédités\nauprès de lui.",
+        "id": 88,
+        "number": "Article 86"
+    },
+    {
+        "chapter_id": 4,
+        "content": "Article 87.\n1. Le président de la Fédération russe est le\ncommandant en chef suprême des forces armées de la\nFédération russe.\n2. En cas d'agression contre la Fédération russe ou\nde menace directe d'agression, le président de la\nFédération russe instaure la loi martiale sur le\nterritoire de la Fédération russe ou dans certaines de\nses\nlocalités l'état de siège et en informe\nimmédiatement le Conseil de la Fédération et la\nDouma d'État.\n3. Le régime de la loi martiale est défini par la\nloi fédérale constitutionnelle.",
+        "id": 89,
+        "number": "Article 87"
+    },
+    {
+        "chapter_id": 4,
+        "content": "Article 88.\nLe président de la Fédération russe, dans les\ncirconstances et selon les modalités établies par la loi\nconstitutionnelle fédérale, établit l'état\nd'urgence sur le territoire de la Fédération russe ou\ndans\ncertaines de ses localités et en informe immédiatement le\nConseil de la Fédération et la Douma d'État.",
+        "id": 90,
+        "number": "Article 88"
+    },
+    {
+        "chapter_id": 4,
+        "content": "Article 89.\nLe président de la Fédération russe :\na) décide des questions relatives à la\ncitoyenneté de la Fédération russe et à\nl'octroi de l'asile politique ;\nb) décerne les décorations officielles de la\nFédération russe, les titres honorifiques de la\nFédération russe, attribue les plus hautes distinctions\nmilitaires et les plus hauts grades militaires spéciaux ;\nc) accorde la grâce.",
+        "id": 91,
+        "number": "Article 89"
+    },
+    {
+        "chapter_id": 4,
+        "content": "Article 90.\n1. Le président de la Fédération russe publie\nles décrets et les ordonnances.\n2. Les décrets et les ordonnances du président de la\nFédération russe sont obligatoires sur l'ensemble du\nterritoire de la Fédération russe.\n3. Les décrets et les ordonnances du président de la\nFédération russe ne doivent pas être contraires\nà la Constitution de la Fédération russe et aux\nlois fédérales.",
+        "id": 92,
+        "number": "Article 90"
+    },
+    {
+        "chapter_id": 4,
+        "content": "Article 91.\nLe président de la Fédération russe jouit de\nl'inviolabilité.",
+        "id": 93,
+        "number": "Article 91"
+    },
+    {
+        "chapter_id": 4,
+        "content": "Article 92.\n1. Le président de la Fédération russe\ncommence à exercer ses pouvoirs dès qu'il a\nprêté serment et il cesse de les assumer à\nl'expiration de son mandat, dès que le nouveau président\nélu de la Fédération russe a prêté\nserment.\n2. Le président de la Fédération russe cesse\nd'exercer ses pouvoirs avant terme en cas de démission,\nd'incapacité durable du fait de son état de santé\nà exercer les pouvoirs qui lui sont conférés, ou\nen\ncas de destitution. Dans ce cas, l'élection du président\nde la Fédération russe doit avoir lieu au plus tard dans\nles trois mois qui suivent la fin anticipée de son mandat.\n3. Dans tous les cas ou le président de la\nFédération russe n'est pas en état d'exercer ses\nobligations, celles-ci sont assumées à titre provisoire\npar le président du Gouvernement de la Fédération\nrusse. Le président de la Fédération russe par\nintérim n'a pas le droit de dissoudre la Douma d'État,\nd'organiser un référendum ni de proposer des amendements\nou une révision des dispositions de la Constitution de la\nFédération russe.\n1. Le président de la Fédération russe dont\nles fonctions ont pris fin en raison de l'expiration de son mandat ou\nde manière anticipée en cas de démission ou\nd'incapacité persistante pour des raisons de santé\nd'exercer ses pouvoirs, bénéficie de l'immunité.\n2.\nD'autres garanties accordées au Président de la\nFédération russe qui ont cessé d'exercer leurs\npouvoirs en raison de l'expiration de son mandat ou de manière\nanticipée en cas de démission ou d'incapacité\ndurable du fait de son état de santé d'exercer ses\npouvoirs sont établies par la loi fédérale.\n3. Le président de la Fédération russe dont les fonctions ont pris fin\npeut être privé de l'immunité de la manière\nprescrite par l'article 93 de la Constitution de la\nFédération russe. \n[Article nouveau, ajouté par la loi constitutionnelle de 2020.]\n",
+        "id": 94,
+        "number": "Article 92"
+    },
+    {
+        "chapter_id": 4,
+        "content": "Article 93.\n1.\nLe président de la Fédération russe ne\npeut être démis de ses fonctions * et le président\nde la Fédération russe dont les fonctions ont pris fin ne\npeut être privé de son immunité [ajouté par la loi constitutionnelle de 2020] par le Conseil de la\nFédération que s'il est accusé par la Douma\nd'État de haute trahison ou d'un autre délit grave,\naprès confirmation par un acte de la Cour suprême de la\nFédération russe établissant l'existence des\néléments délictueux dans les actes du\nprésident de la Fédération russe, et par un acte\nde\nla Cour constitutionnelle de la Fédération russe relatif\nau respect de la procédure établie pour la mise en\naccusation.\n2. La décision de mise en accusation par la Douma\nd'État et la décision du Conseil de la\nFédération de destituer le président * ou de le priver de l'immunité [ajouté par la loi constitutionnelle de 2020] doivent\nêtre prises à la majorité des deux tiers de\nl'ensemble * des sénateurs [Modifié par la loi constitutionnelle de 2020] et des députés dans chacune des chambres, et sur\nl'initiative d'au moins un tiers des députés à la\nDouma d'État, à condition que la commission\nspéciale formée par la Douma d'État ait\ndéposé ses conclusions.\n3. La décision du Conseil de la Fédération de\ndestituer le président de la Fédération russe * ou de le priver de son immunité [ajouté par la loi constitutionnelle de 2020] doit\nêtre adoptée au plus tard dans les trois mois qui suivent\nla mise en accusation du président par la Douma d'État.\nSi\nle Conseil de la Fédération n'a pas pris sa\ndécision dans ce délai, l'accusation portée contre\nle président est considérée comme rejetée.",
+        "id": 95,
+        "number": "Article 93"
+    },
+    {
+        "chapter_id": 5,
+        "content": "Article 94.\nL'Assemblée fédérale - Parlement de la\nFédération russe - est l'organe représentatif et\nlégislatif de la Fédération russe.",
+        "id": 96,
+        "number": "Article 94"
+    },
+    {
+        "chapter_id": 5,
+        "content": "Article 95.\n*\n4. Tout citoyen de la Fédération russe qui a\natteint l'âge de 30 ans, réside de manière\npermanente dans la Fédération russe, n'a pas la\ncitoyenneté d'un État étranger ou un permis de\nséjour ou un autre document confirmant le droit de\nrésidence permanent d'un citoyen de la Fédération\nrusse sur le territoire d'un État étranger, peut\nêtre sénateur de la Fédération russe.\nIl est interdit aux sénateurs de la Fédération\nrusse, conformément à la procédure établie\npar la loi fédérale, d'ouvrir et d'avoir des comptes\n(dépôts), de conserver des espèces et des objets de\nvaleur dans des banques étrangères situées en\ndehors du territoire de la Fédération russe.\n* 6. Les représentants de la Fédération russe\nau Conseil de la Fédération, à l'exception des\nreprésentants de la Fédération russe, qui exercent\nles pouvoirs des sénateurs à vie, sont nommés pour\nune période de six ans.\n\n* 7. La Douma d'État compte 450 députés",
+        "id": 97,
+        "number": "Article 95"
+    },
+    {
+        "chapter_id": 5,
+        "content": "Article 96.\n1. La Douma d'État est élue pour quatre\ncinq ans.\n[Modifié par la loi de révision\nconstitutionnelle du 30 décembre 2008.]\n2. La procédure de formation du Conseil de la\nFédération et la procédure d'élection des\ndéputés à la Douma d'État sont\nfixées\npar des lois fédérales.",
+        "id": 98,
+        "number": "Article 96"
+    },
+    {
+        "chapter_id": 5,
+        "content": "Article 97.\n1. Tout citoyen de la Fédération russe peut\nêtre élu député à la Douma\nd'État, à condition d'avoir vingt et un ans et de jouir\ndu\ndroit de vote, * s'il réside de manière permanente dans\nla Fédération russe, n'a pas la\ncitoyenneté d'un État étranger ou un permis de\nséjour ou un autre\ndocument confirmant le droit de résidence permanent d'un citoyen\nde la Fédération russe sur le territoire d'un État\nétranger. Il est interdit aux députés de la Douma\nd'État, conformément à la procédure\nétablie par la loi fédérale, d'ouvrir et\nd'avoir des comptes (dépôts), de conserver des\nespèces et des objets de\nvaleur dans des banques étrangères situées en\ndehors du territoire de\nla Fédération russe. [ajouté par la loi constitutionnelle de 2020]\n2. Une seule et même personne ne peut être en\nmême temps * membre du Conseil sénateur [modifié par la loi constitutionnelle de 2020] de la Fédération russe et\ndéputé à la Douma d'État. Un\ndéputé à la Douma d'État ne peut\nsiéger dans d'autres organes représentatifs du pouvoir\nd'État ni dans les organes de l'autonomie locale.\n3. Les députés à la Douma d'État\nexercent leurs fonctions à titre professionnel permanent. Les\ndéputés à la Douma d'État ne peuvent\nappartenir à la fonction publique ni exercer une autre\nactivité rémunérée, à l'exception de\ncelles relevant de l'enseignement, de la recherche et des autres\ndomaines de création.",
+        "id": 99,
+        "number": "Article 97"
+    },
+    {
+        "chapter_id": 5,
+        "content": "Article 98.\n1. * Les membres du Conseil Les sénateurs [modifié par la loi constitutionnelle de 2020] de la Fédération et les\ndéputés à la Douma d'État\nbénéficient de l'immunité durant toute la\ndurée de leur mandat. Ils ne peuvent être placés en\ngarde à vue, arrêtés, soumis à une\nperquisition sauf cas de flagrant délit, ni soumis à la\nfouille, à l'exception des cas prévus par la loi\nfédérale pour garantir la sécurité\nd'autrui.\n2. La question de la levée de l'immunité est\nexaminée par la chambre compétente de l'Assemblée\nfédérale, sur requête du Procureur\ngénéral de la Fédération russe.",
+        "id": 100,
+        "number": "Article 98"
+    },
+    {
+        "chapter_id": 5,
+        "content": "Article 99.\n1. L'Assemblée fédérale est un organe\npermanent.\n2. La Douma d'État se réunit pour sa première\nsession le trentième jour qui suit son élection. Le\nprésident de la Fédération russe peut convoquer\nune\nsession anticipée de la Douma d'État.\n3. La première séance de la Douma d'État est\nouverte par le doyen d'âge des députés.\n4. Les pouvoirs de la Douma d'État de la législature\nprécédente prennent fin au moment où la Douma\nd'État de la nouvelle législature entame es travaux.",
+        "id": 101,
+        "number": "Article 99"
+    },
+    {
+        "chapter_id": 5,
+        "content": "Article 100.\n1. Le Conseil de la Fédération et la Douma\nd'État siègent séparément.\n2. Les séances du Conseil de la Fédération et\ncelles de la Douma d'État sont publiques. Dans les cas\nprévus par le règlement de la chambre, celle-ci peut\ntenir\ndes séances à huis clos.\n3. Les chambres peuvent se réunir conjointement pour\nentendre les messages du président de la\nFédération\nrusse, ceux de la Cour constitutionnelle de la Fédération\nrusse et les interventions des chefs d'États étrangers [modifié par la loi constitutionnelle de 2020].",
+        "id": 102,
+        "number": "Article 100"
+    },
+    {
+        "chapter_id": 5,
+        "content": "Article 101.\n1. Le Conseil de la Fédération élit en son\nsein le président du Conseil de la Fédération et\nles vice-présidents. La Douma d'État élit en son\nsein le président de la Douma d'État et les\nvice-présidents.\n2. Le président du Conseil de la Fédération\net les vice-présidents, le président de la Douma\nd'État et les vice-présidents président les\nséances et fixent les modalités de fonctionnement interne\nde la chambre.\n3. Le Conseil de la Fédération et la Douma\nd'État forment des comités et commissions,\nprocèdent à des auditions parlementaires sur les\nquestions\nrelevant de leur compétence.\n4. Chaque chambre adopte son propre règlement et\ndécide des questions touchant les modalités internes de\nson activité.\n5. Pour assurer le contrôle de l'exécution du budget\nfédéral, le Conseil de la Fédération et la\nDouma d'État forment une Cour des comptes, dont la composition\net\nle mode de fonctionnement dont définis par la loi\nfédérale.",
+        "id": 103,
+        "number": "Article 101"
+    },
+    {
+        "chapter_id": 5,
+        "content": "Article 102.\n1. Relèvent de la compétence du Conseil de la\nFédération :\na) l'approbation des modifications de frontières entre les\nsujets de la Fédération russe ;\nb) l'approbation du décret du président de la\nFédération russe sur l'introduction de la loi martiale ;\nc) l'approbation du décret du président de la\nFédération russe sur l'introduction de l'état\nd'urgence ;\nd) la décision concernant le recours éventuel aux\nForces armées de la Fédération russe hors des\nlimites du territoire de la Fédération russe ;\ne) la fixation de l'élection du président de la\nFédération russe ;\nf)\nla destitution du président de la\nFédération russe ; * la privation de l\u0019immunité du\nPrésident de la Fédération russe, dont les\nfonctions ont pris fin  [ajouté par la loi constitutionnelle de 2020] ;\ng) * la nomination des juges à la Cour constitutionnelle de\nla Fédération russe, à la Cour suprême de la\nFédération russe [modifié par la loi constitutionnelle de 2020], à la Haute Cour\nd'arbitrage de\nla\nFédération russe [Modifié par la loi de révision\nconstitutionnelle du 5 février 2014] ;\nla nomination, sur proposition du président de la\nFédération russe, du président de la Cour\nconstitutionnelle de la Fédération russe, du\nvice-président de la Cour constitutionnelle de la\nFédération russe et des juges de la Cour\nconstitutionnelle de la Fédération russe, du\nprésident de la Cour suprême de la\nFédération russe, des vice-présidents de la Cour\nsuprême de la Fédération russe et des juges de la\nCour suprême de la Fédération russe\n\n\n\nh) * la nomination et la rÃ©vocation du Procureur\ngÃ©nÃ©ral de la FÃ©dÃ©ration russe et des\nprocureurs gÃ©nÃ©raux adjoints ;\n[Dernier membre de phrase ajoutÃ© par la loi de\nrÃ©vision\nconstitutionnelle du 5 fÃ©vrier 2014, puis modification par la loi constitutionnelle de 2020] \nles consultations sur les candidats proposÃ©s par le\nprÃ©sident de la FÃ©dÃ©ration russe pour les postes\nde Procureur gÃ©nÃ©ral de la FÃ©dÃ©ration\nrusse, procureurs adjoints de la FÃ©dÃ©ration russe,\nprocureurs des entitÃ©s constitutives de la\nFÃ©dÃ©ration russe, les procureurs de l'armÃ©e et\nd'autres procureurs assimilÃ©s aux procureurs des entitÃ©s\nconstitutives de la FÃ©dÃ©ration russe ;\ni) * la nomination et la rÃ©vocation du vice-prÃ©sident\nde la Cour des comptes  la nomination et la rÃ©vocation, sur proposition du prÃ©sident de la FÃ©dÃ©ration russe, du prÃ©sident de la Chambre des comptes [modifiÃ© par la loi constitutionnelle de 2020] et de la moitiÃ© du nombre total des auditeurs de la Chambre des comptes.\n* k) sur proposition du président de la Fédération russe, la décision de mettre fin, conformément au droit constitutionnel\nfédéral, aux fonctions du président de la Cour constitutionnelle de la\nFédération russe, du vice-président de la Cour constitutionnelle de la\nFédération russe et des juges de la Cour constitutionnelle de la\nFédération russe, du président de la Cour suprême de la Fédération\nrusse, des vice-présidents de la Cour suprême de la Fédération russe et\ndes juges de la Cour suprême de la Fédération russe, des présidents,\nvice-présidents et juges des cours de cassation et d'appel, en cas de\ncommission d'un acte portant atteinte à l'honneur et à la dignité d'un\njuge, ainsi que dans les autres cas prévus par la loi constitutionnelle\nfédérale qui entrainent l'impossibilité pour un juge d'exercer ses\nfonctions [Ajouté par la loi constitutionnelle de 2020] ;\n* l) l'audition du rapport annuel du Procureur\ngénéral de la Fédération russe sur\nl'état de l'ordre public dans la Fédération russe [Ajouté par la loi constitutionnelle de 2020] ;\n2. Le Conseil de la Fédération adopte des résolutions sur les questions relevant de sa compétence\nen vertu de la Constitution de la Fédération russe.\n3. Les résolutions du Conseil de la\nFédération sont adoptées à la majorité\nde l'ensemble des * membres du Conseil sénateurs [modifié par la loi constitutionnelle de 2020]  de la Fédération, si\naucune autre procédure d'adoption n'est prévue par la\nConstitution de la Fédération russe.",
+        "id": 104,
+        "number": "Article 102"
+    },
+    {
+        "chapter_id": 5,
+        "content": "Article 103.\n1. Relèvent de la compétence de la Douma\nd'État :\na) la ratification de la nomination du président du\nGouvernement de la Fédération russe par le\nprésident de la Fédération russe ;\n* approuver la candidature au poste de président du Gouvernement\nde la Fédération russe, sur proposition du\nprésident de la Fédération russe [modifié par la loi constitutionnelle de 2020] ;\n*\na1) approuver les candidatures aux postes de\nvice-président du gouvernement de la Fédération\nrusse et de ministre fédéral, à l'exception des\nministres fédéraux visés à l'item \"e1\" de\nl'article 83 de la Constitution de la fédération\nrusse,sur proposition du président du gouvernement de la\nFédération russe [ajouté par la loi constitutionnelle de 2020] ;\nb) la décision concernant la question de confiance au\nGouvernement de la Fédération russe ;\nc) l'audition des rapports annuels du Gouvernement de la\nFédération russe sur les résultats de son action,\nnotamment les réponses aux questions posées par la Douma\nd'État ;\n[Addition d'une item c) et modification des lettres\nsuivantes par la loi de révision constitutionnelle du 30\ndécembre 2008.]\nd) la nomination et la révocation du président de la\nBanque centrale de la Fédération russe ;\n* d1) l\u0019audition des rapports annuels de la Banque centrale de la Fédération russe [ajouté par la loi constitutionnelle de 2020] ;\ne) la nomination et la révocation du * vice-président  [modifié par la loi constitutionnelle de 2020] de\nla\nCour des comptes et de la moitié de ses auditeurs, sur\nproposition du président de la Fédération russe  ;\nf)\nla nomination et la révocation du\nDélégué aux droits de l'homme, qui agit\nconformément à la loi constitutionnelle\nfédérale ; *\nTout citoyen de la Fédération russe qui\nréside de manière permanente dans la\nFédération russe, n'a pas la\ncitoyenneté d'un État étranger ou un permis de\nséjour ou un autre\ndocument confirmant le droit de résidence permanent d'un citoyen\nde la Fédération russe sur le territoire d'un État\nétranger, peut être nommé\ndélégué aux droits de l'homme de la\nFédération russe.\nIl est interdit au Délégué aux droits de l'homme\nde la Fédération russe, conformément à la\nprocédure établie par la loi fédérale,\nd'ouvrir et d'avoir des comptes\n(dépôts), de conserver des espèces et des objets de\nvaleur dans des\nbanques étrangères situées en dehors du territoire\nde la Fédération\nrusse [ajouté par la loi constitutionnelle de 2020] ;\ng) la proclamation de l'amnistie ;\nh) la mise en accusation du président de la\nFédération russe en vue de sa destitution, * et la mise en accusation du président de la\nFédération russe qui a quitté ses fonctions afin de le priver de son immunité [ajouté par la loi constitutionnelle de 2020].\n2. La Douma d'État adopte des résolutions sur les\nquestions relevant de sa compétence en vertu de la Constitution\nde la Fédération russe.\n3. Les résolutions de la Douma d'État sont\nadoptées à la majorité de l'ensemble des\ndéputés à la Douma d'État, si aucune autre\nprocédure d'adoption n'est prévue par la Constitution de\nla Fédération russe.",
+        "id": 105,
+        "number": "Article 103"
+    },
+    {
+        "chapter_id": 5,
+        "content": "Article 103-1.\n",
+        "id": 106,
+        "number": "Article 103-1"
+    },
+    {
+        "chapter_id": 5,
+        "content": "Article 104.\n1. Le droit d'initiative législative appartient au\nprésident de la Fédération russe, au Conseil de la\nFédération, aux * membres du Conseil sénateurs [modifié par la loi constitutionnelle de 2020] de la\nFédération, aux députés à la Douma\nd'État, au Gouvernement de la Fédération russe,\naux\norganes législatifs (représentatifs) des sujets de la\nFédération russe. Le droit d'initiative\nlégislative\nappartient également à la Cour constitutionnelle de la\nFédération russe, à la Cour suprême de la\nFédération russe et à la Haute Cour\nd'arbitrage de\nla Fédération russe sur les questions relevant\nde leur\ncompétence.\n[Modifié par la loi de révision\nconstitutionnelle du 5 février 2014.]\n\n\n2. Les projets de lois sont déposés devant la Douma\nd'État.\n3. Les projets de loi sur l'établissement ou la suppression\ndes impôts, les exonérations fiscales, l'émission\nd'emprunts d'État, la modification des engagements financiers de\nl'État et les autres projets de lois prévoyant des\ndépenses couvertes par le budget fédéral ne\npeuvent\nêtre présentés qu'avec un avis du Gouvernement de\nla Fédération russe.",
+        "id": 107,
+        "number": "Article 104"
+    },
+    {
+        "chapter_id": 5,
+        "content": "Article 105.\n1. Les lois fédérales sont adoptées par la\nDouma d'État.\n2. Les lois fédérales sont adoptées à\nla majorité de l'ensemble des députés à la\nDouma d'État si aucune autre disposition n'est prévue par\nla Constitution de la Fédération russe.\n3. Les lois fédérales adoptées par la Douma\nd'État sont transmises pour examen du Conseil au la\nFédération dans un délai de cinq jours.\n4. La loi fédérale est considérée\ncomme approuvée par le Conseil de la Fédération si\nplus de la moitié de l'ensemble des membres de cette chambre ont\nvoté en sa faveur, ou bien si dans un délai de quatorze\njours elle n'est pas examinée par le Conseil de la\nFédération. En cas de rejet d'une loi\nfédérale par le Conseil de la Fédération,\nles chambres peuvent constituer une commission de conciliation afin e\nsurmonter les désaccords apparus, après quoi la loi\nfédérale est renvoyée à la Douma\nd'État pour une seconde lecture .\n5. En cas de désaccord de la Douma d'État avec la\ndécision du Conseil de la Fédération, la loi\nfédérale est considérée comme\nadoptée\nsi, au cours du second vote, elle recueille les suffrages des deux\ntiers au moins de l'ensemble des députés à la\nDouma d'État.",
+        "id": 108,
+        "number": "Article 105"
+    },
+    {
+        "chapter_id": 5,
+        "content": "Article 106.\na) le budget fédéral ;\nb) les impôts et les redevances fédéraux ;\nc) la réglementation financière, monétaire,\ndu crédit, douanière, l'émission de monnaie ;\nd) la ratification et de la dénonciation des traités\ninternationaux de la Fédération russe ;\ne) le statut et la défense des frontières\nd'État de la Fédération russe ;\nf) la guerre et la paix.",
+        "id": 109,
+        "number": "Article 106"
+    },
+    {
+        "chapter_id": 5,
+        "content": "Article 107.\n1. La loi fédérale adoptée est soumise au\nprésident de la Fédération russe dans un\ndélai de cinq jours aux fins de signature et de promulgation.\n2. Le président de la Fédération russe\ndispose d'un délai de quatorze jours pour signer et promulguer\nla\nloi fédérale.\n3. Si le prÃ©sident de la FÃ©dÃ©ration russe\nrejette une loi fÃ©dÃ©rale dans le dÃ©lai de 14 jours\nÃ  compter de sa rÃ©ception, la Douma d'Ãtat et le\nConseil de la  FÃ©dÃ©ration, selon les\nmodalitÃ©s\nprÃ©vues par la Constitution de la FÃ©dÃ©ration\nrusse, examinent une seconde fois cette loi. Si, lors de ce second\nexamen, la loi fÃ©dÃ©rale est approuvÃ©e dans sa\nrÃ©daction initiale par une majoritÃ© d'au moins deux tiers\nde l'ensemble des * membres du Conseil sÃ©nateurs [modifiÃ© par la loi constitutionnelle de 2020] \nde la FÃ©dÃ©ration et\ndes dÃ©putÃ©s Ã  la Douma d'Ãtat, elle doit\nÃªtre signÃ©e par le prÃ©sident de la\nFÃ©dÃ©ration russe dans les sept jours et\npromulguÃ©e. * Si le prÃ©sident de la\nFÃ©dÃ©ration russe, dans le dÃ©lai imparti, s'adresse\nÃ  la Cour constitutionnelle de la FÃ©dÃ©ration russe\npour demander le contrÃ´le de la constitutionnalitÃ© d'une\nloi fÃ©dÃ©rale, le dÃ©lai pour la signature d'une\ntelle loi est suspendu pour la pÃ©riode d'examen de la demande\npar la Cour constitutionnelle de la FÃ©dÃ©ration russe. Si\nla Cour constitutionnelle de la FÃ©dÃ©ration russe confirme\nla constitutionnalitÃ© de ladite loi fÃ©dÃ©rale, le\nprÃ©sident de la FÃ©dÃ©ration russe doit la signer\ndans les trois jours Ã  compter du moment oÃ¹ la Cour\nconstitutionnelle de la FÃ©dÃ©ration russe a rendu sa\ndÃ©cision. Si la Cour constitutionnelle de la\nFÃ©dÃ©ration russe ne confirme pas la\nconstitutionnalitÃ© de la loi fÃ©dÃ©rale, le\nprÃ©sident de la FÃ©dÃ©ration russe la renvoie\nÃ  la Douma d'Ãtat sans signature [ajoutÃ© par la loi constitutionnelle de 2020].",
+        "id": 110,
+        "number": "Article 107"
+    },
+    {
+        "chapter_id": 5,
+        "content": "Article 108.\n1. Les lois constitutionnelles fédérales sont\nadoptées sur les questions prévues par la Constitution de\nla Fédération russe.\n2. Une loi constitutionnelle fédérale est\nconsidérée comme adoptée si elle est\napprouvée par une majorité d'au moins les trois quarts de\nl'ensemble des * membres du Conseil sénateurs [modifié par la loi constitutionnelle de 2020] \nde la Fédération et\nd'au\nmoins les deux tiers de l'ensemble des députés à\nla Douma d'État. La loi constitutionnelle\nfédérale, une fois adoptée, doit être\nsignée par le président de la Fédération\nrusse dans un délai de quatorze jours et promulguée. * Si\nle Président de la Fédération russe, dans le\ndélai imparti, s'adresse à la Cour constitutionnelle de\nla Fédération russe avec une demande de\nvérification de la constitutionnalité d'une loi\nconstitutionnelle fédérale, le délai de signature\nd'une telle loi est suspendu pour la période d'examen de la\ndemande par la Cour constitutionnelle de la Fédération\nrusse. Si la Cour constitutionnelle de la Fédération\nrusse confirme la constitutionnalité de ladite loi\nconstitutionnelle fédérale, le président de la\nFédération russe la signe dans les trois jours\nà compter du moment où la Cour constitutionnelle de la\nFédération russe a rendu sa décision. Si la\nCour constitutionnelle de la Fédération russe ne\nconfirme pas la constitutionnalité de la loi constitutionnelle\nfédérale, le président de la\nFédération russe la renvoie à la Douma\nd'État sans signature [ajouté par la loi constitutionnelle de 2020].",
+        "id": 111,
+        "number": "Article 108"
+    },
+    {
+        "chapter_id": 5,
+        "content": "Article 109.\n1. La Douma d'État peut être dissoute par le\nprésident de la Fédération russe dans les cas\nprévus aux articles 111, *112 [ajouté par la loi constitutionnelle de 2020] et 117 de la Constitution de la\nFédération russe.\n2. En cas de dissolution de la Douma d'État, le\nprésident de la Fédération russe fixe la date des\nélections afin que la nouvelle Douma d'État puisse se\nréunir au plus tard quatre mois après sa dissolution.\n3. La Douma d'État ne peut être dissoute pour les\nmotifs prévus à l'article 117 de la Constitution de la\nFédération russe au cours de l'année qui suit son\nélection .\n4. La Douma d'État ne peut être dissoute entre le\nmoment où elle a mis en accusation le président de la\nFédération russe et l'adoption de la décision par\nle Conseil de la Fédération.\n5. La Douma d'État ne peut être dissoute lorsque la\nloi martiale où l'état d'urgence sont appliqués\nsur\nl'ensemble du territoire de la Fédération russe, ainsi\nque pendant les six mois qui précédent l'expiration du\nmandat du président de la Fédération russe.",
+        "id": 112,
+        "number": "Article 109"
+    },
+    {
+        "chapter_id": 6,
+        "content": "Article 110.\n1. Le pouvoir exécutif de la Fédération russe\nest exercé par le Gouvernement de la Fédération\nrusse, * sous la direction générale du Président de la Fédération russe  [ajouté par la loi constitutionnelle de 2020].\n2. Le Gouvernement de la Fédération russe est\ncomposé du président du Gouvernement de la\nFédération russe, des vice-présidents du\nGouvernement et des ministres fédéraux.\n* 3.  Le Gouvernement de la FÃ©dÃ©ration russe gÃ¨re les activitÃ©s des organes exÃ©cutifs\nfÃ©dÃ©raux, Ã  l'exception des organes\nexÃ©cutifs fÃ©dÃ©raux dont les activitÃ©s sont\ndirigÃ©es par le prÃ©sident de la FÃ©dÃ©ration russe  [ajoutÃ© par la loi constitutionnelle de 2020].\n* 4. Tout citoyen de la Fédération russe peut\nêtre président du gouvernement de la\nFédération russe, vice-président du\ngouvernement de la Fédération russe, ministre\nfédéral, ou chef d'un autre organe exécutif\nfédéral, s'il est âgé d'au moins 30 ans, n'a\npas la citoyenneté d'un État étranger ou\nun permis de séjour ou tout autre document confirmant le droit\nde\nrésidence permanente d'un citoyen de la Fédération\nrusse sur le\nterritoire d'un État étranger. Il\nest interdit au président du gouvernement de la\nFédération russe, au vice-président du\ngouvernement de la Fédération russe, aux ministres\nfédéraux, aux chefs d'autres organes exécutifs\nfédéraux, conformément à la loi\nfédérale, d'ouvrir et d'avoir des comptes\n(dépôts), de détenir des\nespèces et des objets de valeur dans des banques\nétrangères situées en\ndehors du territoire de la Fédération russe [Ajouté par la loi constitutionnelle de 2020].\n",
+        "id": 113,
+        "number": "Article 110"
+    },
+    {
+        "chapter_id": 6,
+        "content": "Article 111.\n1. Le président du Gouvernement de la\nFédération russe est nommé par le président\nde la Fédération russe * avec l'accord de la Douma\nd'État après approbation de sa candidature par la Douma d'État [modifié par la loi constitutionnelle de 2020].\n\n2. La proposition relative à la candidature pour le poste\nde président du Gouvernement de la Fédération\nrusse\nest déposée dans les deux semaines qui suivent\nl'entrée en fonction du président nouvellement élu\nde la Fédération russe ou la démission du\nGouvernement de la Fédération russe ou encore dans la\nsemaine qui suit le rejet par la Douma d'État de la candidature\nproposée.\n* La proposition sur la candidature du président du Gouvernement\nde la Fédération russe est soumise à la Douma\nd'État par le président de la Fédération\nrusse\nau plus tard deux semaines après l'entrée en fonction du\nprésident de la Fédération russe nouvellement\nélu ou après la démission du Gouvernement de la\nFédération russe, ou dans un délai d'une\nsemaine à compter de la date du rejet de la candidature du\nprésident du Gouvernement de la Fédération russe\npar la Douma d'État ou de la révocation par le\nprésident de la Fédération russe ou de la\ndémission du président du Gouvernement de la\nFédération russe [modifié par la loi constitutionnelle de 2020].\n3. La Douma d'État examine la candidature au poste de\nprésident du Gouvernement de la Fédération russe\ndans le délai d'une semaine à compter de la date de\ndépôt de la proposition * de candidature [modifié par la loi constitutionnelle de 2020] par le\nprésident de la Fédération russe.\n4. Après trois rejets des candidatures au poste de\nprésident du Gouvernement de la Fédération russe\npar la Douma d'État, le président de la\nFédération russe nomme le président du\nGouvernement\nde la Fédération russe * , dissout la Douma d'État et\norganise de nouvelles élections.\nDans ce cas, le président de la Fédération russe a\nle droit de dissoudre la Douma d'État et de convoquer\nde nouvelles élections [modifié par la loi constitutionnelle de 2020].",
+        "id": 114,
+        "number": "Article 111"
+    },
+    {
+        "chapter_id": 6,
+        "content": "Article 112.\n1. Le président du Gouvernement de la\nFédération russe, dans la semaine qui suit sa nomination,\nsoumet au président de la Fédération russe ses\npropositions concernant la structure des organes fédéraux\ndu pouvoir exécutif * sauf dans le cas où l'ancien\nprésident du Gouvernement de la Fédération russe a été révoqué par le\nprésident de la Fédération russe [Ajouté par la loi constitutionnelle de 2020].\n2. Le président du Gouvernement de la\nFédération russe propose au président de la\nFédération russe les candidatures pour les postes de\nvice-présidents du Gouvernement et pour les postes de ministres\nfédéraux.\n* Le président du gouvernement de la Fédération\nrusse soumet à l'approbation de la Douma d'État les\ncandidatures des vice-présidents du gouvernement de la\nFédération russe et des ministres\nfédéraux (à l'exception des ministres\nfédéraux visés à l'alinéa « e1\n» de l'article 83 du la Constitution de la\nFédération russe). La Douma d'État, dans le\ndélai d'une semaine, prend une décision sur les candidats\ndésignés [modifié par la loi constitutionnelle de 2020].\n* 3. Les vice-présidents du gouvernement de la\nFédération russe et les ministres\nfédéraux, dont les candidatures ont été\napprouvées par la Douma d'État, sont nommés par le\nprésident de la Fédération russe. Le\nprésident de la Fédération russe n'a pas le\ndroit de refuser de nommer les vice-présidents du gouvernement\nde la Fédération russe et les ministres\nfédéraux dont les candidatures ont été\napprouvées par la Douma d'État. [Ajouté par la loi constitutionnelle de 2020].\n*\n4. Après trois rejets par la Douma d'État des\ncandidatures présentées conformément à la\npartie 2 du présent article pour les vice-présidents du\ngouvernement de la Fédération russe et les ministres\nfédéraux, le président de la\nFédération russe a le droit de nommer les\nvice-présidents du Gouvernement de la Fédération\nrusse et les ministres fédéraux parmi les candidats\nproposés par le président du Gouvernement de la\nFédération russe. Si, après trois rejets par\nla Douma d'État des candidatures présentées\nconformément à la partie 2 du présent article,\nplus d'un tiers des postes des membres du gouvernement de la\nFédération russe (à l'exception des postes des\nministres fédéraux visés à l'alinéa\n« e1 » de l'article 83 de la Constitution de la\nFédération russe) restent vacants, le\nprésident de la Fédération russe a le droit de\ndissoudre la Douma d'État et de convoquer à de nouvelles\nélections. [Ajouté par la loi constitutionnelle de 2020].\n*\n5. Dans le cas prévu à la partie 4 de l'article\n111 de la Constitution de la Fédération russe, ainsi\nqu'en cas de dissolution de la Douma d'État conformément\nà la Constitution de la Fédération russe, le\nprésident de la Fédération russe nomme les\nvice-présidents du gouvernement de la Fédération\nrusse et les ministres fédéraux (à l'exception\ndes ministres fédéraux visés à\nl'alinéa « e1 » de\nl'article 83 de la Constitution de la Fédération russe)\nsur proposition du président du Gouvernement de la\nFédération russe [Ajouté par la loi constitutionnelle de 2020].",
+        "id": 115,
+        "number": "Article 112"
+    },
+    {
+        "chapter_id": 6,
+        "content": "Article 113.\nLe président du Gouvernement de la Fédération\nrusse, conformément à la Constitution de la\nFédération russe, aux lois fédérales * et aux\ndécrets du président de la Fédération\nrusse,\ndéfinit les orientations fondamentales de l'activité du\nGouvernement de la Fédération russe et organise ses\ntravaux.\naux décrets, aux ordonnances et aux instructions du\nprésident de la Fédération russe, organise le\ntravail du Gouvernement de la Fédération russe. Le\nprésident du Gouvernement de la Fédération russe\nest personnellement responsable devant le président de la\nFédération russe de l'exercice des pouvoirs\nconférés au Gouvernement de la Fédération\nrusse [modifié par la loi constitutionnelle de 2020].\n",
+        "id": 116,
+        "number": "Article 113"
+    },
+    {
+        "chapter_id": 6,
+        "content": "Article 114.\n1. Le Gouvernement de la Fédération russe :\na) élabore et soumet à la Douma d'État le\nbudget fédéral et en assure l'exécution ;\nprésente à la Douma d'État un rapport sur\nl'exécution du budget fédéral ; lui\nprésente les rapports annuels sur les résultats de son\naction, notamment sur les questions posées par la Douma d'État [Addition d'une phrase à la fin du point a) par la\nloi de révision constitutionnelle du 30 décembre 2008] ;\n\nb) assure l'application en Fédération russe d'une\nseule et même politique financière, de crédit et\nmonétaire ;\nc) assure la mise en oeuvre en Fédération russe\nd'une seule et même politique d'État dans le domaine de la\nculture, de la science, de l'enseignement, de la santé, de la\nsécurité sociale, de l'écologie\n* du soutien, du renforcement et de la protection de la famille, de la\npréservation des valeurs familiales traditionnelles, ainsi que\ndans le domaine de la protection de l'environnement [Ajouté par la loi constitutionnelle de 2020] ;\n* c1) assure le soutien de l'État au développement\nscientifique et technologique de la Fédération russe,\nà la préservation et au développement de son\npotentiel scientifique [Ajouté par la loi constitutionnelle de 2020] ;\n* c2) assure le fonctionnement du système de protection\nsociale des personnes handicapées, basé sur leur exercice\nplein et égal des droits et libertés de l'homme et du\ncitoyen, leur intégration sociale sans aucune discrimination, en\ncréant un environnement accessible aux personnes\nhandicapées et en améliorant leur qualité de vie [Ajouté par la loi constitutionnelle de 2020] ;\nd) assure la gestion des biens fédéraux ;\ne) met en oeuvre des mesures destinées à assurer la\ndéfense du pays, la sécurité de l'État,\nl'exécution de la politique extérieure de la\nFédération russe ;\nf) met en oeuvre des mesures destinées à assurer la\nlégalité, les droits et libertés des citoyens, la\nprotection de la propriété et de l'ordre public, la lutte\ncontre la criminalité ;\n* f1) adopte des mesures pour soutenir les institutions de la\nsociété civile, notamment aux organisations à but\nnon lucratif, assure leur participation dans la préparation et\nl\u0019exercice de la politique d'État [Ajouté par la loi constitutionnelle de 2020] ;\n* f2) adopte des mesures pour soutenir l\u0019activité bénévole (volontaire) [Ajouté par la loi constitutionnelle de 2020] ;\n* f3) favorise le développement de l\u0019entrepreneuriat et de l\u0019initiative privée [Ajouté par la loi constitutionnelle de 2020] ;\n* f4) veille à la mise en Suvre des principes du\npartenariat social dans le domaine de la réglementation du\ntravail et des autres relations qui s'y rapportent directement [Ajouté par la loi constitutionnelle de 2020] ;\n* f5) prend des mesures visant à créer des\nconditions favorables à la vie de la population, à\nréduire l'impact négatif des activités\néconomiques et autres sur l'environnement, à\npréserver la diversité naturelle et biologique unique du\npays, à adopter une attitude responsable envers les animaux dans\nla société [Ajouté par la loi constitutionnelle de 2020] ;\n* f6) crée les conditions pour le développement du\nsystème d'éducation écologique des citoyens et de\nformation à la culture environnementale [Ajouté par la loi constitutionnelle de 2020] ;\ng) assume des autres pouvoirs qui lui sont dévolus par la\nConstitution de la Fédération russe, les lois\nfédérales et les décrets du président de la\nFédération russe.\n2. Les modalités de l'activité du Gouvernement de la\nFédération russe sont définies par la loi\nconstitutionnelle fédérale.",
+        "id": 117,
+        "number": "Article 114"
+    },
+    {
+        "chapter_id": 6,
+        "content": "Article 115.\n1. Sur la base et en application de la Constitution de la\nFédération russe, des lois fédérales et des\ndécrets normatifs des décrets, des instructions et des ordres [modifié par la loi constitutionnelle de 2020] du président de la\nFédération russe, le Gouvernement de la\nFédération russe adopte des arrêtés et des\nordonnances, et il assure leur exécution.\n2. Les arrêtés et les instructions du Gouvernement de\nla Fédération russe ont force exécutoire sur le\nterritoire de la Fédération russe.\n3. Les arrêtés et les instructions du Gouvernement de\nla Fédération russe peuvent être abrogés par le\nprésident de la Fédération russe lorsqu'ils sont\ncontraires à la Constitution de la Fédération\nrusse, aux lois fédérales et aux décrets ou aux instructions [modifié par la loi constitutionnelle de 2020] du\nprésident de la Fédération russe.",
+        "id": 118,
+        "number": "Article 115"
+    },
+    {
+        "chapter_id": 6,
+        "content": "Article 116.\nLe Gouvernement de la Fédération russe\nprésente sa démission au président de la\nFédération russe nouvellement élu.",
+        "id": 119,
+        "number": "Article 116"
+    },
+    {
+        "chapter_id": 6,
+        "content": "Article 117.\n1. Le Gouvernement de la Fédération russe peut\nprésenter sa démission, qui est acceptée ou\nrefusée par le président de la Fédération\nrusse.\n2. Le président de la Fédération russe peut\ndécider de mettre fin aux fonctions du Gouvernement de la\nFédération russe.\n3. La Douma d'État peut exprimer sa défiance au\nGouvernement de la Fédération russe.\nL'arrêté\nde défiance à l'égard du Gouvernement est\nadopté à la majorité de l'ensemble des\ndéputés à la Douma d'État. Dès que\nla Douma d'État a exprimé sa défiance à\nl'égard du Gouvernement, le président de la\nFédération russe a le droit d'accepter la\ndémission du Gouvernement de la Fédération russe\nou de refuser la décision de le Douma d'État. Si, dans\nles trois mois, la Douma d'État exprime à nouveau sa\ndéfiance à l'égard du Gouvernement de la\nFédération russe, le président de la\nFédération russe accepte la démission du\nGouvernement ou dissout la Douma d'État * et convoque de nouvelles élections [Ajouté par la loi constitutionnelle de 2020].\n4.\nLe prÃ©sident du Gouvernement peut poser devant la Douma\nd'Ãtat la question de confiance Ã  l'Ã©gard du\nGouvernement. Si la Douma d'Ãtat lui refuse sa confiance, le\nprÃ©sident de la FÃ©dÃ©ration russe doit, dans un\ndÃ©lai de sept jours,\ndÃ©cider de mettre fin aux fonctions du Gouvernement ou de\ndissoudre la Douma d'Ãtat et d'organiser de nouvelles\nÃ©lections. *  Si, dans les trois mois, le gouvernement de\nla FÃ©dÃ©ration russe soulÃ¨ve Ã  nouveau\nla question de confiance devant la Douma d'Ãtat et que la Douma\nd'Ãtat refuse la confiance au gouvernement de la\nFÃ©dÃ©ration russe, le prÃ©sident de la\nFÃ©dÃ©ration russe dÃ©cide de la dÃ©mission\ndu gouvernement de la FÃ©dÃ©ration russe ou de la\ndissolution de la Douma d'Ãtat et de l'organisation de nouvelles\nÃ©lections [AjoutÃ© par la loi constitutionnelle de 2020].\n* 4.1 Le président du gouvernement de la\nFédération russe, le vice-président du\ngouvernement de la Fédération russe, le ministre\nfédéral ont le droit de proposer leur démission,\nqui est acceptée ou refusée par le président de la\nFédération russe [Ajouté par la loi constitutionnelle de 2020].\n5. Si le Gouvernement de la Fédération russe est\ndémis de ses fonctions ou remet sa démission, il peut\ndemeurer en activité, à la demande du président de\nla Fédération russe, jusqu'à la formation du\nnouveau Gouvernement de la Fédération russe. * En cas de\nrévocation par le président de la\nFédération russe ou de démission du\nprésident du Gouvernement de la Fédération russe, du vice-président du Gouvernement de la\nFédération russe, ou d'un ministre\nfédéral, le président de la\nFédération russe peut lui ordonner de continuer\nà exercer ses fonctions ou en confier l'exécution\nà une autre personne jusqu'à la nomination de son\nsuccesseur [Ajouté par la loi constitutionnelle de 2020].\n* 6. La Douma d'État ne peut exprimer sa défiance\nà l'égard du Gouvernement de la Fédération russe et le président du Gouvernement de la\nFédération russe ne peut soulever la question de la\nconfiance à l'égard du Gouvernement de la\nFédération russe devant la Douma d'État dans\nles cas prévus aux parties 3 à 5 de l'article 109 de la\nConstitution de la Fédération russe, ainsi que dans\nun délai d'un an après la nomination du président\ndu Gouvernement de la Fédération russe,\nconformément à la partie 4 de l'article 111 de la\nConstitution de la Fédération russe [Ajouté par la loi constitutionnelle de 2020].",
+        "id": 120,
+        "number": "Article 117"
+    },
+    {
+        "chapter_id": 7,
+        "content": "Article 118.\n1. La justice en Fédération russe est de la\ncompétence exclusive des tribunaux.\n2. Le pouvoir judiciaire est exercé au moyen des\nprocédures judiciaires constitutionnelle, civile, * arbitrale, [Ajouté par la loi constitutionnelle de 2020] administrative\net pénale.\n3. Le système judiciaire de la Fédération\nrusse est établi par la Constitution de la\nFédération russe et par la loi constitutionnelle\nfédérale. La création de juridictions d'exception\nest interdite.",
+        "id": 121,
+        "number": "Article 118"
+    },
+    {
+        "chapter_id": 7,
+        "content": "Article 119.\nPeuvent\nêtre juges les citoyens de la\nFédération russe âgés de plus de 25 ans, qui\nont fait des études supérieures en droit et et ont\nexercé une profession juridique pendant au moins cinq ans, *\nrésident de manière permanente dans la\nFédération russe, n'ont pas la citoyenneté\nétrangère ou un permis de séjour ou tout autre\ndocument confirmant le droit à la résidence permanente\nd'un citoyen de la Fédération russe sur le territoire\nd'un État étranger. Conformément à la\nprocédure établie par la loi fédérale, il\nest interdit aux juges des tribunaux de la Fédération\nrusse d'ouvrir et d'avoir des comptes (dépôts), de\nconserver des espèces et des objets de valeur dans des banques\nétrangères situées en dehors du territoire de la\nFédération russe [Ajouté par la loi constitutionnelle de 2020]. La\nloi\nfédérale peut établir des exigences\ncomplémentaires à l'égard des juges des tribunaux\nde la Fédération russe.",
+        "id": 122,
+        "number": "Article 119"
+    },
+    {
+        "chapter_id": 7,
+        "content": "Article 120.\n1. Les juges sont indépendants et sont soumis uniquement\nà la Constitution de la Fédération russe et\nà la loi fédérale.\n2. Le tribunal qui, lors de l'examen d'une affaire, a\nétabli la non conformité à la loi d'un acte\némanant de l'État ou de tout autre organe, statue\nconformément à la loi.",
+        "id": 123,
+        "number": "Article 120"
+    },
+    {
+        "chapter_id": 7,
+        "content": "Article 121.\n1. Les juges sont inamovibles.\n2. Les prérogatives d'un juge ne peuvent être\nannulées ou suspendues que selon la procédure et pour les\nmotifs définis par la loi fédérale.",
+        "id": 124,
+        "number": "Article 121"
+    },
+    {
+        "chapter_id": 7,
+        "content": "Article 122.\n1. Les juges jouissent de l'immunité.\n2. Le juge ne peut être poursuivi pénalement que\nselon la procédure définie par la loi\nfédérale.",
+        "id": 125,
+        "number": "Article 122"
+    },
+    {
+        "chapter_id": 7,
+        "content": "Article 123.\n1. Les audiences sont publiques dans tous les tribunaux. L'examen\nd'une affaire à huis clos est autorisé dans les cas\nprévus par la loi fédérale.\n2. Le jugement par défaut des affaires pénales par\nles tribunaux est interdit, sauf dans les cas prévus par la loi\nfédérale.\n3. La procédure judiciaire se déroule sur la base du\nprincipe du contradictoire et de l'égalité en droit des\nparties.\n4. Dans les cas prévus par la loi fédérale,\nla procédure judiciaire se déroule avec la participation\nde jurés.",
+        "id": 126,
+        "number": "Article 123"
+    },
+    {
+        "chapter_id": 7,
+        "content": "Article 124.\nLe financement des tribunaux est assuré exclusivement par\nle budget fédéral et doit permettre le plein exercice de\nla justice en toute indépendance, conformément à\nla\nloi fédérale.",
+        "id": 127,
+        "number": "Article 124"
+    },
+    {
+        "chapter_id": 7,
+        "content": "Article 125.\n1. La Cour constitutionnelle de la Fédération russe\nest composée de 19 juges.\n\na) * des lois constitutionnelles fédérales, [Ajouté par la loi constitutionnelle de 2020] des lois fédérales, des actes normatifs du\nprésident de la Fédération russe, du Conseil de la\nFédération, de la Douma d'État, du Gouvernement de\nla Fédération russe ;\nb) des Constitutions des républiques, des statuts, ainsi\nque des lois et autres actes normatifs des sujets de la\nFédération russe concernant des questions relevant de la\ncompétence des organes du pouvoir d'État de la\nFédération russe et de la compétence conjointe des\norganes du pouvoir d'État de la Fédération russe\net\ndes organes du pouvoir d'État des sujets de la\nFédération russe ;\nc) des accords conclus entre les organes du pouvoir\nd'État de la Fédération russe et les organes du\npouvoir d'État des sujets de la Fédération russe,\ndes accords entre les organes du pouvoir d'État des\nsujets\nde la Fédération russe ;\nd) des traités internationaux de la\nFédération russe qui ne sont pas encore entrés en\nvigueur.\n[Modifié par la loi de révision\nconstitutionnelle du 5 février 2014.]\n\n\n\n3. La Cour constitutionnelle de la Fédération russe\nrègle les conflits de compétence :\na) entre les organes fédéraux du pouvoir\nd'État ;\nb) entre les organes du pouvoir d'État de la\nFédération russe et les organes du pouvoir d'État\ndes sujets de la Fédération russe ;\nc) entre les organes suprêmes d'État des sujets de la\nFédération russe.\n4. La Cour constitutionnelle de la Fédération russe,\nsur plainte pour violation des droits et libertés\nconstitutionnels des citoyens et à la demande des tribunaux,\nvérifie la constitutionnalité de la loi appliquée\nou applicable dans un cas concret selon la procédure\ndéfinie par la loi fédérale.\n* La Cour constitutionnelle de la Fédération russe,\nde la manière prescrite par la loi constitutionnelle\nfédérale, vérifie :\na) sur les plaintes pour violation des droits et libertés\nconstitutionnels des citoyens - la constitutionnalité des lois\net autres actes normatifs visés aux points « a » et\n« b » de la partie 2 du présent article,\nappliqué dans un cas particulier, si tous les autres recours\ninternes ont été épuisés ;\nb) à la demande des tribunaux - la\nconstitutionnalité des lois et autres actes normatifs\nvisés aux points \"a\" et \"b\" de la partie 2 du présent\narticle, qui doivent être appliqués dans un cas\nparticulier [Modifié par la loi constitutionnelle de 2020].\n\n* 5.1 La Cour constitutionnelle de la Fédération russe :\n\na) à la demande du Président de la\nFédération russe, vérifie la\nconstitutionnalité des projets de lois de la\nFédération russe portant amendement à la\nConstitution de la Fédération russe, des projets de\nlois constitutionnelles fédérales et des projets de lois\nfédérales, ainsi que des lois adoptées de la\nmanière prescrits par les parties 2 et 3 de l'article 107 et la\npartie 2 de l'article 108 de la Constitution de la\nFédération russe, avant leur signature par le\nPrésident de la Fédération russe ;\nb) conformément à la loi constitutionnelle\nfédérale, statue sur la possibilité\nd'exécuter les décisions des organes\ninterétatiques adoptées sur la base des dispositions des\ntraités internationaux de la Fédération russe\ndans leur interprétation qui serait contraire à la\nConstitution de la Fédération russe, ainsi que la\npossibilité d'exécuter une décision d'un tribunal\nétranger ou international (interétatique), d'un tribunal\narbitral étranger ou international (arbitrage), imposant des\nobligations à la Fédération russe, si cette\ndécision contredit les fondements de l'ordre public de la\nFédération russe ;\nc) à la demande du président de la\nFédération russe conformément à la loi\nconstitutionnelle fédérale, vérifie la\nconstitutionnalité des lois de l'entité constitutive de\nla Fédération russe avant leur promulgation par le\nplus haut fonctionnaire de l'entité constitutive de la\nFédération russe (le chef de l'organe exécutif\nsuprême du pouvoir d'État de l'entité constitutive\nde la Fédération russe)  [Ajouté par la loi constitutionnelle de 2020].\n7. La Cour constitutionnelle de la Fédération russe,\nà la demande du Conseil de la Fédération,\ndépose ses conclusions concernant le respect de la\nprocédure établie relative à la mise en accusation\ndu président de la Fédération russe pour haute\ntrahison ou tout autre délit grave\ndu président de la Fédération russe ou du\nprésident de la Fédération russe\ndestitué de ses fonctions, en cas de haute trahison ou de\ncommission d'un autre crime grave [Modifié par la loi constitutionnelle de 2020].\n8. La Cour constitutionnelle de la Fédération russe exerce d'autres pouvoirs établis par la loi\nconstitutionnelle fédérale [Ajouté par la loi constitutionnelle de 2020].",
+        "id": 128,
+        "number": "Article 125"
+    },
+    {
+        "chapter_id": 7,
+        "content": "Article 126.\nLa Cour suprÃªme de la FÃ©dÃ©ration russe est la\nplus haute instance judiciaire pour les affaires civiles,\n  Ã©conomiques [Addition du terme Â« Ã©conomiques Â» par la loi de rÃ©vision\nconstitutionnelle du 5 fÃ©vrier 2014.],\npÃ©nales, administratives et les autres affaires relevant de la\ncompÃ©tence des  tribunaux de droit commun * et des\ntribunaux d'arbitrage, constituÃ©s conformÃ©ment au droit\nconstitutionnel fÃ©dÃ©ral et exerÃ§ant le pouvoir\njudiciaire au moyen de\nprocÃ©dures judiciaires civiles, arbitrales, administratives et\npÃ©nales [AjoutÃ© par la loi constitutionnelle de 2020] ; elle exerce le\ncontrÃ´le judiciaire de leur activitÃ© dans le respect des\nrÃ¨gles de procÃ©dure prÃ©vues par la loi\nfÃ©dÃ©rale et elle donne des instructions sur les questions\nde pratique judiciaire.\nLa Cour suprÃªme de la FÃ©dÃ©ration russe exerce\nun contrÃ´le judiciaire sur les activitÃ©s des tribunaux de\ndroit commun et des tribunaux d'arbitrage, dans le respect des\nrÃ¨gles de procÃ©dure prÃ©vues par la loi\nfÃ©dÃ©rale et elle donne des instructions sur les questions\nde pratique judiciaire [ModifiÃ© par la loi constitutionnelle de 2020].\n\n\n\n",
+        "id": 129,
+        "number": "Article 126"
+    },
+    {
+        "chapter_id": 7,
+        "content": "Article 127.\nLa Haute Cour d'arbitrage de la Fédération russe est\nla plus haute instance judiciaire pour le règlement des litiges\néconomiques et des autres affaires examinées par les\ntribunaux d'arbitrages ; elle exerce le contrôle judiciaire de\nleur activité dans le respect des règles de\nprocédure prévues par la loi fédérale et\nelle donne des instructions sur les questions de pratique judiciaire.\n[Abrogé par la loi de révision\nconstitutionnelle du 5 février 2014.]\n\n\n\n",
+        "id": 130,
+        "number": "Article 127"
+    },
+    {
+        "chapter_id": 7,
+        "content": "Article 128.\n1. Les juges à la Cour constitutionnelle de la\nFédération russe, à la Cour suprême de la\nFédération russe, [à la Haute Cour d'arbitrage de\nla\nFédération russe [Modifié par la loi de révision\nconstitutionnelle du 5 février 2014.] ] sont nommés par le Conseil de la\nFédération sur proposition du président de la\nFédération russe.\n\n\n\n\n\n*\nLe président de la Cour constitutionnelle de la\nFédération russe, le vice-président de la Cour\nconstitutionnelle de la Fédération russe et les juges\nde la Cour constitutionnelle de la Fédération russe,\nle président de la Cour suprême de la\nFédération russe, les vice-présidents de la\nCour suprême de la Fédération russe et les\njuges de la Cour suprême de la Fédération russe\nsont nommés par le Conseil de la Fédération sur\nproposition du président de la Fédération russe  [Modifié par la loi constitutionnelle de 2020].\n2. Les juges des autres tribunaux fédéraux sont\nnommés par le président de la Fédération\nrusse selon la procédure établie par la loi\nfédérale.\n* Les présidents, vice-présidents et juges des\nautres cours fédérales sont nommés par le\nprésident de la Fédération russe de la\nmanière prescrite par la loi constitutionnelle\nfédérale   [Modifié par la loi constitutionnelle de 2020].\n3. Les prérogatives, la procédure de formation et\nles modalités de fonctionnement de la Cour constitutionnelle de\nla Fédération russe, de la Cour suprême de la\nFédération russe, de la Haute Cour d'arbitrage de la\nFédération russe [Modifié par la loi de révision\nconstitutionnelle du 5 février 2014.] et\ndes autres tribunaux\nfédéraux sont établies par la loi\nconstitutionnelle\nfédérale. * Les procédures civiles, d'arbitrage,\nadministratives et pénales sont également régies\npar la législation procédurale pertinente [Modifié par la loi constitutionnelle de 2020].\n\n\n\n\n\n",
+        "id": 131,
+        "number": "Article 128"
+    },
+    {
+        "chapter_id": 7,
+        "content": "Article 129.\n1. Le Parquet de la Fédération russe constitue un\nseul et même système centralisé ; les procureurs\ninférieurs sont subordonnés aux procureurs\nsupérieurs et au Procureur général de la\nFédération russe.\n2. Le Procureur général de la\nFédération russe est nommé et\nrévoqué\npar le Conseil de la Fédération sur proposition du\nprésident de la Fédération russe.\n3. Les procureurs des sujets de la Fédération russe\nsont nommés par le Procureur général de la\nFédération russe en accord avec ces sujets.\n4. Les autres procureurs sont nommés par le Procureur\ngénéral de la Fédération russe.\n5. Les prérogatives, l'organisation et les modalités\nde fonctionnement du Parquet de la Fédération russe sont\nfixées par la loi fédérale.\n* 1. Le ministère public de la Fédération russe est un système\ncentralisé fédéral unique d'organes\nexerçant le contrôle du respect de\nla Constitution de la Fédération russe et de\nl'application des\nlois, le contrôle du respect des droits et libertés de\nl'homme et du\ncitoyen, les poursuites pénales dans les tribunaux\nconformément à leurs pouvoirs,\nainsi que d'autres fonctions. Les pouvoirs et les fonctions du bureau\ndu procureur de la Fédération russe, son organisation\net la\nprocédure pour ses activités sont\ndéterminés par la loi fédérale.\n2. Les procureurs sont des citoyens de la Fédération russe qui n'ont pas la nationalité d'un État\nétranger ou un permis de séjour ou un autre document\nconfirmant le droit à la résidence permanente d'un\ncitoyen de la Fédération russe sur le territoire d'un\nÉtat étranger. Conformément à la\nprocédure établie par la loi fédérale, il\nest interdit aux procureurs d'ouvrir et d'avoir des comptes\n(dépôts), de conserver des espèces et des objets de\nvaleur dans des banques étrangères situées en\ndehors du territoire de la Fédération russe.\n3. Le Procureur général de la\nFédération russe et les procureurs adjoints de la\nFédération russe sont nommés et relevés\nde leurs fonctions par le président de la\nFédération russe après consultation du Conseil de la Fédération.\n4. Les procureurs des entités constitutives de la\nFédération russe, les procureurs des parquets\nmilitaires et autres parquets spécialisés,\nassimilés aux procureurs des entités constitutives de la\nFédération russe, sont nommés et\nrévoqués par le Président de la\nFédération russe, après consultation du Conseil de la Fédération.\n5. D'autres procureurs peuvent être nommés et\ndémis de leurs fonctions par le président de la\nFédération russe, si une telle procédure de\nnomination et de révocation est établie par la loi\nfédérale.\n6. Sauf disposition contraire de la loi fédérale,\nles procureurs des villes, des districts et les procureurs\nassimilés à ceux-ci sont nommés et\nrévoqués par le procureur général de la\nFédération russe. \n[Article entièrement modifié par la loi constitutionnelle de 2020].\n\n\n\n\n\n",
+        "id": 132,
+        "number": "Article 129"
+    },
+    {
+        "chapter_id": 8,
+        "content": "Article 130.\n1. L'autonomie locale en Fédération russe garantit\nla possibilité pour la population, de décider librement\ndes questions d'intérêt local, de la possession, de la\njouissance et de l'utilisation des biens municipaux.\n2. L'autonomie locale est exercée par les citoyens par la\nvoie du référendum, des élections, des autres\nformes d'expression directe de la volonté, au moyen des organes\nélus et des autres organes de l'autonomie locale.",
+        "id": 133,
+        "number": "Article 130"
+    },
+    {
+        "chapter_id": 8,
+        "content": "Article 131.\n1. L'autonomie locale s'exerce dans les villes, les\nagglomérations rurales et les autres territoires en tenant compte des\ntraditions historiques et des autres traditions locales. La structure\ndes organes de l'autonomie locale est définie par la population\nde façon autonome.\n* L'autonomie locale s'exerce dans les municipalités, et les\nformes en sont établies par la loi fédérale. Les\nterritoires des communes sont déterminés en tenant compte\ndes traditions historiques et locales. La structure des organes\nd'autonomie locale est déterminée par la population de\nmanière indépendante, conformément aux principes\ngénéraux d'organisation de l'autonomie locale dans la\nFédération russe, qui sont établis par la loi\nfédérale [modifié par la loi constitutionnelle de 2020].\n1.1 Les autorités de l'État peuvent participer\nà la formation des organes d'autonomie locale, à la\nnomination et à la révocation des fonctionnaires de\nl'autonomie locale de la manière et dans les cas établis\npar la loi fédérale  [Ajouté par la loi constitutionnelle de 2020].\n2. La modification des limites des territoires sur lesquels\ns'exerce l'autonomie locale doit, pour être autorisée,\ntenir compte de l'avis de la population des territoires\nconcernés, * conformément aux dispositions de la loi fédérale  [Ajouté par la loi constitutionnelle de 2020].",
+        "id": 134,
+        "number": "Article 131"
+    },
+    {
+        "chapter_id": 8,
+        "content": "Article 132.\n1. Les organes de l'autonomie locale gÃ¨rent de faÃ§on\nautonome les biens municipaux, Ã©laborent, approuvent et\nexÃ©cutent le budget local, fixent les impÃ´ts locaux et les\nredevances locales, * assurent le maintien de l'ordre public et \n  [modifiÃ© par la loi constitutionnelle de 2020] rÃ¨glent les autres questions d'intÃ©rÃªt local\n* et, conformÃ©ment Ã  la loi fÃ©dÃ©rale,\nassurent la disponibilitÃ© des soins mÃ©dicaux, dans le\ncadre de leur compÃ©tence [AjoutÃ© par la loi constitutionnelle de 2020].\n2. Les organes de l'autonomie locale peuvent se voir attribuer par\nla loi * fédérale ou la loi d'une entité constitutive de la Fédération russe [Ajouté par la loi constitutionnelle de 2020] certaines prérogatives d'État, avec transfert des\nmoyens matériels et financiers nécessaires à leur\nexercice. L'exercice de ces prérogatives est placé sous\nle\ncontrôle de l'État.",
+        "id": 135,
+        "number": "Article 132"
+    },
+    {
+        "chapter_id": 8,
+        "content": "Article 133.\nL'autonomie locale en FÃ©dÃ©ration russe est garantie\npar le droit Ã  la protection judiciaire, Ã  un\ndÃ©dommagement pour les frais supplÃ©mentaires\nrÃ©sultant * de dÃ©cisions prises par les organes du pouvoir\nd'Ãtat,\nl'exercice de fonctions publiques par les collectivitÃ©s locales\nen coopÃ©ration avec les organes de l'Ãtat, ainsi que [modifiÃ© par la loi constitutionnelle de 2020] par l'interdiction de restreindre les droits de\nl'autonomie  locale dÃ©finis par la Constitution de la\nFÃ©dÃ©ration russe et la loi fÃ©dÃ©rale.",
+        "id": 136,
+        "number": "Article 133"
+    },
+    {
+        "chapter_id": 9,
+        "content": "Article 134.\nLes propositions d'amendements ou de révision des\ndispositions de la Constitution de la Fédération russe\npeuvent être présentées par le président de\nla Fédération russe, le Conseil de la\nFédération, la Douma d'État, le Gouvernement de la\nFédération russe, les organes législatifs\n(représentatifs) des sujets de la Fédération,\nainsi\nque par un groupe représentant au moins le cinquième des\nmembres du Conseil de la Fédération ou des\ndéputés à la Douma d'État.",
+        "id": 137,
+        "number": "Article 134"
+    },
+    {
+        "chapter_id": 9,
+        "content": "Article 135.\n1. Les dispositions des chapitres 1, 2 et 9 de la Constitution de\nla Fédération russe ne peuvent être\nrévisées par l'Assemblée fédérale.\n2. Si une proposition de réviser les dispositions des\nchapitres 1, 2 et 9 de la Constitution de la Fédération\nrusse est soutenue par les trois cinquièmes des voix de\nl'ensemble des membres du Conseil de la Fédération et des\ndéputés à la Douma d'État, une\nAssemblée constituante est convoquée conformément\nà la loi constitutionnelle fédérale.\n3. L'Assemblée constituante, soit confirme\nl'immutabilité de la Constitution de la Fédération\nrusse, soit élabore un projet de nouvelle Constitution qui est\nadopté par l'Assemblée constituante à la\nmajorité des deux tiers des voix de l'ensemble de ses membres ou\nbien est soumis au suffrage universel. En cas de\nréférendum, la Constitution de la\nFédération\nrusse est considérée comme adoptée si elle\nrecueille en sa faveur plus de la moitié des suffrages des\nélecteurs ayant pris part au vote, à condition que plus\nde la moitié des électeurs aient part au vote.",
+        "id": 138,
+        "number": "Article 135"
+    },
+    {
+        "chapter_id": 9,
+        "content": "Article 136.\nLes amendements aux dispositions des chapitres 3 à 8 de la\nConstitution de la Fédération russe sont adoptés\nselon la procédure prévue pour l'adoption d'une loi\nconstitutionnelle fédérale et entrent en vigueur\naprès leur approbation par les organes du pouvoir\nlégislatif d'au moins les deux tiers des sujets de la\nFédération russe.",
+        "id": 139,
+        "number": "Article 136"
+    },
+    {
+        "chapter_id": 9,
+        "content": "Article 137.\n1. Les modifications aux dispositions de l'article 65 de la\nConstitution de la FÃ©dÃ©ration russe  fixant la\ncomposition de la FÃ©dÃ©ration russe sont effectuÃ©es\nsur la base de la loi constitutionnelle fÃ©dÃ©rale\nconcernant l'admission dans la FÃ©dÃ©ration russe et la\nformation en son sein d'un nouveau sujet de la FÃ©dÃ©ration\nrusse, et la modification du statut juridique et constitutionnel d'un\nsujet de la FÃ©dÃ©ration russe.\n2. En cas de changement du nom de la république, du\nterritoire, de la région, de la ville d'importance\nfédérale, de la région autonome, du district\nautonome, le nouveau nom du sujet de la Fédération russe\nest indiqué à l'article 65 de la Constitution de la\nFédération russe.",
+        "id": 140,
+        "number": "Article 137"
+    }
+]

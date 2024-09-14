@@ -1,0 +1,133 @@
+/* App.css */
+.app-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .navbar {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .tabs {
+    display: flex;
+    margin-bottom: 20px;
+  }
+  
+  .tab {
+    padding: 10px 20px;
+    border: none;
+    background-color: #f0f0f0;
+    cursor: pointer;
+  }
+  
+  .tab.active {
+    background-color: #ddd;
+  }
+  
+  @media (max-width: 768px) {
+    .tabs {
+      flex-direction: column;
+    }
+    
+    .tab {
+      width: 100%;
+      text-align: left;
+    }
+  }
+  
+  /* InstitutionsTable.css */
+  .institutions-table {
+    width: 100%;
+  }
+  
+  .controls {
+    display: flex;
+    margin-bottom: 20px;
+  }
+  
+  .controls input,
+  .controls select {
+    margin-right: 10px;
+    padding: 5px;
+  }
+  
+  .accordion {
+    border: 1px solid #ddd;
+  }
+  
+  .institution-item {
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .institution-header {
+    width: 100%;
+    text-align: left;
+    padding: 10px;
+    background-color: #4e0c0c;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .institution-elements {
+    padding: 10px;
+  }
+  
+  .element-item {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 0;
+  }
+  
+  .popup {
+    position: absolute;
+    z-index: 1000;
+    background-color: rgb(95, 8, 8);
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.08);
+    padding: 16px;
+    max-width: 250px;
+  }
+  
+  @media (max-width: 768px) {
+    .controls {
+      flex-direction: column;
+    }
+    
+    .controls input,
+    .controls select {
+      width: 100%;
+      margin-bottom: 10px;
+    }
+    
+    .element-item {
+      flex-direction: column;
+    }
+  }
+
+  /* App.css */
+/* ... (styles existants) */
+
+.element-details {
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  .element-details h2 {
+    margin-top: 0;
+    color: #333;
+  }
+  
+  .element-details p {
+    margin-bottom: 10px;
+  }
+  
+  .element-details strong {
+    font-weight: bold;
+    color: #555;
+  }
