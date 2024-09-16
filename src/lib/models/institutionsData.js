@@ -1,7 +1,3 @@
-
-
-
-
 const institutionsData = {
   "Institutions": [
     {
@@ -65,7 +61,7 @@ const institutionsData = {
       ]
     },
     {
-      "Nom": "Conseil Constitutionnel",
+      "Nom": "Conseil Constitutionnel", // Assurez-vous que le nom correspond
       "Éléments": [
         {
           "Nom": "Constitution",

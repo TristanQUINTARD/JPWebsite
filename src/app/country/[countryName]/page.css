@@ -35,7 +35,7 @@
   width: 250px;
   padding: 10px;
   background-color: #333;
-  color: #fff; /* Changer à une couleur plus lisible */
+  color: #fff;
   overflow-y: auto;
   border-right: 1px solid #ddd;
 }
@@ -46,7 +46,7 @@
 }
 
 .institution-item:hover {
-  background-color: #555; /* Améliorer l'interaction utilisateur */
+  background-color: #555;
 }
 
 .content {
@@ -54,7 +54,8 @@
   padding: 20px;
   display: flex;
   flex-direction: column;
-  color: #333; /* Assurez une bonne lisibilité */
+  color: #333;
+  overflow-y: auto;
 }
 
 .image-section {
@@ -100,4 +101,182 @@
 .popup-content p {
   margin: 8px 0;
   color: #666;
+}
+
+/* Styles pour ConstitutionDisplay */
+.constitution-display {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f5f5f5;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  font-family: Arial, sans-serif;
+  max-height: 80vh;
+  overflow-y: auto;
+}
+
+.constitution-title {
+  text-align: center;
+  color: #333;
+  margin-bottom: 30px;
+  font-size: 2.5rem;
+}
+
+.constitution-accordion {
+  background-color: #fff;
+  border-radius: 4px;
+  overflow: hidden;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.accordion-item {
+  border-bottom: 1px solid #e0e0e0;
+  margin-bottom: 20px;
+}
+
+.accordion-item:last-child {
+  border-bottom: none;
+}
+
+.accordion-header {
+  width: 100%;
+  padding: 15px 20px;
+  background-color: #fff;
+  border: none;
+  text-align: left;
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: #333;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.accordion-header:hover {
+  background-color: #f0f0f0;
+}
+
+.accordion-header.active {
+  background-color: #e0e0e0;
+}
+
+.accordion-content {
+  padding: 0 20px;
+  background-color: #fff;
+  overflow: hidden;
+}
+
+.scrollable-content {
+  max-height: 50vh;
+  overflow-y: auto;
+  padding-right: 10px;
+}
+
+.article {
+  margin-bottom: 15px;
+  padding-bottom: 15px;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.article:last-child {
+  border-bottom: none;
+}
+
+.article-number {
+  font-size: 1.1rem;
+  color: #555;
+  margin-bottom: 5px;
+}
+
+.article-content {
+  font-size: 1rem;
+  color: #333;
+  line-height: 1.5;
+}
+
+.editButton, .saveButton, .cancelButton {
+  padding: 8px 12px;
+  margin-right: 10px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.9rem;
+  transition: background-color 0.3s;
+}
+
+.editButton {
+  background-color: #f0f0f0;
+  color: #333;
+}
+
+.editButton:hover {
+  background-color: #e0e0e0;
+}
+
+.saveButton {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.saveButton:hover {
+  background-color: #45a049;
+}
+
+.cancelButton {
+  background-color: #f44336;
+  color: white;
+}
+
+.cancelButton:hover {
+  background-color: #da190b;
+}
+
+.editTextarea {
+  width: 100%;
+  min-height: 100px;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+.editContainer {
+  margin-top: 10px;
+}
+
+.editButtons {
+  display: flex;
+  justify-content: flex-start;
+}
+
+/* Styles pour la barre de défilement */
+.scrollable-content::-webkit-scrollbar {
+  width: 8px;
+}
+
+.scrollable-content::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+.scrollable-content::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius: 4px;
+}
+
+.scrollable-content::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+/* Styles globaux pour assurer le défilement */
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+#__next {
+  height: 100%;
 }

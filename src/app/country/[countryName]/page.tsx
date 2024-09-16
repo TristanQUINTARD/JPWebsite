@@ -1,32 +1,31 @@
 "use client";
-
 import React, { useState, useEffect } from 'react';
 import { useParams } from 'next/navigation';
-import InstitutionsTable from "./InstitutionsTable.jsx";
+import InstitutionsTable from "./InstitutionsTable";
 import institutionsData from '../../../lib/models/institutionsData';
 import './page.css';
-import { toHtml as toSvg } from 'hast-util-to-html';
-import parliamentSVG from 'parliament-svg';
+import ParliamentChart from './ParliamentChart';
 import { motion, AnimatePresence } from 'framer-motion';
+import ConstitutionDisplay from './ConstitutionDisplay';
 
-const ParliamentChart = ({ width, parties }) => {
-  const seatCount = Object.values(parties).reduce((total, party) => total + party.seats, 0);
-  const virtualSvg = parliamentSVG(parties, seatCount);
-  const svg = toSvg(virtualSvg);
+interface Party {
+  seats: number;
+  color: string;
+}
 
-  return (
-    <div dangerouslySetInnerHTML={{ __html: svg }} style={{ width }} />
-  );
-};
+interface Institution {
+  Nom: string;
+  Description: string;
+  FonctionPrincipale: string;
+  Details?: Record<string, string | string[]>;
+}
 
-// Composant pour afficher les détails d'une institution sélectionnée
-const InstitutionDetailsComponent = ({ institution }) => (
+const InstitutionDetailsComponent: React.FC<{ institution: Institution }> = ({ institution }) => (
   <div>
     <h2>{institution.Nom}</h2>
     <p><strong>Description:</strong> {institution.Description}</p>
     <p><strong>Fonction Principale:</strong> {institution.FonctionPrincipale}</p>
     
-    {/* Vérification et affichage des détails supplémentaires */}
     {institution.Details && (
       <div>
         <h3>Détails Supplémentaires :</h3>
@@ -40,64 +39,82 @@ const InstitutionDetailsComponent = ({ institution }) => (
   </div>
 );
 
-const CountryPage = () => {
+interface Article {
+  id: number;
+  chapter_id: number;
+  number: string;
+  content: string;
+}
+
+interface CountrySpecificData {
+  Institutions: Institution[];
+  Constitution: Article[];
+  ParliamentData?: {
+    parties: Record<string, Party>;
+  };
+}
+
+const CountryPage: React.FC = () => {
   const { countryName } = useParams();
-  const [selectedInstitution, setSelectedInstitution] = useState(null);
-  const [countrySpecificData, setCountrySpecificData] = useState(null);
+  const [selectedInstitution, setSelectedInstitution] = useState<Institution | null>(null);
+  const [countrySpecificData, setCountrySpecificData] = useState<CountrySpecificData | null>(null);
 
-  console.log("CountryPage rendered. countryName:", countryName);
-
-  // Charger les données spécifiques au pays au chargement de la page
   useEffect(() => {
     const loadCountrySpecificData = async () => {
-      console.log(`Attempting to load data for country: ${countryName}`);
       try {
+        console.log(`Tentative de chargement des données pour ${countryName}`);
         const response = await fetch(`/data/${countryName}.json`);
         if (!response.ok) {
           throw new Error(`HTTP error! status: ${response.status}`);
         }
         const data = await response.json();
-        console.log("Data loaded successfully:", data);
+        console.log('Données chargées complètes:', data);
+        console.log('Données ParliamentData chargées:', data.ParliamentData);
         setCountrySpecificData(data);
       } catch (error) {
         console.error("Erreur lors du chargement des données spécifiques au pays :", error);
-        setCountrySpecificData(null); // Réinitialise les données en cas d'erreur
+        setCountrySpecificData(null);
       }
     };
     
     loadCountrySpecificData();
   }, [countryName]);
 
-  useEffect(() => {
-    console.log("countrySpecificData updated:", countrySpecificData);
-  }, [countrySpecificData]);
-
-  // Gestion du clic sur une institution
-  const handleItemClick = (institution) => {
-    console.log("Institution clicked:", institution);
-
-    // Rechercher des détails spécifiques au pays pour l'institution sélectionnée
-    const additionalDetails = countrySpecificData?.Institutions?.find(
+  const handleItemClick = (institution: Institution) => {
+    console.log('Institution sélectionnée:', institution);
+    const additionalDetails = countrySpecificData?.Institutions.find(
       (inst) => inst.Nom === institution.Nom
     );
 
-    console.log("Additional details found:", additionalDetails);
-
     if (additionalDetails) {
-      // Fusionner les détails de l'institution avec les détails spécifiques au pays
+      console.log('Détails supplémentaires trouvés:', additionalDetails);
       setSelectedInstitution({ ...institution, Details: additionalDetails.Details });
     } else {
-      // Si aucun détail supplémentaire n'est trouvé, sélectionner simplement l'institution de base
+      console.log('Aucun détail supplémentaire trouvé');
       setSelectedInstitution(institution);
     }
   };
 
-  // Afficher le graphique du parlement si l'institution sélectionnée est un parlement et que les données sont disponibles
-  const shouldShowParliament = selectedInstitution && countrySpecificData?.ParliamentData?.parties;
+  const handleUpdateArticle = (updatedArticle: Article) => {
+    if (countrySpecificData) {
+      const updatedConstitution = countrySpecificData.Constitution.map(article =>
+        article.id === updatedArticle.id ? updatedArticle : article
+      );
+      setCountrySpecificData({
+        ...countrySpecificData,
+        Constitution: updatedConstitution
+      });
+    }
+  };
 
-  console.log("shouldShowParliament:", shouldShowParliament);
-  console.log("selectedInstitution:", selectedInstitution);
-  console.log("countrySpecificData?.ParliamentData:", countrySpecificData?.ParliamentData);
+  const shouldShowParliament = selectedInstitution && 
+    (selectedInstitution.Nom === "Chambre Basse" || selectedInstitution.Nom === "Chambre Haute") && 
+    countrySpecificData?.ParliamentData?.parties &&
+    Object.keys(countrySpecificData.ParliamentData.parties).length > 0;
+
+  console.log('shouldShowParliament:', shouldShowParliament);
+  console.log('selectedInstitution:', selectedInstitution);
+  console.log('countrySpecificData?.ParliamentData:', countrySpecificData?.ParliamentData);
 
   return (
     <div className="app-container">
@@ -122,9 +139,27 @@ const CountryPage = () => {
                 exit={{ opacity: 0, y: -20 }}
                 transition={{ duration: 0.3 }}
               >
-                <InstitutionDetailsComponent institution={selectedInstitution} />
-                {shouldShowParliament && (
-                  <ParliamentChart width={500} parties={countrySpecificData.ParliamentData.parties} />
+                {selectedInstitution.Nom === "Constitution" && countrySpecificData ? (
+                  <ConstitutionDisplay 
+                    constitution={countrySpecificData.Constitution} 
+                    onUpdateArticle={handleUpdateArticle}
+                  />
+                ) : (
+                  <>
+                    <InstitutionDetailsComponent institution={selectedInstitution} />
+                    {shouldShowParliament && countrySpecificData?.ParliamentData && (
+                      <>
+                        <p>Tentative d'affichage du ParliamentChart</p>
+                        <ParliamentChart 
+                          width={500} 
+                          parties={countrySpecificData.ParliamentData.parties} 
+                        />
+                      </>
+                    )}
+                    {!shouldShowParliament && (selectedInstitution.Nom === "Chambre Basse" || selectedInstitution.Nom === "Chambre Haute") && (
+                      <p>Le ParliamentChart ne peut pas être affiché. Données manquantes ou invalides.</p>
+                    )}
+                  </>
                 )}
               </motion.div>
             ) : (
