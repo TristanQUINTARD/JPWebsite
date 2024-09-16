@@ -3,7 +3,7 @@ import React, { useState, useRef, useCallback, useEffect } from 'react';
 import { toast } from 'react-toastify';
 import Image from "next/image";
 import axios from "axios";
-import { assets } from "../../../../../Assets/assets";
+import { assets } from "../../Assets/assets"
 import dynamic from 'next/dynamic';
 import "./page.css";
 

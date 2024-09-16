@@ -148,13 +148,24 @@ const CountryPage: React.FC = () => {
                   <>
                     <InstitutionDetailsComponent institution={selectedInstitution} />
                     {shouldShowParliament && countrySpecificData?.ParliamentData && (
-                      <>
-                        <p>Tentative d'affichage du ParliamentChart</p>
-                        <ParliamentChart 
-                          width={500} 
-                          parties={countrySpecificData.ParliamentData.parties} 
-                        />
-                      </>
+                      <div className="parliament-section">
+                        <h3>Composition du Parlement</h3>
+                        <div className="parliament-chart-container">
+                          <ParliamentChart 
+                            width={900} 
+                            height={500}
+                            parties={countrySpecificData.ParliamentData.parties} 
+                          />
+                        </div>
+                        <div className="parliament-legend">
+                          {Object.entries(countrySpecificData.ParliamentData.parties).map(([name, party]) => (
+                            <div key={name} className="legend-item">
+                              <span className="color-dot" style={{ backgroundColor: party.color }}></span>
+                              <span>{name}: {party.seats} sièges</span>
+                            </div>
+                          ))}
+                        </div>
+                      </div>
                     )}
                     {!shouldShowParliament && (selectedInstitution.Nom === "Chambre Basse" || selectedInstitution.Nom === "Chambre Haute") && (
                       <p>Le ParliamentChart ne peut pas être affiché. Données manquantes ou invalides.</p>
