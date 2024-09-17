@@ -1,3 +1,5 @@
+"use client";
+
 import { Card, CardContent, CardHeader, CardTitle } from '../../Components/ui/Card';
 import {
   Table,
@@ -9,16 +11,20 @@ import {
   TableHeader,
   TableRow,
 } from '../../Components/ui/Table';
+import { useSession } from "next-auth/react";
+import { useRouter } from 'next/navigation';
+import { useEffect } from 'react';
 
-import React from 'react';
-import { getSession } from 'next-auth/react';
-import { redirect } from 'next/navigation';
+const Dashboard = () => {
+  const { data: session, status } = useSession();
+  const router = useRouter();
 
-const Dashboard = async () => {
+  useEffect(() => {
+    if (status === 'loading') return;
+    if (!session?.user) router.push('/');
+  }, [session, status, router]);
 
-  const session = await getSession();
-  const user = session?.user;
-  if (!user) redirect('/');
+  if (status === 'loading') return <p>Loading...</p>;
 
   return (
     <div className='flex min-h-screen'>
@@ -27,7 +33,7 @@ const Dashboard = async () => {
           <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
             <Card>
               <CardHeader className="flex flex-row items-center justify-between pb-2">
-            <CardTitle className="text-sm font-medium">Profil</CardTitle>
+                <CardTitle className="text-sm font-medium">Profil</CardTitle>
               </CardHeader>
               <CardContent>
                 <div className='text-2xl font-bold'>User</div>

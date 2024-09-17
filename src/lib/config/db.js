@@ -5,7 +5,7 @@ const MONGO_URI = process.env.MONGO_URI || 'mongodb+srv://bob:bob@cluster0.swoa4
 export const ConnectDB = async () => {
   try {
     if (mongoose.connection.readyState >= 1) {
-      // Already connected
+      // Déjà connecté
       console.log('Already connected to MongoDB');
       return;
     }
@@ -18,6 +18,5 @@ export const ConnectDB = async () => {
     console.log('Connected to MongoDB');
   } catch (error) {
     console.error('Error connecting to MongoDB:', error);
-    
   }
 };

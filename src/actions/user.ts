@@ -4,7 +4,7 @@ import { ConnectDB } from "@/lib/config/db"
 import { redirect } from "next/navigation"
 import { User } from "@/lib/models/User"
 import { hash } from "bcryptjs"
-import { signIn } from "../auth"
+import { signIn } from "../auth.ts"
 import { CredentialsSignin } from "next-auth"
 
 

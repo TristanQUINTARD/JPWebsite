@@ -1,23 +1,17 @@
 /** @type {import('next').NextConfig} */
 import webpack from 'webpack';
+import { createRequire } from 'module';
 
-const nextConfig = {
-    webpack: (config, { isServer }) => {
-      if (!isServer) {
-        config.resolve.fallback = {
-            ...config.resolve.fallback,
-            fs: false,
-            net: false,
-            tls: false,
-          };
-        config.plugins.push(
-          new webpack.ProvidePlugin({
-            d3: 'd3',
-          })
-        );
-      }
-      return config;
-    },
-  };
-  
-export default nextConfig;
+const require = createRequire(import.meta.url);
+
+export default {
+  webpack: (config, { isServer }) => {
+    if (!isServer) {
+      config.resolve.fallback = {
+        crypto: require.resolve('crypto-browserify'), // Utilisation de require.resolve via createRequire
+        // Ajoutez d'autres polyfills si nécessaire
+      };
+    }
+    return config;
+  },
+};

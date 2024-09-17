@@ -1,11 +1,18 @@
-import { getSession } from "@/lib/config/getSession";
-import { redirect } from 'next/navigation';
-import RegisterPage from './Registerpage'; // Assurez-vous que le chemin d'importation est correct
+"use client";
 
-export default async function RegisterWrapper() {
-    const session = await getSession();
-    const user = session?.user;
-    if (user) redirect('/');
+import { useSession } from "next-auth/react";
+import { useRouter } from 'next/navigation';
+import RegisterPage from './Registerpage';
+import { useEffect } from 'react';
+
+export default function RegisterWrapper() {
+    const { data: session, status } = useSession();
+    const router = useRouter();
+
+    useEffect(() => {
+        if (status === 'loading') return; // Ne rien faire pendant le chargement
+        if (session?.user) router.push('/'); // Rediriger si l'utilisateur est connecté
+    }, [session, status, router]);
 
     return <RegisterPage />;
 }

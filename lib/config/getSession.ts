@@ -1,7 +1,14 @@
-// lib/session.ts (ou tout autre fichier approprié)
-import { auth } from "@/src/auth";
+import { auth } from "@/src/auth"
+import getServerSession from "next-auth";
+import { authConfig } from "@/auth.config";
+import { getSession } from "next-auth/react";
 
 export async function getSession() {
-    const session = await auth();
-    return session;
+    if (typeof window === "undefined") {
+        // Côté serveur
+        return await getServerSession(authConfig);
+    } else {
+        // Côté client
+        return await getSession();
+    }
 }

@@ -1,11 +1,27 @@
-import { getSession } from "@/lib/config/getSession";
-import { redirect } from 'next/navigation';
-import RegisterPage from './Loginpage'; // Assurez-vous que le chemin d'importation est correct
+"use client";
 
-export default async function RegisterWrapper() {
-    const session = await getSession();
-    const user = session?.user;
-    if (user) redirect('/');
+import { useSession } from "next-auth/react";
+import { useRouter } from 'next/navigation';
+import Login from './Loginpage';
+import { useEffect } from 'react';
 
-    return <RegisterPage />;
+export default function LoginWrapper() {
+    const { data: session, status } = useSession();
+    const router = useRouter();
+    
+    useEffect(() => {
+        if (status === "authenticated") {
+            router.push('/');
+        }
+    }, [status, router]);
+
+    if (status === "loading") {
+        return <div>Chargement...</div>;
+    }
+    
+    if (status === "unauthenticated") {
+        return <Login />;
+    }
+    
+    return null;
 }

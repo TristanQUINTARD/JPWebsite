@@ -1,7 +1,6 @@
-import { handlers } from "../../../../auth" // Referring to the auth.ts we just created
+import { GET, POST } from "../../../../auth"
+import bcrypt from 'bcryptjs';
 
+// Vous pouvez ajouter d'autres logiques ici si nécessaire, mais n'exportez pas une nouvelle fonction POST
 
-export const { GET, POST } = handlers
-
-
-export const runtime = "edge" // optional
+export { GET, POST }

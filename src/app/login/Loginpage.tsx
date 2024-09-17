@@ -4,12 +4,11 @@ import { Label } from "@radix-ui/react-label";
 import Input from "../Components/ui/Input";
 import { Button } from "../Components/ui/Button";
 import Link from 'next/link';
-import { login } from '@/src/actions/user';
-  // Importez signIn de votre fichier auth.ts
-import { redirect } from 'next/navigation';
+import { signIn } from "next-auth/react";
+import { useRouter } from 'next/navigation';
 
-
-const Login = async () => {
+const Login = () => {
+    const router = useRouter();
     const [formData, setFormData] = useState({
         email: '',
         password: ''
@@ -23,18 +22,19 @@ const Login = async () => {
         }));
     };
 
-    const session = await getSession();
-    const user = session?.user;
-    if (user) redirect('/');
-
-
     const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
         e.preventDefault();
         try {
-            const formDataObj = new FormData(e.currentTarget);
-            const result = await signIn(formDataObj);
-            if (result) {
-                setError(result.toString());
+            const result = await signIn('credentials', {
+                redirect: false,
+                email: formData.email,
+                password: formData.password,
+                callbackUrl: '/'
+            });
+            if (result?.error) {
+                setError(result.error);
+            } else if (result?.ok) {
+                router.push(result.url || '/');
             }
         } catch (error) {
             setError("Une erreur s'est produite lors de la connexion.");
@@ -43,16 +43,11 @@ const Login = async () => {
 
     const handleGoogleSignIn = async () => {
         try {
-            const result = await signIn("google", {
-                redirect: false,
+            await signIn("google", {
+                redirect: true,
                 callbackUrl: "/",
             });
-            if (result?.error) {
-                setError(result.error);
-            } else {
-                // Gérez la redirection ou la mise à jour de l'état ici
-                // Par exemple, vous pouvez utiliser window.location.href = "/" pour rediriger
-            }
+            // La redirection est gérée automatiquement
         } catch (error) {
             setError("Une erreur s'est produite lors de la connexion avec Google.");
         }
