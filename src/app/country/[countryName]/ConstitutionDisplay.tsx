@@ -14,30 +14,30 @@ interface ConstitutionDisplayProps {
 }
 
 const ConstitutionDisplay: React.FC<ConstitutionDisplayProps> = ({ constitution, onUpdateArticle }) => {
-  const [openChapter, setOpenChapter] = useState<number | null>(null);
-  const [editingArticle, setEditingArticle] = useState<number | null>(null);
+  const [editingArticleId, setEditingArticleId] = useState<number | null>(null);
   const [editContent, setEditContent] = useState<string>('');
+  const [openChapter, setOpenChapter] = useState<number | null>(null);
 
-  const chapters = constitution.reduce((acc, article) => {
+  const chapters = constitution?.reduce((acc, article) => {
     if (!acc[article.chapter_id]) {
       acc[article.chapter_id] = [];
     }
     acc[article.chapter_id].push(article);
     return acc;
-  }, {} as Record<number, Article[]>);
+  }, {} as Record<number, Article[]>) ?? {};
 
   const toggleChapter = (chapterId: number) => {
     setOpenChapter(openChapter === chapterId ? null : chapterId);
   };
 
   const startEditing = (article: Article) => {
-    setEditingArticle(article.id);
+    setEditingArticleId(article.id);
     setEditContent(article.content);
   };
 
   const saveEdit = (article: Article) => {
     onUpdateArticle({ ...article, content: editContent });
-    setEditingArticle(null);
+    setEditingArticleId(null);
   };
 
   return (
@@ -65,7 +65,7 @@ const ConstitutionDisplay: React.FC<ConstitutionDisplayProps> = ({ constitution,
                     {articles.map((article) => (
                       <div key={article.id} className="article">
                         <h4 className="article-number">{article.number}</h4>
-                        {editingArticle === article.id ? (
+                        {editingArticleId === article.id ? (
                           <div className="editContainer">
                             <textarea
                               value={editContent}

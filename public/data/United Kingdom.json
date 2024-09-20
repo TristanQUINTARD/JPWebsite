@@ -1,0 +1,101 @@
+{
+    "Constitution": [
+      {
+        "chapter_id": 1,
+        "content": "Parliament Act 1911 - Article 1.\nLimitation des pouvoirs de la Chambre des Lords.\n1. Si un projet de loi (autre qu’un projet de loi public de finances ou de crédits) est rejeté par la Chambre des Lords et que la Chambre des Communes l’a adopté deux fois, avec un intervalle d’au moins un mois entre chaque adoption, il sera présenté au Roi sans l’approbation de la Chambre des Lords, sous réserve de certaines conditions.",
+        "id": 1,
+        "number": "Article 1"
+      },
+      {
+        "chapter_id": 1,
+        "content": "Parliament Act 1911 - Article 2.\nDispositions relatives aux lois financières.\n1. Les projets de loi ayant trait exclusivement à la fiscalité, ou aux crédits pour les services publics, sont soumis à des règles spéciales. Si la Chambre des Lords rejette ou retarde un tel projet de loi, la Chambre des Communes peut le présenter au Roi directement après l’avoir adopté une première fois.",
+        "id": 2,
+        "number": "Article 2"
+      },
+      {
+        "chapter_id": 1,
+        "content": "Parliament Act 1911 - Article 3.\nDurée du Parlement.\n1. La durée de la législature parlementaire est réduite de sept à cinq ans.",
+        "id": 3,
+        "number": "Article 3"
+      },
+      {
+        "chapter_id": 2,
+        "content": "Parliament Act 1949 - Article 1.\nModification de la durée des délais.\n1. Le délai nécessaire pour la rediscussion d’un projet de loi par la Chambre des Communes (après un rejet de la Chambre des Lords) est réduit à un an au lieu de deux ans.",
+        "id": 4,
+        "number": "Article 1"
+      },
+      {
+        "chapter_id": 2,
+        "content": "Parliament Act 1949 - Article 2.\nLimitation des pouvoirs de la Chambre des Lords.\n1. La Chambre des Lords ne peut bloquer un projet de loi pendant plus de deux sessions parlementaires (au lieu de trois), à condition qu’un délai d’un an s’écoule entre les deux sessions.\n2. Si un projet de loi est adopté par la Chambre des Communes pendant deux sessions consécutives et que la Chambre des Lords le rejette à chaque fois, il peut être présenté au Roi sans l’accord de la Chambre des Lords.",
+        "id": 5,
+        "number": "Article 2"
+      },
+      {
+        "chapter_id": 1,
+        "content": "Parliament Act 1911 - Article 4.\nDisposition relative à la présentation des projets de loi au Roi.\n1. Lorsque la Chambre des Communes adopte un projet de loi pour la seconde fois dans les conditions prévues par l'article 1, il est présenté au Roi par le Président de la Chambre des Communes.",
+        "id": 6,
+        "number": "Article 4"
+      },
+      {
+        "chapter_id": 1,
+        "content": "Parliament Act 1911 - Article 5.\nInterprétation des lois financières.\n1. Aux fins de la présente loi, un projet de loi public est un projet relatif exclusivement aux finances (impôts, crédits, charges), et toute question de savoir si un projet de loi est de cette nature est tranchée par le Speaker (président) de la Chambre des Communes.",
+        "id": 7,
+        "number": "Article 5"
+      },
+      {
+        "chapter_id": 1,
+        "content": "Parliament Act 1911 - Article 6.\nModification de la loi.\n1. Le Parlement a la faculté de modifier ou d'abroger tout ou partie de cette loi, selon la procédure législative ordinaire.",
+        "id": 8,
+        "number": "Article 6"
+      },
+      {
+        "chapter_id": 2,
+        "content": "Parliament Act 1949 - Article 3.\nCourte durée.\n1. La présente loi est citée comme la Parliament Act 1949 et doit être interprétée comme faisant partie de la Parliament Act 1911.",
+        "id": 9,
+        "number": "Article 3"
+      },
+      {
+        "chapter_id": 2,
+        "content": "Parliament Act 1949 - Article 4.\nApplication aux projets de loi en cours.\n1. Les dispositions de la Parliament Act 1949 s’appliquent à tous les projets de loi en cours de discussion lors de son entrée en vigueur.",
+        "id": 10,
+        "number": "Article 4"
+      },
+      {
+        "chapter_id": 1,
+        "content": "Parliament Act 1911 - Article 7.\nApplication territoriale.\n1. La Parliament Act 1911 s’applique à l’ensemble du Royaume-Uni et peut être étendue aux colonies et territoires dépendants, sous réserve de modifications législatives adaptées aux circonstances locales.",
+        "id": 11,
+        "number": "Article 7"
+      },
+      {
+        "chapter_id": 1,
+        "content": "Parliament Act 1911 - Article 8.\nEntrée en vigueur.\n1. La Parliament Act 1911 entre en vigueur immédiatement après son adoption, sauf indication contraire spécifiée par une disposition législative future.",
+        "id": 12,
+        "number": "Article 8"
+      },
+      {
+        "chapter_id": 1,
+        "content": "Parliament Act 1911 - Article 9.\nDispositions transitoires.\n1. Toute loi adoptée sous les dispositions précédentes avant la mise en vigueur de la Parliament Act 1911 conserve sa validité. Les projets de loi en cours d’examen au moment de l’entrée en vigueur de cette loi peuvent être poursuivis selon les procédures déjà entamées.",
+        "id": 13,
+        "number": "Article 9"
+      },
+      {
+        "chapter_id": 2,
+        "content": "Parliament Act 1949 - Article 5.\nLimitation des pouvoirs.\n1. La Parliament Act 1949 impose des limites strictes au pouvoir de la Chambre des Lords en ce qui concerne les délais de révision des projets de loi soumis par la Chambre des Communes.",
+        "id": 14,
+        "number": "Article 5"
+      },
+      {
+        "chapter_id": 2,
+        "content": "Parliament Act 1949 - Article 6.\nRévisions législatives.\n1. Toute révision future de la Parliament Act 1911 ou de la Parliament Act 1949 doit être soumise à une procédure législative spéciale impliquant l'approbation explicite de la Chambre des Communes.",
+        "id": 15,
+        "number": "Article 6"
+      },
+      {
+        "chapter_id": 2,
+        "content": "Parliament Act 1949 - Article 7.\nInterprétation.\n1. Pour toute disposition ambiguë ou non précisée dans la Parliament Act 1949, l'interprétation doit être faite en référence aux principes établis dans la Parliament Act 1911.",
+        "id": 16,
+        "number": "Article 7"
+      }
+    ]
+  }
+  

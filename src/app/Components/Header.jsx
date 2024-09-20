@@ -28,10 +28,7 @@ const Header = () => {
 
     return (
         <div className="py-5 px-5 md:px12 lg:px-28">
-            <div className="flex justify-between items-center">
-                <Image alt="logo" width={150} height={50} className="w-[130px] sm:w-auto" />
-                <button className="flex items-center gap-2 px-4 py-2 bg-primary text-black rounded-lg border border-solid bordel-black shadow-[-7 px_7px_0px_#000000]">Login <Image src={assets}/></button>
-            </div>
+            
             <div className="text-center my-8">
                 <h1 className="text-3xl sm:text-5xl font font-medium">Latest Blogs</h1>
                 <p className="mt-10 max-w-[740px] m-auto text-sm sm:text-base">Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis animi saepe temporibus, accusantium corporis assumenda dolore dolorum laboriosam distinctio explicabo eligendi voluptatem fugit veritatis, sed, atque dolor! Debitis, ab asperiores!</p>

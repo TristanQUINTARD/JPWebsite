@@ -6,10 +6,12 @@ import axios from "axios";
 import { assets } from "../../Assets/assets"
 import dynamic from 'next/dynamic';
 import "./page.css";
+import { useSession } from "next-auth/react";
 
 const Chart = dynamic(() => import('react-apexcharts'), { ssr: false });
 
 const RichTextEditor = () => {
+  const { data: session } = useSession();
   const [image, setImage] = useState(null);
   const [data, setData] = useState({
     title: "",
@@ -117,6 +119,7 @@ const RichTextEditor = () => {
     formData.append("category", data.category);
     formData.append("content", editorRef.current.innerHTML);
     formData.append("tags", JSON.stringify(tags));
+    formData.append("authorEmail", session?.user?.email || 'anonymous');
     if (image) {
       formData.append("image", image);
     }

@@ -3,11 +3,11 @@ import React from "react";
 import Image from "next/image";
 import Link from "next/link";
 
-const Blogitem = ({ title, description, category, image, id }) => {
-    // Vérifier que les props ne sont pas undefined
-    if (!title || !description || !category || !image || !id) {
+const Blogitem = ({ title, description, category, image, id, date, authorEmail, tags }) => {
+    // Vérification des props
+    if (!title || !description || !category || !id) {
         console.error("Un ou plusieurs props manquent.");
-        return null; // Return null or some fallback UI if props are missing
+        return null;
     }
 
     return (
@@ -26,10 +26,23 @@ const Blogitem = ({ title, description, category, image, id }) => {
                 <h5 className="mb-2 text-lg font-medium tracking-tight text-gray-900">{title}</h5>
                 <p className="mb-3 text-sm tracking-tight text-gray-700"
                 dangerouslySetInnerHTML={{ __html: description.slice(0,120) }}></p>
+                <p className="text-xs text-gray-500 mb-2">Par {authorEmail} le {new Date(date).toLocaleDateString()}</p>
+                {tags && tags.length > 0 && (
+                    <div className="mb-3">
+                        {tags.map((tag, index) => (
+                            <span key={index} className="inline-block bg-gray-200 rounded-full px-3 py-1 text-xs font-semibold text-gray-700 mr-2 mb-2">
+                                {tag}
+                            </span>
+                        ))}
+                    </div>
+                )}
                 <Link href={`/blogs/${id}`} legacyBehavior>
                     <a className="inline-flex items-center py-2 font-semibold text-center">
-                        Read More
-                        <Image src={image} alt="Lire la suite" className="ml-2" width={12} height={12} />
+                        Lire la suite
+                        <svg className="w-4 h-4 ml-2" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="2" fill="none" strokeLinecap="round" strokeLinejoin="round">
+                            <path d="M5 12h14"></path>
+                            <path d="M12 5l7 7-7 7"></path>
+                        </svg>
                     </a>
                 </Link>
             </div>

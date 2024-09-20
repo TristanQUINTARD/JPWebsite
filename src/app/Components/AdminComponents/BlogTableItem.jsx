@@ -1,21 +1,14 @@
 import React from "react";
-import Image from "next/image";
 
-const BlogTableItem = ({ title, date, deleteBlog, id}) => {
-
-    const BlogDate = new Date(date);
-
+const BlogTableItem = ({ id, title, category, authorEmail, date, deleteBlog }) => {
     return (
-        <tr className="bg-white border-b ">
-            
-            <td className="px-6 py-4">
-                {title?title:"No title"}
-            </td>
-            <td className="px-6 py-4">
-                {BlogDate.toDateString()}
-            </td>
-            <td onClick={()=>deleteBlog(id)} className="px-6 py-4 cursor-pointer">
-                x
+        <tr className='bg-white border-b'>
+            <td className='px-6 py-4 font-medium text-gray-900 whitespace-nowrap'>{title}</td>
+            <td className='px-6 py-4'>{category}</td>
+            <td className='px-6 py-4'>{authorEmail}</td>
+            <td className='px-6 py-4'>{date}</td>
+            <td className='px-6 py-4'>
+                <button onClick={() => deleteBlog(id)} className='font-medium text-blue-600 hover:underline'>Supprimer</button>
             </td>
         </tr>
     );

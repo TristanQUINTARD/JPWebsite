@@ -37,21 +37,26 @@ export async function POST(request) {
         const timestamp = new Date().getTime();
         const image = formData.get("image");
 
-        if (!image) {
-            return NextResponse.json({ error: "Aucune image fournie" }, { status: 400 });
+        let imgUrl = '';
+        if (image) {
+            const imageByteData = await image.arrayBuffer();
+            const buffer = Buffer.from(imageByteData);
+            const imagePath = `public/${timestamp}_${image.name}`;
+            await writeFile(imagePath, buffer);
+            imgUrl = `/${timestamp}_${image.name}`;
         }
 
-        const imageByteData = await image.arrayBuffer();
-        const buffer = Buffer.from(imageByteData);
-        const imagePath = `public/${timestamp}_${image.name}`;
-        await writeFile(imagePath, buffer);
-
-        const imgUrl = `/${timestamp}_${image.name}`;
+        
+        
         const blogData = {
             title: formData.get("title"),
             description: formData.get("description"),
             category: formData.get("category"),
             image: imgUrl,
+            content: formData.get("content"),
+            tags: formData.get("tags"),
+            authorEmail: formData.get("authorEmail") || 'anonymous', // Ajout de l'email de l'auteur
+            date: new Date(), // Ajout de la date de création
         };
 
         await BlogModel.create(blogData);

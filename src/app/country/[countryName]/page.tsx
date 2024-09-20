@@ -82,7 +82,7 @@ const CountryPage: React.FC = () => {
 
   const handleItemClick = (institution: Institution) => {
     console.log('Institution sélectionnée:', institution);
-    const additionalDetails = countrySpecificData?.Institutions.find(
+    const additionalDetails = countrySpecificData?.Institutions?.find(
       (inst) => inst.Nom === institution.Nom
     );
 
