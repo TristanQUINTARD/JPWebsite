@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import { auth } from "@/src/auth"
 import getServerSession from "next-auth";
 import { authConfig } from "@/auth.config";
@@ -12,3 +13,19 @@ export async function getSession() {
         return await getSession();
     }
 }
+=======
+import { auth } from "@/src/auth"
+import getServerSession from "next-auth";
+import { authConfig } from "@/auth.config";
+import { getSession } from "next-auth/react";
+
+export async function getSession() {
+    if (typeof window === "undefined") {
+        // Côté serveur
+        return await getServerSession(authConfig);
+    } else {
+        // Côté client
+        return await getSession();
+    }
+}
+>>>>>>> 4448097 (ajout name sur list Articles, Lettrine article + box name)

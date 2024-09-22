@@ -1,0 +1,84 @@
+.pageLayout {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .container {
+    max-width: 800px;
+    width: 100%;
+  }
+  
+  .paper {
+    background-color: #fff;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 40px;
+  }
+  
+  .authorBox {
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    font-size: 14px;
+    border-radius: 4px;
+  }
+  
+  .title {
+    font-size: 32px;
+    color: #333;
+    margin-bottom: 20px;
+    line-height: 1.2;
+  }
+  
+  .metaInfo {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+    font-size: 14px;
+  }
+  
+  .category {
+    background-color: #f0f0f0;
+    color: #333;
+    padding: 5px 10px;
+    border-radius: 20px;
+  }
+  
+  .date {
+    color: #666;
+  }
+  
+  .contentBox {
+    line-height: 1.6;
+  }
+  
+  .firstLetter {
+    float: left;
+    font-size: 60px;
+    line-height: 1;
+    font-weight: bold;
+    margin-right: 10px;
+    color: #333;
+  }
+  
+  .content {
+    font-size: 18px;
+    color: #444;
+  }
+  
+  @media (max-width: 768px) {
+    .pageLayout {
+      flex-direction: column;
+    }
+  
+    .authorBox {
+      position: static;
+      align-self: flex-start;
+      margin-bottom: 20px;
+    }
+  }
