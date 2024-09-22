@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 "use client";
 
 import { useSession } from "next-auth/react";
@@ -16,7 +15,6 @@ export default function RegisterWrapper() {
     }, [session, status, router]);
 
     return <RegisterPage />;
-=======
 "use client";
 
 import { useSession } from "next-auth/react";
@@ -34,5 +32,4 @@ export default function RegisterWrapper() {
     }, [session, status, router]);
 
     return <RegisterPage />;
->>>>>>> 4448097 (ajout name sur list Articles, Lettrine article + box name)
 }

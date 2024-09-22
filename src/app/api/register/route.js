@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import User from "../../../../lib/models/User";
 import { ConnectDB } from "../../../../lib/config/db";
 import bcrypt from "bcryptjs"; // https://www.npmjs.com/package/bcryptjs npm install bcryptjs
@@ -34,7 +33,6 @@ export const POST = async (request) => {
         return new NextResponse("Server error", { status: 500 });
     }
 };
-=======
 import User from "../../../../lib/models/User";
 import { ConnectDB } from "../../../../lib/config/db";
 import bcrypt from "bcryptjs"; // https://www.npmjs.com/package/bcryptjs npm install bcryptjs
@@ -72,4 +70,3 @@ export const POST = async (request) => {
         return new NextResponse("Server error", { status: 500 });
     }
 };
->>>>>>> 4448097 (ajout name sur list Articles, Lettrine article + box name)

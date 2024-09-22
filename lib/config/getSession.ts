@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import { auth } from "@/src/auth"
 import getServerSession from "next-auth";
 import { authConfig } from "@/auth.config";
@@ -13,7 +12,6 @@ export async function getSession() {
         return await getSession();
     }
 }
-=======
 import { auth } from "@/src/auth"
 import getServerSession from "next-auth";
 import { authConfig } from "@/auth.config";
@@ -28,4 +26,3 @@ export async function getSession() {
         return await getSession();
     }
 }
->>>>>>> 4448097 (ajout name sur list Articles, Lettrine article + box name)

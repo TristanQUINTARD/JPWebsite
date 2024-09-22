@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import mongoose from 'mongoose';
 
 // Définir le schéma pour le blog
@@ -33,7 +32,6 @@ const BlogSchema = new mongoose.Schema({
 const BlogModel = mongoose.models.Blog || mongoose.model("Blog", BlogSchema);
 
 export default BlogModel;
-=======
 import mongoose from "mongoose";
 
 // Définir le schéma pour le blog
@@ -83,4 +81,3 @@ const BlogSchema = new mongoose.Schema({
 const BlogModel = mongoose.models.Blog || mongoose.model("Blog", BlogSchema);
 
 export default BlogModel;
->>>>>>> 4448097 (ajout name sur list Articles, Lettrine article + box name)
