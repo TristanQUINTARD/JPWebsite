@@ -14,8 +14,7 @@ export default function Layout({children}) {
         
         
         <>
-            <ToastContainer theme="dark"/>
-            <NavBar />
+            
             <ToastContainer theme="dark"/>
             <NavBar />
             <div className="flex">

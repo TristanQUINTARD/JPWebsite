@@ -68,7 +68,7 @@ html {
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
 }
 
-@media (min-width: 768px) {
+
 @media (min-width: 768px) {
   .responsive-grid {
     gap: 2rem;
