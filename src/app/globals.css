@@ -3,77 +3,65 @@
 @tailwind utilities;
 
 :root {
-  /* Mode clair */
-  --foreground-rgb: 33, 33, 33;
-  --background-start-rgb: 250, 250, 250;
-  --background-end-rgb: 255, 255, 255;
-  --primary-color: #858181;
+  --primary-color: #e3001b;
   --secondary-color: #420f1a;
   --accent-color: #630e63;
-  --text-color: #333333;
-  --background-color: #ffffff;
-  --card-background: #f0f0f0;
+  --text-color: #ffffff;
+  --background-color: #e3001b;
+  --card-background: #ffffff;
   --border-color: #dddddd;
 }
 
 [data-theme='dark'] {
-  /* Mode sombre */
-  --foreground-rgb: 245, 245, 245;
-  --background-start-rgb: 18, 18, 18;
-  --background-end-rgb: 30, 30, 30;
   --primary-color: #ff9c97;
   --secondary-color: #e30032;
   --accent-color: #880011;
   --text-color: #e0e0e0;
-  --background-color: #121212;
+  --background-color: #420f1a;
   --card-background: #1e1e1e;
   --border-color: #2a2a2a;
 }
 
 body {
   color: var(--text-color);
-  background-color: var(--primary-color);
+  background-color: var(--background-color);
   font-family: 'Inter', sans-serif;
   line-height: 1.8;
   font-size: 16px;
   transition: background-color 0.3s ease, color 0.3s ease;
 }
 
-/* Responsive typography */
 html {
   font-size: 16px;
 }
 
 @media screen and (min-width: 1024px) {
   html {
-    font-size: 20px;
+    font-size: 18px;
   }
 }
 
-/* Modern scrollbar */
 ::-webkit-scrollbar {
   width: 10px;
 }
 
 ::-webkit-scrollbar-track {
-  background: rgba(var(--background-start-rgb), 0.1);
+  background: rgba(255, 255, 255, 0.1);
 }
 
 ::-webkit-scrollbar-thumb {
-  background: rgba(var(--foreground-rgb), 0.2);
+  background: rgba(255, 255, 255, 0.2);
   border-radius: 5px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: rgba(var(--foreground-rgb), 0.4);
+  background: rgba(255, 255, 255, 0.4);
 }
 
-/* Smooth transitions */
 * {
   transition: background-color 0.3s ease, color 0.3s ease, transform 0.3s ease;
 }
 
-/* Responsive grid */
 .responsive-grid {
   display: grid;
   gap: 1.5rem;
@@ -81,46 +69,104 @@ html {
 }
 
 @media (min-width: 768px) {
+@media (min-width: 768px) {
   .responsive-grid {
     gap: 2rem;
   }
 }
 
-/* Additional styles for notepad-like appearance */
-.notepad {
-  max-width: 800px;
-  margin: 0 auto;
-  padding: 2rem;
-  background-color: var(--card-background);
-  box-shadow: 0 4px 6px rgba(var(--foreground-rgb), 0.1);
-  border-radius: 8px;
-  border-top: 4px solid var(--primary-color);
+@layer components {
+  .blog-page-wrapper {
+    @apply min-h-screen bg-white pt-16;
+  }
+
+  .blog-page-layout {
+    @apply flex justify-center p-5 font-sans;
+  }
+
+  .blog-container {
+    @apply max-w-3xl w-full;
+  }
+
+  .blog-paper {
+    @apply bg-white shadow-md p-8 rounded-lg;
+  }
+
+  .blog-title {
+    @apply text-3xl text-gray-800 mb-5 leading-tight;
+  }
+
+  .blog-meta-info {
+    @apply flex justify-between items-center mb-5 text-sm;
+  }
+
+  .blog-category {
+    @apply bg-gray-200 text-gray-700 px-3 py-1 rounded-full;
+  }
+
+  .blog-date {
+    @apply text-gray-600;
+  }
+
+  .blog-image-container {
+    @apply mb-5;
+  }
+
+  .blog-featured-image {
+    @apply w-full h-auto rounded-lg;
+  }
+
+  .blog-content-box {
+    @apply leading-relaxed;
+  }
+
+  .blog-content {
+    @apply text-lg text-gray-700;
+  }
+
+  .blog-content p {
+    @apply mb-4;
+  }
+
+  .blog-content h2, .blog-content h3 {
+    @apply mt-6 mb-3 text-gray-800 font-semibold;
+  }
+
+  .blog-content ul, .blog-content ol {
+    @apply mb-4 pl-5 list-disc;
+  }
+
+  .blog-content blockquote {
+    @apply border-l-4 border-gray-300 pl-4 italic text-gray-600 my-4;
+  }
+
+  .blog-tags {
+    @apply mt-8;
+  }
+
+  .blog-tag {
+    @apply inline-block bg-gray-200 text-gray-700 px-3 py-1 rounded-full mr-2 mb-2 text-sm;
+  }
+
+  .blog-loading, .blog-error {
+    @apply text-center p-8 text-lg text-gray-600;
+  }
 }
 
-.notepad h1, .notepad h2, .notepad h3 {
-  margin-top: 2rem;
-  margin-bottom: 1rem;
-  font-weight: 600;
-  color: var(--primary-color);
-}
+@media (max-width: 768px) {
+  .blog-page-layout {
+    @apply p-3;
+  }
 
-.notepad p {
-  margin-bottom: 1.5rem;
-}
+  .blog-paper {
+    @apply p-5;
+  }
 
-.notepad ul, .notepad ol {
-  margin-bottom: 1.5rem;
-  padding-left: 2rem;
-}
+  .blog-title {
+    @apply text-2xl;
+  }
 
-.notepad li {
-  margin-bottom: 0.5rem;
-}
-
-.notepad blockquote {
-  border-left: 4px solid var(--secondary-color);
-  padding-left: 1rem;
-  margin-left: 0;
-  font-style: italic;
-  color: var(--accent-color);
+  .blog-content {
+    @apply text-base;
+  }
 }

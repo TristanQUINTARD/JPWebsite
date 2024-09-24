@@ -22,6 +22,9 @@ const NavBar = () => {
         <li><Link href="/" className='hover:text-accent'>Accueil</Link></li>
         <li><Link href="/about" className='hover:text-accent'>A propos</Link></li>
         <li><Link href="/planisphere" className='hover:text-accent'>Carte</Link></li>
+        {session && (
+          <li><Link href="/admin/addProduct" className='hover:text-accent'>Publier un article</Link></li>
+        )}
         <li><Link href="/methodology" className='hover:text-accent'>Rédaction Méthodologique</Link></li>
         <li className='relative'>
           <button
@@ -40,9 +43,8 @@ const NavBar = () => {
             </ul>
           )}
         </li>
-        <li><Link href="/recent" className='hover:text-accent'>Articles récents</Link></li>
-        <li><Link href="/regions" className='hover:text-accent'>Articles par régions</Link></li>
         <li><Link href="/join" className='hover:text-accent'>Adhérer</Link></li>
+        <li><Link href="/bibliography" className="hover:text-accent">Bibliographie</Link></li>
         <li><Link href="/shop" className='hover:text-accent'>Boutique</Link></li>
         <li><Link href="/roundtable" className='hover:text-accent'>Table Ronde</Link></li>
         

@@ -7,6 +7,7 @@ import './page.css';
 import ParliamentChart from './ParliamentChart';
 import { motion, AnimatePresence } from 'framer-motion';
 import ConstitutionDisplay from './ConstitutionDisplay';
+import Navbar from "@/src/app/Components/auth/NavBar"
 
 interface Party {
   seats: number;
@@ -118,9 +119,7 @@ const CountryPage: React.FC = () => {
 
   return (
     <div className="app-container">
-      <nav className="navbar">
-        <div className="navbar-brand">Mon Application</div>
-      </nav>
+      <Navbar />
       <main className="main-content">
         <aside className="sidebar">
           {institutionsData && (
