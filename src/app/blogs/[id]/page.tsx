@@ -1,8 +1,8 @@
-
 "use client"
 import { useEffect, useState } from 'react';
 import axios from 'axios';
 import styles from "./page.module.css";
+import NavBar from "../../Components/auth/NavBar";
 
 const Page = ({ params }) => {
   const [data, setData] = useState(null);
@@ -29,6 +29,8 @@ const Page = ({ params }) => {
   if (error) return <p>Error loading blog data.</p>;
 
   return (
+    <>
+    <NavBar />
     <div className={styles.pageLayout}>
       <div className={styles.authorBox}>
         
@@ -52,6 +54,7 @@ const Page = ({ params }) => {
         </article>
       </div>
     </div>
+    </>
   );
 };
 

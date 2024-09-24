@@ -1,4 +1,3 @@
-
 "use client";
 import React, { useState, useRef, useCallback, useEffect } from 'react';
 import { toast } from 'react-toastify';
@@ -17,7 +16,7 @@ const RichTextEditor = () => {
   const [data, setData] = useState({
     title: "",
     description: "",
-    category: "Startup",
+    category: "Social Issues", // Changer la catégorie par défaut à une valeur valide
   });
   const [editorContent, setEditorContent] = useState('');
   const [tags, setTags] = useState([]);
@@ -146,7 +145,7 @@ const RichTextEditor = () => {
         setData({
           title: "",
           description: "",
-          category: "Startup",
+          category: "Social Issues", // Changer la catégorie par défaut à une valeur valide
         });
         setEditorContent('');
         setTags([]);
@@ -251,11 +250,11 @@ const RichTextEditor = () => {
           value={data.category} 
           className="form-input w-full"
         >
-          <option value="Technology">Technologie</option>
-          <option value="Science">Science</option>
-          <option value="Business">Business</option>
-          <option value="Health">Santé</option>
-          <option value="Lifestyle">Style de vie</option>
+          <option value="Social Issues">Problématiques Sociales</option>
+          <option value="History">Histoire</option>
+          <option value="Domestic Politics">Politique Intérieure</option>
+          <option value="Philosophy">Philosophie</option>
+          <option value="Literary Criticism">Critique Littéraire</option>
         </select>
       </div>
 

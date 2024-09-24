@@ -1,4 +1,3 @@
-
 import React, { useState, useEffect } from "react";
 import axios from "axios";
 import Blogitem from "./Blogitem";
@@ -24,12 +23,12 @@ export const BlogList = () => {
     return (
         <div>
             <div className="flex justify-center gap-6 my-10">
-                <button onClick={() => setMenu("All")} className={menu ==="All"?"bg-black text-white py-1 px-4 rounded-sm":""}>All</button>
-                <button onClick={() => setMenu("Technology")} className={menu==="Technology"?"bg-black text-white py-1 px-4 rounded-sm":""}>Technology</button>
-                <button onClick={() => setMenu("Science")} className={menu==="Science"?"bg-black text-white py-1 px-4 rounded-sm":""}>Science</button>
-                <button onClick={() => setMenu("Business")} className={menu==="Business"?"bg-black text-white py-1 px-4 rounded-sm":""}>Business</button>
-                <button onClick={() => setMenu("Health")} className={menu==="Health"?"bg-black text-white py-1 px-4 rounded-sm":""}>Health</button>
-                <button onClick={() => setMenu("Startup")} className={menu==="Startup"?"bg-black text-white py-1 px-4 rounded-sm":""}>Startup</button>
+                <button onClick={() => setMenu("All")} className={menu ==="All"?"bg-black text-white py-1 px-4 rounded-sm":""}>Tout</button>
+                <button onClick={() => setMenu("Social Issues")} className={menu==="Social Issues"?"bg-black text-white py-1 px-4 rounded-sm":""}>Problématiques Sociales</button>
+                <button onClick={() => setMenu("History")} className={menu==="History"?"bg-black text-white py-1 px-4 rounded-sm":""}>Histoire</button>
+                <button onClick={() => setMenu("Domestic Politics")} className={menu==="Domestic Politics"?"bg-black text-white py-1 px-4 rounded-sm":""}>Politique Intérieure</button>
+                <button onClick={() => setMenu("Philosophy")} className={menu==="Philosophy"?"bg-black text-white py-1 px-4 rounded-sm":""}>Philosophie</button>
+                <button onClick={() => setMenu("Literary Criticism")} className={menu==="Literary Criticism"?"bg-black text-white py-1 px-4 rounded-sm":""}>Critique Littéraire</button>
             </div>
             <div className="flex flex-wrap justify-around gap-1 gap-y-10 mb-16 xl:mx-24">
                 {blogs.filter((item)=> menu==="All" ? true : item.category === menu).map((item, index) => {

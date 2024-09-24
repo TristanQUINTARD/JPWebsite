@@ -1,32 +1,22 @@
-
 "use client";
-const React = require('react');
-const { Children } = require('react');
-
-import ReactDOM from 'react-dom/client'
-
-import Footer from "./Components/Footer";
-import BlogList from "./Components/BlogList";
+import React from 'react';
+import ReactDOM from 'react-dom/client';
 import { ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 import NavBar from './Components/auth/NavBar';
 import Header from './Components/Header';
-
-
-
-
-
-
+import BlogList from "./Components/BlogList";
+import Footer from "./Components/Footer";
+import './globals.css';
 
 export default function Home() {
   return (
-  <>
-    <ToastContainer theme="dark"/>
-    <NavBar/>
-    <Header/>
-    <BlogList/>
-    <Footer/>
-  </>  
+    <>
+      <ToastContainer theme="light" style={{ backgroundColor: 'var(--primary-color)' }}/>
+      <NavBar/>
+      <Header/>
+      <BlogList/>
+      <Footer/>
+    </>
   );
 }
-
