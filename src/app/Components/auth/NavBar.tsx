@@ -23,7 +23,10 @@ const NavBar = () => {
         <li><Link href="/about" className='hover:text-accent'>A propos</Link></li>
         <li><Link href="/planisphere" className='hover:text-accent'>Carte</Link></li>
         {session && (
-          <li><Link href="/admin/addProduct" className='hover:text-accent'>Publier un article</Link></li>
+          <>
+            <li><Link href="/admin/addProduct" className='hover:text-accent'>Publier un article</Link></li>
+            <li><Link href="/sondage" className="hover:text-accent">Sondages</Link></li>
+          </>
         )}
         <li><Link href="/methodology" className='hover:text-accent'>Rédaction Méthodologique</Link></li>
         <li className='relative'>
@@ -36,15 +39,13 @@ const NavBar = () => {
           {showConceptsMenu && (
             <ul className='absolute left-0 mt-2 w-48 bg-card border border-border rounded-md shadow-lg'>
               <li><Link href="/concepts/social" className='block px-4 py-2 hover:bg-accent hover:text-background'>Problématiques Sociales</Link></li>
-              <li><Link href="/concepts/history" className='block px-4 py-2 hover:bg-accent hover:text-background'>Histoire</Link></li>
-              <li><Link href="/concepts/politics" className='block px-4 py-2 hover:bg-accent hover:text-background'>Politique Intérieure</Link></li>
-              <li><Link href="/concepts/philosophy" className='block px-4 py-2 hover:bg-accent hover:text-background'>Philosophie</Link></li>
-              <li><Link href="/concepts/literature" className='block px-4 py-2 hover:bg-accent hover:text-background'>Critique Littéraire</Link></li>
+              <li><Link href="/author" className="hover:text-accent">Par auteurs</Link></li>
             </ul>
           )}
         </li>
         <li><Link href="/join" className='hover:text-accent'>Adhérer</Link></li>
         <li><Link href="/bibliography" className="hover:text-accent">Bibliographie</Link></li>
+        
         <li><Link href="/shop" className='hover:text-accent'>Boutique</Link></li>
         <li><Link href="/roundtable" className='hover:text-accent'>Table Ronde</Link></li>
         
