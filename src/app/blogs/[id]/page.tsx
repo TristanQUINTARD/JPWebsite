@@ -1,10 +1,11 @@
 "use client"
-import { useEffect, useState } from 'react';
+import { useEffect, useState, use } from 'react';
 import axios from 'axios';
 import styles from "./page.module.css";
 import NavBar from "../../Components/auth/NavBar";
 
 const Page = ({ params }) => {
+  const resolvedParams = use(params);
   const [data, setData] = useState(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
@@ -13,7 +14,7 @@ const Page = ({ params }) => {
     const fetchBlogData = async () => {
       try {
         const response = await axios.get('/api/blog', {
-          params: { id: params.id }
+          params: { id: resolvedParams.id }
         });
         setData(response.data.blog);
       } catch (err) {
@@ -23,7 +24,7 @@ const Page = ({ params }) => {
       }
     };
     fetchBlogData();
-  }, [params.id]);
+  }, [resolvedParams.id]);
 
   if (loading) return <p>Loading...</p>;
   if (error) return <p>Error loading blog data.</p>;

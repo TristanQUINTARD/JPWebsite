@@ -12,7 +12,7 @@ export	const assets = {
     twitter: "/images/twitter.png",
     linkedin: "/images/linkedin.png",
     instagram: "/images/instagram.png",
-    
+    upload_area: "/images/upload_area.png",
 };
 
 export const blog_data = [{

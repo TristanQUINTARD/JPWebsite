@@ -1,13 +1,12 @@
-import React, { useState, useEffect } from 'react'
+import React from 'react'
 import Link from 'next/link'
 import { Button } from '../ui/Button'
 import { useSession, signOut } from "next-auth/react"
-import { ChevronDown, Sun, Moon } from 'lucide-react'
+import { Sun, Moon } from 'lucide-react'
 import { useTheme } from '../hooks/useTheme'
 
 const NavBar = () => {
   const { data: session } = useSession()
-  const [showConceptsMenu, setShowConceptsMenu] = useState(false)
   const { theme, toggleTheme } = useTheme()
 
   const handleSignOut = async (e: React.MouseEvent) => {
@@ -28,26 +27,8 @@ const NavBar = () => {
             <li><Link href="/sondage" className="hover:text-accent">Sondages</Link></li>
           </>
         )}
-        <li><Link href="/methodology" className='hover:text-accent'>Rédaction Méthodologique</Link></li>
-        <li className='relative'>
-          <button
-            className='flex items-center hover:text-accent'
-            onClick={() => setShowConceptsMenu(!showConceptsMenu)}
-          >
-            Articles par concept <ChevronDown className='ml-1' size={16} />
-          </button>
-          {showConceptsMenu && (
-            <ul className='absolute left-0 mt-2 w-48 bg-card border border-border rounded-md shadow-lg'>
-              <li><Link href="/concepts/social" className='block px-4 py-2 hover:bg-accent hover:text-background'>Problématiques Sociales</Link></li>
-              <li><Link href="/author" className="hover:text-accent">Par auteurs</Link></li>
-            </ul>
-          )}
-        </li>
         <li><Link href="/join" className='hover:text-accent'>Adhérer</Link></li>
         <li><Link href="/bibliography" className="hover:text-accent">Bibliographie</Link></li>
-        
-        <li><Link href="/shop" className='hover:text-accent'>Boutique</Link></li>
-        <li><Link href="/roundtable" className='hover:text-accent'>Table Ronde</Link></li>
         
         {/* Bouton de changement de thème */}
         <li>
