@@ -1,15 +1,21 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+## Présentation
+JPWebsite est un prototype qui peut être réutilisé, d'une revue web pour l'association étudiante Juvenis Prudentia (RNA:W372019882) 
 
-### Prerequisites
+Le site contient les éléments suivant : 
+- S'enregistrer et se connecter pour avoir accès à l'écriture d'article
+- Page d'accueil ouvrant sur tout les articles triables par tag
+- Onglet Carte où un planisphère interactive contient des indicateurs socio-économiques pertinents
+- <img width="1015" height="628" alt="image" src="https://github.com/user-attachments/assets/8957d98c-3074-4006-bfdb-79696f21e753" />
+-<img width="682" height="623" alt="image" src="https://github.com/user-attachments/assets/13566062-d678-420f-84e6-3da10b2f39eb" />
+- En cliquant sur le nom du pays en intitulé, l'accès aux institutions principales du pays sont accessible 
+- <img width="399" height="730" alt="image" src="https://github.com/user-attachments/assets/926af738-1fab-4ac3-b653-f1cf20bd45c0" />
 
-- Node.js 18+ 
-- MongoDB Atlas account ou cluster MongoDB local
 
-### Configuration
 
-1. Clonez le repository
+### Comment lancer le prototype ?
+
+1. Clonez le repository : git clone 
 2. Installez les dépendances:
 
 ```bash
@@ -85,3 +91,4 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
