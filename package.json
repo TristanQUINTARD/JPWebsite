@@ -28,8 +28,6 @@
     "chart.js": "^4.4.3",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
-    "crypto": "^1.0.1",
-    "crypto-browserify": "^3.12.0",
     "d3": "^7.9.0",
     "d3-geo": "^3.1.1",
     "d3-parliament-chart": "^0.0.6",
@@ -44,7 +42,7 @@
     "lodash": "^4.17.21",
     "lucide-react": "^0.428.0",
     "mongoose": "^8.5.3",
-    "next": "^14.2.5",
+    "next": "^15.0.0",
     "next-auth": "^5.0.0-beta.20",
     "parliament-svg": "^3.0.0",
     "quill": "^2.0.2",
@@ -62,12 +60,13 @@
     "styled-components": "^6.1.12",
     "tailwind-merge": "^2.5.2",
     "topojson-client": "^3.1.0",
+    "ts-node": "^10.9.2",
     "winston": "^3.14.2",
     "zod": "^3.23.8"
   },
   "devDependencies": {
     "@types/bcryptjs": "^2.4.6",
-    "@types/node": "^22",
+    "@types/node": "^22.18.12",
     "@types/react": "^18.3.3",
     "@types/react-dom": "^18.3.0",
     "autoprefixer": "^10.4.20",
@@ -76,7 +75,7 @@
     "postcss": "^8.4.47",
     "rimraf": "^6.0.1",
     "tailwindcss": "^3.4.13",
-    "typescript": "^5.5.4",
+    "typescript": "^5.9.3",
     "webpack": "^5.94.0"
   },
   "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
@@ -85,5 +84,14 @@
     "lib": "lib"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Treestan325/JPWebsite.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Treestan325/JPWebsite/issues"
+  },
+  "homepage": "https://github.com/Treestan325/JPWebsite#readme"
 }
