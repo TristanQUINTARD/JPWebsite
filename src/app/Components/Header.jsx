@@ -31,8 +31,8 @@ const Header = () => {
         <div className="py-5 px-5 md:px12 lg:px-28">
             
             <div className="text-center my-8">
-                <h1 className="text-3xl sm:text-5xl font font-medium">Latest Blogs</h1>
-                <p className="mt-10 max-w-[740px] m-auto text-sm sm:text-base">Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis animi saepe temporibus, accusantium corporis assumenda dolore dolorum laboriosam distinctio explicabo eligendi voluptatem fugit veritatis, sed, atque dolor! Debitis, ab asperiores!</p>
+                <h1 className="text-3xl sm:text-5xl font font-medium">Revue de Juvenis Prudentia</h1>
+                <p className="mt-10 max-w-[740px] m-auto text-sm sm:text-base">Juvenis Prudentia est une association et un espace étudiant qui a pour objectif de promouvoir la réflexion et la compréhension des dynamiques politiques, sociales et internationales contemporaines.</p>
                 <form onSubmit={onSubmitHandler} className="flex justify-between max-w-[500px] scale-75 sm:scale-100 mx-auto mt-10 border border-black shadow-[-7px_7px_0px_#000000] ">
                     <input onChange={(e)=>setEmail(e.target.value)} value={email} type="email" placeholder="Enter your email" className="pl-4 outline-none" />
                     <button type="submit" className="border-l border-black py-4 px-4 sm:px-8 active:bg-grey-600 active:text-white">Subscribe</button>
